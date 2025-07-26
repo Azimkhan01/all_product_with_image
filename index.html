@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product List</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background: #f8f9fa;
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .product-card {
+        background: #fff;
+        border-radius: 10px;
+        padding: 15px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .product-card h2 {
+        margin: 0;
+        font-size: 1.4em;
+    }
+    .details {
+        margin: 10px 0;
+        color: #555;
+    }
+    .images {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .images img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 1px solid #ddd;
+    }
+</style>
+</head>
+<body>
+
+<h1>All Products with Images</h1>
+<div id="product-list"></div>
+
+<script>
+async function loadProducts() {
+    try {
+        const response = await fetch('All_Products_WithImages.json');
+        const products = await response.json();
+
+        const container = document.getElementById('product-list');
+
+        products.forEach(product => {
+            const card = document.createElement('div');
+            card.classList.add('product-card');
+
+            card.innerHTML = `
+                <h2>${product["Extract Name"]}</h2>
+                <div class="details"><strong>Botanical Name:</strong> ${product["Botanical Name"]}</div>
+                <div class="details"><strong>Part Used:</strong> ${product["Part Used"]}</div>
+                <div class="details"><strong>Category:</strong> ${product["category_name"]}</div>
+                <div class="details"><strong>Primary Benefit:</strong> ${product["Primary Benefit"]}</div>
+                <div class="details"><strong>ID:</strong> ${product["id"]}</div>
+            `;
+
+            if (product.images && product.images.images && product.images.images.length > 0) {
+                const imgDiv = document.createElement('div');
+                imgDiv.classList.add('images');
+
+                product.images.images.forEach(imgUrl => {
+                    const img = document.createElement('img');
+                    img.src = imgUrl;
+                    img.alt = product["Extract Name"];
+                    imgDiv.appendChild(img);
+                });
+
+                card.appendChild(imgDiv);
+            }
+
+            container.appendChild(card);
+        });
+
+    } catch (error) {
+        console.error('Error loading products:', error);
+    }
+}
+
+loadProducts();
+</script>
+
+</body>
+</html>

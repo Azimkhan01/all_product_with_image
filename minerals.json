@@ -1,0 +1,123 @@
+[
+  {
+    "Extract Name": "Calcium Powder ",
+    "Botanical Name": "Wrightia tinctoria",
+    "Part Used": "Leaf",
+    "Typical Extraction Ratio": 0.12,
+    "Active Compound": "Calcium",
+    "Primary Benefit": "Calcium Powder supports strong bones and teeth, prevents osteoporosis, aids muscle function, nerve signaling, and heart health, and helps blood clotting, promoting overall wellness and reducing calcium deficiency symptoms.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0275"
+  },
+  {
+    "Extract Name": "Magnesium Powder ",
+    "Botanical Name": " Lantana camara ",
+    "Part Used": "Leaf",
+    "Typical Extraction Ratio": 0.04,
+    "Active Compound": "Magnesium",
+    "Primary Benefit": "Magnesium Powder supports muscle function, reduces cramps, boosts energy production, aids nerve health, improves sleep quality, supports heart rhythm, and helps relieve stress, anxiety, and mild headaches naturally.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0276"
+  },
+  {
+    "Extract Name": "Iron Powder ",
+    "Botanical Name": "Murraya koenigii",
+    "Part Used": "Leaf",
+    "Typical Extraction Ratio": 0.036,
+    "Active Compound": "Iron",
+    "Primary Benefit": "Iron Powder helps treat iron deficiency anemia, boosts hemoglobin levels, supports oxygen transport, improves energy, enhances immunity, and promotes healthy pregnancy and cognitive function in a safe dosage.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0277"
+  },
+  {
+    "Extract Name": "Zinc Powder",
+    "Botanical Name": "Psidium guajava",
+    "Part Used": "Leaf",
+    "Typical Extraction Ratio": 0.04,
+    "Active Compound": "Zinc",
+    "Primary Benefit": "Zinc Powder supports immune function, accelerates wound healing, reduces inflammation, treats acne, aids skin regeneration, and may help manage zinc deficiency-related conditions for improved overall health and recovery.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0278"
+  },
+  {
+    "Extract Name": "Sunflower seed Extract  ",
+    "Botanical Name": "Helianthus annuus",
+    "Part Used": "Seed",
+    "Typical Extraction Ratio": "2500ppm, 5000 ppm",
+    "Active Compound": "Selenium",
+    "Primary Benefit": "selenium Powder  supports immune function, acts as a powerful antioxidant, reduces inflammation, promotes thyroid health, and may help prevent certain cancers and heart diseases when taken appropriately.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0279"
+  },
+  {
+    "Extract Name": "Mustard seed Extract  Powder",
+    "Botanical Name": "Brassica nigra",
+    "Part Used": "Seed",
+    "Typical Extraction Ratio": " 200ppm,500ppm, 2500ppm",
+    "Active Compound": "Selenium",
+    "Primary Benefit": "selenium supports immunity, acts as an antioxidant, promotes thyroid health, reduces inflammation, improves heart health, and may help prevent certain cancers and age-related cognitive decline.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0280"
+  },
+  {
+    "Extract Name": "Bamboo Extract Powder ",
+    "Botanical Name": "Bambusa Vulgaris",
+    "Part Used": "Stem and Leaf, Shoot",
+    "Typical Extraction Ratio": 0.7,
+    "Active Compound": "Silica",
+    "Primary Benefit": "Silica from Bambusa vulgaris supports healthy hair, skin, nails, and bones. It promotes collagen production, strengthens connective tissues, and improves joint flexibility and skin elasticity.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0281"
+  },
+  {
+    "Extract Name": "Iodine Powder ",
+    "Botanical Name": "Spinacia oleracea L",
+    "Part Used": "leaf",
+    "Typical Extraction Ratio": 0.005,
+    "Active Compound": "Iodine",
+    "Primary Benefit": "Iodine Powder from Spinacia oleracea (spinach) supports thyroid function, boosts metabolism, enhances brain development, and promotes overall wellness due to its natural iodine and antioxidant content.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0282"
+  },
+  {
+    "Extract Name": "Manganese Powder ",
+    "Botanical Name": "Arthrospira platensis",
+    "Part Used": " whole cells ",
+    "Typical Extraction Ratio": 0.01,
+    "Active Compound": "Manganese",
+    "Primary Benefit": "Manganese Powder from Arthrospira platensis (Spirulina) supports enzyme function, boosts metabolism, and promotes bone health, making it ideal for nutritional and wellness formulations.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0283"
+  },
+  {
+    "Extract Name": "Chromium Extract ",
+    "Botanical Name": "Moringa oleifera",
+    "Part Used": "leaf",
+    "Typical Extraction Ratio": "0.1%, 0.2%",
+    "Active Compound": "Chromium",
+    "Primary Benefit": "Chromium Extract from Moringa oleifera supports healthy metabolism, blood sugar regulation, and energy production. Rich in nutrients, it's used in supplements for weight management and improving insulin sensitivity naturally.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0284"
+  },
+  {
+    "Extract Name": "Manganese Powder ",
+    "Botanical Name": "Arthrospira platensis) & Chlorella \r\nvulgaris",
+    "Part Used": " whole cells ",
+    "Typical Extraction Ratio": 0.015,
+    "Active Compound": "Manganese",
+    "Primary Benefit": "Manganese Powder is derived from Arthrospira platensis and Chlorella vulgaris, offering a natural source of essential trace mineral manganese to support enzyme function, bone health, and antioxidant protection in nutritional and wellness applications.",
+    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
+    "category_name": "Vitamin and Minerals",
+    "id": "P0285"
+  }
+]
