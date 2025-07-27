@@ -1,52 +1,29 @@
 const fs = require('fs');
 
 // Read the product and photo JSON files
-let products = JSON.parse(fs.readFileSync('All_Products.json', 'utf-8'));
+const products = JSON.parse(fs.readFileSync('All_Products.json', 'utf-8'));
 const photos = JSON.parse(fs.readFileSync('photo.json', 'utf-8'));
 
-console.log(Object.keys(photos))
+const newdata = products.map((data) => {
+  // Clean and normalize names
+  const extractName = data['Extract Name']?.trim() || '';
+  const categoryName = data['category_name']?.trim() || '';
 
+  // Find the correct category in photo.json
+  const categoryKey = Object.keys(photos).find(key => key === categoryName);
 
-// let newData = products.map((data,i)=>{
-//   // console.log(data)
+  // Match extract name inside the category (case-insensitive)
+  const particulardata = photos[categoryKey]?.filter(dat =>
+    dat.nam?.trim().toLowerCase() === extractName.toLowerCase()
+  );
 
-  
-// })
-// let i=0
-// for(data of products)
-// {
+  return {
+    ...data,
+    images: particulardata?.[0]?.images || [] // Add images or empty array
+  };
+});
 
-//     console.log('====================================');
-//   console.log(data['Botanical Name'])
-//   console.log(data['category_name'])
-//   console.log(Object.keys(photos).includes(data['category_name']))
-//   console.log('====================================');
-// i++
-// if(i==500)
-// {
-//   break
-// }
+// Write merged data to a new JSON file
+fs.writeFileSync('All_Products_WithImages.json', JSON.stringify(newdata, null, 2), 'utf-8');
 
-
-
-// }
-
-products = products.map((data)=>{data['Extract Name'] = data['Extract Name'].trim()
-  return data
-}) 
-
-const newdata = 
-products.map((data,i)=>{
-  
-  const categorykey = Object.keys(photos).filter((da,i)=> da == data["category_name"])
-  // console.log("the category found is this:",categorykey)
-
-  const particulardata = photos[categorykey].filter((dat,i)=> dat.nam == data['Extract Name'].trim()||dat.nam == data['Extract Name'].trim()   )
-  // console.log(particulardata)
-
-  return {...data,images:particulardata[0]}
-})
-let d = newdata
-fs.writeFileSync('All_Products_WithImages.json', JSON.stringify(d, null, 2), 'utf-8');
-
-// console.log(newdata)
+console.log('✅ File created: All_Products_WithImages.json');

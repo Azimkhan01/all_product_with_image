@@ -26,11 +26,12 @@
         font-size: 1.4em;
     }
     .details {
-        margin: 10px 0;
+        margin: 8px 0;
         color: #555;
     }
     .images {
         display: flex;
+        flex-wrap: wrap;
         gap: 10px;
         margin-top: 10px;
     }
@@ -40,6 +41,10 @@
         object-fit: cover;
         border-radius: 6px;
         border: 1px solid #ddd;
+        transition: transform 0.2s ease-in-out;
+    }
+    .images img:hover {
+        transform: scale(1.1);
     }
 </style>
 </head>
@@ -69,11 +74,11 @@ async function loadProducts() {
                 <div class="details"><strong>ID:</strong> ${product["id"]}</div>
             `;
 
-            if (product.images && product.images.images && product.images.images.length > 0) {
+            if (product.images && product.images.length > 0) {
                 const imgDiv = document.createElement('div');
                 imgDiv.classList.add('images');
 
-                product.images.images.forEach(imgUrl => {
+                product.images.forEach(imgUrl => {
                     const img = document.createElement('img');
                     img.src = imgUrl;
                     img.alt = product["Extract Name"];
