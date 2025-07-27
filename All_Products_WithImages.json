@@ -1002,7 +1002,12 @@
     "Appearance": "25kg",
     "category_name": "Fruit extract",
     "id": "P0361",
-    "images": []
+    "images": [
+      "https://drive.google.com/thumbnail?id=1_NLbQrvVJcQqw65eZid6x5FKq102Aoad&sz=w600",
+      "https://drive.google.com/thumbnail?id=16PZjXGybSq0DW-tlzaBa7lC_jW-NLjAy&sz=w600",
+      "https://drive.google.com/thumbnail?id=1flEAMo6cml4CzSq2dfRTBhViViuW-b8G&sz=w600",
+      "https://drive.google.com/thumbnail?id=1KNv5yNTabfncuVDUa2sPb2Wx2TixTtFh&sz=w600"
+    ]
   },
   {
     "Extract Name": "Grapefruit",
@@ -1017,12 +1022,7 @@
     "Appearance": "25kg",
     "category_name": "Fruit extract",
     "id": "P0362",
-    "images": [
-      "https://drive.google.com/thumbnail?id=1_NLbQrvVJcQqw65eZid6x5FKq102Aoad&sz=w600",
-      "https://drive.google.com/thumbnail?id=16PZjXGybSq0DW-tlzaBa7lC_jW-NLjAy&sz=w600",
-      "https://drive.google.com/thumbnail?id=1flEAMo6cml4CzSq2dfRTBhViViuW-b8G&sz=w600",
-      "https://drive.google.com/thumbnail?id=1KNv5yNTabfncuVDUa2sPb2Wx2TixTtFh&sz=w600"
-    ]
+    "images": []
   },
   {
     "Extract Name": "Guava",
@@ -1464,7 +1464,12 @@
     "Appearance": "25kg",
     "category_name": "Fruit extract",
     "id": "P0385",
-    "images": []
+    "images": [
+      "https://drive.google.com/thumbnail?id=1KF5sHrQaMZOa5fB31HQA-K2PKdzucowo&sz=w600",
+      "https://drive.google.com/thumbnail?id=1YmGazs0f-7152bi69M7JpCEbIek_DJDC&sz=w600",
+      "https://drive.google.com/thumbnail?id=1VYzo8LtYvdoAiCy6dMljOFk4sDmps3gN&sz=w600",
+      "https://drive.google.com/thumbnail?id=1aWRxYTVtemo2ez4vCk-iu1kYfdg5iemD&sz=w600"
+    ]
   },
   {
     "Extract Name": "Strawberry",
