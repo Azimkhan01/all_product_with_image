@@ -1,102 +1,469 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Product List</title>
-<style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Catalogue</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
     body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-        background: #f8f9fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+      color: #e5e7eb;
+      min-height: 100vh;
     }
-    h1 {
-        text-align: center;
-        margin-bottom: 20px;
+
+    .header {
+      background: linear-gradient(135deg, #059669 0%, #10b981 50%, #34d399 100%);
+      padding: 40px 20px;
+      text-align: center;
+      box-shadow: 0 8px 32px rgba(16, 185, 129, 0.3);
     }
+
+    .header h1 {
+      font-size: 3rem;
+      font-weight: 700;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+      margin-bottom: 10px;
+    }
+
+    .header p {
+      font-size: 1.2rem;
+      color: #f0fdf4;
+      opacity: 0.9;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
     .product-card {
-        background: #fff;
-        border-radius: 10px;
-        padding: 15px;
-        margin-bottom: 20px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      background: linear-gradient(145deg, #374151 0%, #4b5563 100%);
+      border-radius: 20px;
+      margin-bottom: 40px;
+      overflow: hidden;
+      box-shadow: 
+        0 20px 40px rgba(0, 0, 0, 0.4),
+        0 0 0 1px rgba(52, 211, 153, 0.1);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid rgba(52, 211, 153, 0.2);
     }
-    .product-card h2 {
-        margin: 0;
-        font-size: 1.4em;
+
+    .product-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 
+        0 32px 64px rgba(0, 0, 0, 0.5),
+        0 0 0 1px rgba(52, 211, 153, 0.3),
+        0 0 40px rgba(52, 211, 153, 0.1);
     }
-    .details {
-        margin: 8px 0;
-        color: #555;
+
+    .product-content {
+      display: grid;
+      grid-template-columns: 1fr 400px;
+      gap: 40px;
+      padding: 40px;
+      align-items: start;
     }
-    .images {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-top: 10px;
+
+    .product-info h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #34d399;
+      margin-bottom: 20px;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     }
-    .images img {
-        width: 100px;
-        height: 100px;
-        object-fit: cover;
-        border-radius: 6px;
-        border: 1px solid #ddd;
-        transition: transform 0.2s ease-in-out;
+
+    .product-details {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin: 30px 0;
     }
-    .images img:hover {
-        transform: scale(1.1);
+
+    .detail-item {
+      background: rgba(16, 185, 129, 0.1);
+      padding: 20px;
+      border-radius: 12px;
+      border: 1px solid rgba(52, 211, 153, 0.2);
+      transition: all 0.3s ease;
     }
-</style>
+
+    .detail-item:hover {
+      background: rgba(16, 185, 129, 0.15);
+      border-color: rgba(52, 211, 153, 0.4);
+    }
+
+    .detail-item strong {
+      color: #10b981;
+      font-size: 1.1rem;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .detail-item span {
+      color: #d1d5db;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .category-tag {
+      display: inline-block;
+      background: linear-gradient(135deg, #059669, #10b981);
+      color: #ffffff;
+      padding: 12px 24px;
+      border-radius: 25px;
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 20px;
+      box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .images-container {
+      position: sticky;
+      top: 20px;
+    }
+
+    .main-image {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+      border-radius: 16px;
+      border: 2px solid rgba(52, 211, 153, 0.3);
+      margin-bottom: 20px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .main-image:hover {
+      border-color: rgba(52, 211, 153, 0.6);
+      transform: scale(1.02);
+    }
+
+    .thumbnail-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+      gap: 12px;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    .thumbnail {
+      width: 100%;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 2px solid rgba(52, 211, 153, 0.2);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      opacity: 0.7;
+    }
+
+    .thumbnail:hover,
+    .thumbnail.active {
+      border-color: #34d399;
+      opacity: 1;
+      transform: scale(1.05);
+    }
+
+    .thumbnail-grid::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .thumbnail-grid::-webkit-scrollbar-track {
+      background: rgba(55, 65, 81, 0.5);
+      border-radius: 3px;
+    }
+
+    .thumbnail-grid::-webkit-scrollbar-thumb {
+      background: rgba(52, 211, 153, 0.5);
+      border-radius: 3px;
+    }
+
+    .thumbnail-grid::-webkit-scrollbar-thumb:hover {
+      background: rgba(52, 211, 153, 0.7);
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.95);
+      backdrop-filter: blur(5px);
+    }
+
+    .modal-content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8);
+    }
+
+    .modal-content img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+
+    .close {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      color: #34d399;
+      font-size: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      z-index: 10000;
+      background: rgba(0, 0, 0, 0.5);
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      backdrop-filter: blur(10px);
+    }
+
+    .close:hover {
+      background: rgba(52, 211, 153, 0.2);
+      transform: scale(1.1);
+    }
+
+    .loading {
+      text-align: center;
+      padding: 80px;
+      font-size: 1.5rem;
+      color: #10b981;
+    }
+
+    .loading::after {
+      content: '';
+      width: 40px;
+      height: 40px;
+      border: 4px solid rgba(52, 211, 153, 0.3);
+      border-left-color: #34d399;
+      border-radius: 50%;
+      display: inline-block;
+      animation: spin 1s linear infinite;
+      margin-left: 20px;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    /* Responsive design */
+    @media (max-width: 1024px) {
+      .product-content {
+        grid-template-columns: 1fr;
+        gap: 30px;
+      }
+      
+      .images-container {
+        position: static;
+        order: -1;
+      }
+      
+      .main-image {
+        height: 250px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .header h1 {
+        font-size: 2rem;
+      }
+      
+      .header p {
+        font-size: 1rem;
+      }
+      
+      .product-content {
+        padding: 20px;
+      }
+      
+      .product-info h2 {
+        font-size: 1.8rem;
+      }
+      
+      .product-details {
+        grid-template-columns: 1fr;
+      }
+      
+      .thumbnail-grid {
+        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+      }
+      
+      .thumbnail {
+        height: 60px;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<h1>All Products with Images</h1>
-<div id="product-list"></div>
+<div class="header">
+  <h1>Premium Product Catalogue</h1>
+  <p>Discover our extensive collection of natural extracts and botanicals</p>
+</div>
+
+<div class="container">
+  <div id="product-list" class="loading">Loading Products...</div>
+</div>
+
+<!-- Modal for image preview -->
+<div id="imgModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <img id="modalImg" src="" alt="Preview"/>
+  </div>
+</div>
 
 <script>
-async function loadProducts() {
+  let currentMainImages = {};
+
+  async function loadProducts() {
     try {
-        const response = await fetch('All_Products_WithImages.json');
-        const products = await response.json();
+      const response = await fetch('All_Products_WithImages.json');
+      const products = await response.json();
+      const container = document.getElementById('product-list');
+      
+      container.innerHTML = '';
 
-        const container = document.getElementById('product-list');
+      products.forEach((product, index) => {
+        const card = document.createElement('div');
+        card.classList.add('product-card');
 
-        products.forEach(product => {
-            const card = document.createElement('div');
-            card.classList.add('product-card');
+        const hasImages = product.images && product.images.length > 0;
+        const mainImageSrc = hasImages ? product.images[0] : '';
+        currentMainImages[index] = mainImageSrc;
 
-            card.innerHTML = `
-                <h2>${product["Extract Name"]}</h2>
-                <div class="details"><strong>Botanical Name:</strong> ${product["Botanical Name"]}</div>
-                <div class="details"><strong>Part Used:</strong> ${product["Part Used"]}</div>
-                <div class="details"><strong>Category:</strong> ${product["category_name"]}</div>
-                <div class="details"><strong>Primary Benefit:</strong> ${product["Primary Benefit"]}</div>
-                <div class="details"><strong>ID:</strong> ${product["id"]}</div>
-            `;
+        const imagesHtml = hasImages ? `
+          <div class="images-container">
+            <img class="main-image" id="main-${index}" src="${mainImageSrc}" alt="${product["Extract Name"]}" onclick="openModal('${mainImageSrc}')">
+            ${product.images.length > 1 ? `
+              <div class="thumbnail-grid">
+                ${product.images.map((imgUrl, imgIndex) => `
+                  <img class="thumbnail ${imgIndex === 0 ? 'active' : ''}" 
+                       src="${imgUrl}" 
+                       alt="${product["Extract Name"]}" 
+                       onclick="changeMainImage(${index}, '${imgUrl}', this)">
+                `).join('')}
+              </div>
+            ` : ''}
+          </div>
+        ` : '';
 
-            if (product.images && product.images.length > 0) {
-                const imgDiv = document.createElement('div');
-                imgDiv.classList.add('images');
+        card.innerHTML = `
+          <div class="product-content">
+            <div class="product-info">
+              <h2>${product["Extract Name"]}</h2>
+              
+              <div class="product-details">
+                <div class="detail-item">
+                  <strong>Botanical Name</strong>
+                  <span>${product["Botanical Name"]}</span>
+                </div>
+                <div class="detail-item">
+                  <strong>Part Used</strong>
+                  <span>${product["Part Used"]}</span>
+                </div>
+                <div class="detail-item">
+                  <strong>Primary Benefit</strong>
+                  <span>${product["Primary Benefit"]}</span>
+                </div>
+                <div class="detail-item">
+                  <strong>Product ID</strong>
+                  <span>${product["id"]}</span>
+                </div>
+              </div>
+              
+              <div class="category-tag">${product["category_name"]}</div>
+            </div>
+            ${imagesHtml}
+          </div>
+        `;
 
-                product.images.forEach(imgUrl => {
-                    const img = document.createElement('img');
-                    img.src = imgUrl;
-                    img.alt = product["Extract Name"];
-                    imgDiv.appendChild(img);
-                });
-
-                card.appendChild(imgDiv);
-            }
-
-            container.appendChild(card);
-        });
+        container.appendChild(card);
+      });
 
     } catch (error) {
-        console.error('Error loading products:', error);
+      console.error('Error loading products:', error);
+      document.getElementById('product-list').innerHTML = `
+        <div style="text-align: center; padding: 80px; color: #ef4444;">
+          <h2>Failed to load products</h2>
+          <p>Please check if the JSON file exists and is accessible.</p>
+        </div>
+      `;
     }
-}
+  }
 
-loadProducts();
+  function changeMainImage(productIndex, newSrc, thumbnailElement) {
+    const mainImage = document.getElementById(`main-${productIndex}`);
+    mainImage.src = newSrc;
+    currentMainImages[productIndex] = newSrc;
+    
+    // Update active thumbnail
+    const thumbnails = thumbnailElement.parentElement.querySelectorAll('.thumbnail');
+    thumbnails.forEach(thumb => thumb.classList.remove('active'));
+    thumbnailElement.classList.add('active');
+    
+    // Update modal onclick
+    mainImage.onclick = () => openModal(newSrc);
+  }
+
+  function openModal(src) {
+    document.getElementById("imgModal").style.display = "block";
+    document.getElementById("modalImg").src = src;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    document.getElementById("imgModal").style.display = "none";
+    document.getElementById("modalImg").src = "";
+    document.body.style.overflow = 'auto';
+  }
+
+  // Close modal on background click
+  window.onclick = function(event) {
+    const modal = document.getElementById("imgModal");
+    if (event.target === modal) {
+      closeModal();
+    }
+  }
+
+  // Close modal on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      closeModal();
+    }
+  });
+
+  // Load products when page loads
+  loadProducts();
 </script>
 
 </body>
