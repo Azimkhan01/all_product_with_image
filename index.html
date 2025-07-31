@@ -16,6 +16,8 @@
       background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
       color: #e5e7eb;
       min-height: 100vh;
+      font-size: 16px;
+      line-height: 1.6;
     }
 
     .header {
@@ -26,15 +28,14 @@
     }
 
     .header h1 {
-      font-size: 3rem;
+      font-size: 2.5rem;
       font-weight: 700;
       color: #ffffff;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
       margin-bottom: 10px;
     }
 
     .header p {
-      font-size: 1.2rem;
+      font-size: 1rem;
       color: #f0fdf4;
       opacity: 0.9;
     }
@@ -42,7 +43,7 @@
     .container {
       max-width: 1400px;
       margin: 0 auto;
-      padding: 40px 20px;
+      padding: 30px 20px;
     }
 
     .product-card {
@@ -50,150 +51,118 @@
       border-radius: 20px;
       margin-bottom: 40px;
       overflow: hidden;
-      box-shadow: 
-        0 20px 40px rgba(0, 0, 0, 0.4),
-        0 0 0 1px rgba(52, 211, 153, 0.1);
-      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
       border: 1px solid rgba(52, 211, 153, 0.2);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+      transition: all 0.3s ease;
     }
 
     .product-card:hover {
-      transform: translateY(-8px);
-      box-shadow: 
-        0 32px 64px rgba(0, 0, 0, 0.5),
-        0 0 0 1px rgba(52, 211, 153, 0.3),
-        0 0 40px rgba(52, 211, 153, 0.1);
+      transform: translateY(-6px);
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.5);
     }
 
     .product-content {
-      display: grid;
-      grid-template-columns: 1fr 400px;
+      display: flex;
+      flex-direction: row;
       gap: 40px;
       padding: 40px;
-      align-items: start;
+      align-items: flex-start;
+    }
+
+    .product-info {
+      flex: 1;
     }
 
     .product-info h2 {
-      font-size: 2.5rem;
-      font-weight: 700;
+      font-size: 2rem;
       color: #34d399;
       margin-bottom: 20px;
-      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     }
 
     .product-details {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 20px;
       margin: 30px 0;
     }
 
     .detail-item {
       background: rgba(16, 185, 129, 0.1);
-      padding: 20px;
-      border-radius: 12px;
+      padding: 15px;
+      border-radius: 10px;
       border: 1px solid rgba(52, 211, 153, 0.2);
-      transition: all 0.3s ease;
-    }
-
-    .detail-item:hover {
-      background: rgba(16, 185, 129, 0.15);
-      border-color: rgba(52, 211, 153, 0.4);
     }
 
     .detail-item strong {
       color: #10b981;
-      font-size: 1.1rem;
-      display: block;
-      margin-bottom: 8px;
+      font-size: 1rem;
     }
 
     .detail-item span {
       color: #d1d5db;
-      font-size: 1rem;
-      line-height: 1.6;
+      display: block;
+      margin-top: 5px;
     }
 
     .category-tag {
       display: inline-block;
       background: linear-gradient(135deg, #059669, #10b981);
-      color: #ffffff;
-      padding: 12px 24px;
-      border-radius: 25px;
-      font-size: 1rem;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 20px;
       font-weight: 600;
+      font-size: 0.9rem;
       margin-top: 20px;
-      box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
     }
 
     .images-container {
+      flex: 0 0 400px;
       position: sticky;
       top: 20px;
     }
 
     .main-image {
       width: 100%;
-      height: 300px;
+      height: 280px;
       object-fit: cover;
-      border-radius: 16px;
-      border: 2px solid rgba(52, 211, 153, 0.3);
-      margin-bottom: 20px;
+      border-radius: 15px;
+      margin-bottom: 15px;
+      border: 2px solid rgba(52, 211, 153, 0.2);
       cursor: pointer;
-      transition: all 0.3s ease;
+      transition: 0.3s ease;
     }
 
     .main-image:hover {
-      border-color: rgba(52, 211, 153, 0.6);
       transform: scale(1.02);
+      border-color: rgba(52, 211, 153, 0.4);
     }
 
     .thumbnail-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-      gap: 12px;
-      max-height: 200px;
-      overflow-y: auto;
+      display: flex;
+      overflow-x: auto;
+      gap: 10px;
+      padding-bottom: 5px;
     }
 
     .thumbnail {
-      width: 100%;
-      height: 80px;
+      height: 70px;
+      width: 70px;
       object-fit: cover;
       border-radius: 10px;
       border: 2px solid rgba(52, 211, 153, 0.2);
       cursor: pointer;
-      transition: all 0.3s ease;
+      transition: 0.3s ease;
       opacity: 0.7;
+      flex-shrink: 0;
     }
 
     .thumbnail:hover,
     .thumbnail.active {
-      border-color: #34d399;
       opacity: 1;
+      border-color: #34d399;
       transform: scale(1.05);
     }
 
-    .thumbnail-grid::-webkit-scrollbar {
-      width: 6px;
-    }
-
-    .thumbnail-grid::-webkit-scrollbar-track {
-      background: rgba(55, 65, 81, 0.5);
-      border-radius: 3px;
-    }
-
-    .thumbnail-grid::-webkit-scrollbar-thumb {
-      background: rgba(52, 211, 153, 0.5);
-      border-radius: 3px;
-    }
-
-    .thumbnail-grid::-webkit-scrollbar-thumb:hover {
-      background: rgba(52, 211, 153, 0.7);
-    }
-
-    /* Modal styles */
     .modal {
       display: none;
       position: fixed;
@@ -213,16 +182,13 @@
       transform: translate(-50%, -50%);
       max-width: 90vw;
       max-height: 90vh;
-      border-radius: 20px;
-      overflow: hidden;
-      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8);
+      border-radius: 10px;
     }
 
     .modal-content img {
       width: 100%;
       height: 100%;
       object-fit: contain;
-      display: block;
     }
 
     .close {
@@ -230,43 +196,28 @@
       top: 20px;
       right: 30px;
       color: #34d399;
-      font-size: 40px;
+      font-size: 36px;
       font-weight: bold;
       cursor: pointer;
-      z-index: 10000;
-      background: rgba(0, 0, 0, 0.5);
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: all 0.3s ease;
-      backdrop-filter: blur(10px);
-    }
-
-    .close:hover {
-      background: rgba(52, 211, 153, 0.2);
-      transform: scale(1.1);
     }
 
     .loading {
       text-align: center;
-      padding: 80px;
       font-size: 1.5rem;
+      padding: 60px;
       color: #10b981;
     }
 
     .loading::after {
       content: '';
-      width: 40px;
-      height: 40px;
-      border: 4px solid rgba(52, 211, 153, 0.3);
-      border-left-color: #34d399;
-      border-radius: 50%;
       display: inline-block;
+      width: 30px;
+      height: 30px;
+      border: 4px solid rgba(52, 211, 153, 0.3);
+      border-top-color: #34d399;
+      border-radius: 50%;
       animation: spin 1s linear infinite;
-      margin-left: 20px;
+      margin-left: 15px;
     }
 
     @keyframes spin {
@@ -275,50 +226,51 @@
       }
     }
 
-    /* Responsive design */
     @media (max-width: 1024px) {
       .product-content {
-        grid-template-columns: 1fr;
-        gap: 30px;
+        flex-direction: column-reverse;
       }
-      
+
       .images-container {
+        width: 100%;
         position: static;
-        order: -1;
       }
-      
+
       .main-image {
-        height: 250px;
+        height: 240px;
       }
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 600px) {
       .header h1 {
-        font-size: 2rem;
-      }
-      
-      .header p {
-        font-size: 1rem;
-      }
-      
-      .product-content {
-        padding: 20px;
-      }
-      
-      .product-info h2 {
         font-size: 1.8rem;
       }
-      
+
+      .header p {
+        font-size: 0.95rem;
+      }
+
+      .product-info h2 {
+        font-size: 1.5rem;
+      }
+
       .product-details {
         grid-template-columns: 1fr;
       }
-      
-      .thumbnail-grid {
-        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+
+      .main-image {
+        height: 200px;
       }
-      
+
       .thumbnail {
-        height: 60px;
+        height: 50px;
+        width: 50px;
+      }
+
+      .close {
+        font-size: 28px;
+        top: 10px;
+        right: 20px;
       }
     }
   </style>
@@ -334,7 +286,6 @@
   <div id="product-list" class="loading">Loading Products...</div>
 </div>
 
-<!-- Modal for image preview -->
 <div id="imgModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
   <div class="modal-content">
@@ -350,7 +301,7 @@
       const response = await fetch('All_Products_WithImages.json');
       const products = await response.json();
       const container = document.getElementById('product-list');
-      
+
       container.innerHTML = '';
 
       products.forEach((product, index) => {
@@ -369,7 +320,6 @@
                 ${product.images.map((imgUrl, imgIndex) => `
                   <img class="thumbnail ${imgIndex === 0 ? 'active' : ''}" 
                        src="${imgUrl}" 
-                       alt="${product["Extract Name"]}" 
                        onclick="changeMainImage(${index}, '${imgUrl}', this)">
                 `).join('')}
               </div>
@@ -381,7 +331,6 @@
           <div class="product-content">
             <div class="product-info">
               <h2>${product["Extract Name"]}</h2>
-              
               <div class="product-details">
                 <div class="detail-item">
                   <strong>Botanical Name</strong>
@@ -400,7 +349,6 @@
                   <span>${product["id"]}</span>
                 </div>
               </div>
-              
               <div class="category-tag">${product["category_name"]}</div>
             </div>
             ${imagesHtml}
@@ -409,11 +357,10 @@
 
         container.appendChild(card);
       });
-
     } catch (error) {
       console.error('Error loading products:', error);
       document.getElementById('product-list').innerHTML = `
-        <div style="text-align: center; padding: 80px; color: #ef4444;">
+        <div style="text-align: center; padding: 60px; color: #ef4444;">
           <h2>Failed to load products</h2>
           <p>Please check if the JSON file exists and is accessible.</p>
         </div>
@@ -425,13 +372,11 @@
     const mainImage = document.getElementById(`main-${productIndex}`);
     mainImage.src = newSrc;
     currentMainImages[productIndex] = newSrc;
-    
-    // Update active thumbnail
+
     const thumbnails = thumbnailElement.parentElement.querySelectorAll('.thumbnail');
     thumbnails.forEach(thumb => thumb.classList.remove('active'));
     thumbnailElement.classList.add('active');
-    
-    // Update modal onclick
+
     mainImage.onclick = () => openModal(newSrc);
   }
 
@@ -447,7 +392,6 @@
     document.body.style.overflow = 'auto';
   }
 
-  // Close modal on background click
   window.onclick = function(event) {
     const modal = document.getElementById("imgModal");
     if (event.target === modal) {
@@ -455,14 +399,12 @@
     }
   }
 
-  // Close modal on Escape key
   document.addEventListener('keydown', function(event) {
     if (event.key === 'Escape') {
       closeModal();
     }
   });
 
-  // Load products when page loads
   loadProducts();
 </script>
 
