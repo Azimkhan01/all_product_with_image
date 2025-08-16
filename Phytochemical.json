@@ -350,20 +350,6 @@
     "id": "P0076"
   },
   {
-    "Extract Name": "Naringin 99%",
-    "Botanical Name": "Grape Fruit",
-    "Part Used": "Fruit",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• A flavonoid from grapefruit with strong antioxidant and anti-inflammatory effects.<br>• May support metabolism and cardiovascular health.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "",
-    "Package Size": "",
-    "Appearance": "",
-    "category_name": "Phytochemicals",
-    "id": "P0077"
-  },
-  {
     "Extract Name": "Papain 100TU/500TU",
     "Botanical Name": "Papaya",
     "Part Used": "Fruit",
@@ -375,6 +361,6 @@
     "Package Size": "",
     "Appearance": "",
     "category_name": "Phytochemicals",
-    "id": "P0078"
+    "id": "P0077"
   }
 ]

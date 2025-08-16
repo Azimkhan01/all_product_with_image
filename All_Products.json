@@ -4,8 +4,36 @@
     "Botanical Name": "Turmeric",
     "Part Used": "Rhizome (root)",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.95,
+    "Active Compound": "95%",
     "Primary Benefit": "Contains curcumin, a powerful anti-inflammatory and antioxidant.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0309"
+  },
+  {
+    "Extract Name": "Beta-Carotene 10%",
+    "Botanical Name": "Carrot",
+    "Part Used": "Root",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "10%",
+    "Primary Benefit": "Rich in beta-carotene (Vitamin A) for eye health, fiber, and antioxidants.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0310"
+  },
+  {
+    "Extract Name": "Caffeine 99%",
+    "Botanical Name": "Green Coffee Bean",
+    "Part Used": "Unroasted seed (bean)",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "99%",
+    "Primary Benefit": "High in chlorogenic acids; aids in weight management and acts as an antioxidant.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -14,46 +42,18 @@
     "id": "P0311"
   },
   {
-    "Extract Name": "Beta-Carotene 10%",
-    "Botanical Name": "Carrot",
-    "Part Used": "Root",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "Rich in beta-carotene (Vitamin A) for eye health, fiber, and antioxidants.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0312"
-  },
-  {
-    "Extract Name": "Caffeine 99%",
-    "Botanical Name": "Green Coffee Bean",
-    "Part Used": "Unroasted seed (bean)",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "High in chlorogenic acids; aids in weight management and acts as an antioxidant.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0313"
-  },
-  {
     "Extract Name": "Procyanidins 95%",
     "Botanical Name": "Grape seed/ Pine Bark",
     "Part Used": "Seed (Grape) / Bark (Pine)",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.95,
+    "Active Compound": "95%",
     "Primary Benefit": "Excellent sources of proanthocyanidins, potent antioxidants that support circulation and skin health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0314"
+    "id": "P0312"
   },
   {
     "Extract Name": "Berberine 90%, 50%",
@@ -67,15 +67,43 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0315"
+    "id": "P0313"
   },
   {
     "Extract Name": "Stevia 95%",
     "Botanical Name": "Stevia rebaudiana",
     "Part Used": "Leaf",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.95,
+    "Active Compound": "95%",
     "Primary Benefit": "A natural, zero-calorie sweetener that may help lower blood sugar and blood pressure.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0314"
+  },
+  {
+    "Extract Name": "Astaxanthin 10% ",
+    "Botanical Name": " Haematococcus pluvialis",
+    "Part Used": "Whole microalgae",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "10%",
+    "Primary Benefit": "Richest source of astaxanthin, a powerful antioxidant for skin, eye, and joint health.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0315"
+  },
+  {
+    "Extract Name": "Amala vit-c 50%",
+    "Botanical Name": "Phyllanthus emblica/ Emblica officinalis (Indian Gooseberry)",
+    "Part Used": "Fruit",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "5%",
+    "Primary Benefit": "Extremely high in Vitamin C; supports immune function, liver health, and hair growth.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -84,12 +112,12 @@
     "id": "P0316"
   },
   {
-    "Extract Name": "Astaxanthin 10% ",
-    "Botanical Name": " Haematococcus pluvialis",
-    "Part Used": "Whole microalgae",
+    "Extract Name": "Zeaxanthin 10%",
+    "Botanical Name": "spinach and kale",
+    "Part Used": "Leaves",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "Richest source of astaxanthin, a powerful antioxidant for skin, eye, and joint health.",
+    "Active Compound": "10%",
+    "Primary Benefit": "• Supports eye health; protects against harmful blue light.<br>• May reduce the risk of age-related macular degeneration (AMD) and cataracts.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -98,12 +126,12 @@
     "id": "P0317"
   },
   {
-    "Extract Name": "Amala vit-c 50%",
-    "Botanical Name": "Phyllanthus emblica/ Emblica officinalis (Indian Gooseberry)",
-    "Part Used": "Fruit",
+    "Extract Name": "Lutein 10% ",
+    "Botanical Name": "Spinach/Marigold",
+    "Part Used": "Leaves (Spinach) / Flowers (Marigold)",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.5,
-    "Primary Benefit": "Extremely high in Vitamin C; supports immune function, liver health, and hair growth.",
+    "Active Compound": "10%",
+    "Primary Benefit": "• Supports eye health; works with zeaxanthin for maximum benefit.<br>• May reduce the risk of age-related macular degeneration (AMD) and cataracts.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -112,12 +140,12 @@
     "id": "P0318"
   },
   {
-    "Extract Name": "Zeaxanthin 10%",
-    "Botanical Name": "spinach and kale",
-    "Part Used": "Leaves",
+    "Extract Name": "Silymarin 70% ",
+    "Botanical Name": "Silybum marianum (Milk Thistle)",
+    "Part Used": "Seed",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "• Supports eye health; protects against harmful blue light.<br>• May reduce the risk of age-related macular degeneration (AMD) and cataracts.",
+    "Active Compound": "7%",
+    "Primary Benefit": "• Supports liver health and function.<br>• Acts as an antioxidant and helps protect the liver from toxins.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -126,12 +154,12 @@
     "id": "P0319"
   },
   {
-    "Extract Name": "Lutein 10% ",
-    "Botanical Name": "Spinach/Marigold",
-    "Part Used": "Leaves (Spinach) / Flowers (Marigold)",
+    "Extract Name": "Quercetin 99%",
+    "Botanical Name": "Japanese pagoda tree (Sophora japonica)",
+    "Part Used": "Flower buds",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "• Supports eye health; works with zeaxanthin for maximum benefit.<br>• May reduce the risk of age-related macular degeneration (AMD) and cataracts.",
+    "Active Compound": "99%",
+    "Primary Benefit": "• Potent antioxidant and anti-inflammatory.<br>• Supports immune function, allergy relief, and cardiovascular health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -140,12 +168,12 @@
     "id": "P0320"
   },
   {
-    "Extract Name": "Silymarin 70% ",
-    "Botanical Name": "Silybum marianum (Milk Thistle)",
-    "Part Used": "Seed",
+    "Extract Name": "Rutin 99%",
+    "Botanical Name": "Citrus Fruit",
+    "Part Used": "Fruit, peel",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.7,
-    "Primary Benefit": "• Supports liver health and function.<br>• Acts as an antioxidant and helps protect the liver from toxins.",
+    "Active Compound": "99%",
+    "Primary Benefit": "• Strengthens and improves the flexibility of blood vessels, especially capillaries.<br>• Supports healthy circulation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -154,46 +182,18 @@
     "id": "P0321"
   },
   {
-    "Extract Name": "Quercetin 99%",
-    "Botanical Name": "Japanese pagoda tree (Sophora japonica)",
-    "Part Used": "Flower buds",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• Potent antioxidant and anti-inflammatory.<br>• Supports immune function, allergy relief, and cardiovascular health.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0322"
-  },
-  {
-    "Extract Name": "Rutin 99%",
-    "Botanical Name": "Citrus Fruit",
-    "Part Used": "Fruit, peel",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• Strengthens and improves the flexibility of blood vessels, especially capillaries.<br>• Supports healthy circulation.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0323"
-  },
-  {
     "Extract Name": "Hesperdine 90%",
-    "Botanical Name": "Primarily from citrus fruits (Citrus species)",
+    "Botanical Name": "Primarily from citrus fruits (Citrus species)",
     "Part Used": "Fruit, peel",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.9,
+    "Active Compound": "9%",
     "Primary Benefit": "• Improves blood vessel function and reduces inflammation.<br>• Often used to support circulation for conditions like venous insufficiency.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0324"
+    "id": "P0322"
   },
   {
     "Extract Name": "Resveratrol 99%,50%",
@@ -207,11 +207,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0325"
+    "id": "P0323"
   },
   {
     "Extract Name": "Piperine 95%,10%",
-    "Botanical Name": "Piper nigrum (Black Pepper)",
+    "Botanical Name": "Piper nigrum (Black Pepper)",
     "Part Used": "Seed",
     "Typical Extraction Ratio": "",
     "Active Compound": "95%,10%",
@@ -221,15 +221,43 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0326"
+    "id": "P0324"
   },
   {
     "Extract Name": "Diosmin 90%",
     "Botanical Name": " citrus fruits",
     "Part Used": "fruit",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.9,
+    "Active Compound": "9%",
     "Primary Benefit": "• Improves vein tone and circulation.<br>• Commonly used for varicose veins and hemorrhoids, often with Hesperidine.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0325"
+  },
+  {
+    "Extract Name": "DHA 10% Veg Powder",
+    "Botanical Name": "Flaxseeds",
+    "Part Used": "seed",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "10%",
+    "Primary Benefit": "• A crucial omega-3 fatty acid for brain health and cognitive function.<br>• Supports eye health and cardiovascular health.",
+    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
+    "Unit in Order": "kg",
+    "Package Size": "1 kg",
+    "Appearance": "25kg",
+    "category_name": "Phytochemicals",
+    "id": "P0326"
+  },
+  {
+    "Extract Name": "Omega 10% Veg Powder",
+    "Botanical Name": "Flaxseeds",
+    "Part Used": "seed",
+    "Typical Extraction Ratio": "",
+    "Active Compound": "10%",
+    "Primary Benefit": "• Provides plant-based omega-3 fatty acids.<br>• Supports brain, eye, and heart health; reduces inflammation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -238,12 +266,12 @@
     "id": "P0327"
   },
   {
-    "Extract Name": "DHA 10% Veg Powder",
-    "Botanical Name": "Flaxseeds",
-    "Part Used": "seed",
+    "Extract Name": "L-Arginine",
+    "Botanical Name": "NA",
+    "Part Used": "NA",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "• A crucial omega-3 fatty acid for brain health and cognitive function.<br>• Supports eye health and cardiovascular health.",
+    "Active Compound": "99%",
+    "Primary Benefit": "• Precursor to nitric oxide, which improves blood flow.<br>• Supports heart health, circulation, and athletic performance.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -252,12 +280,12 @@
     "id": "P0328"
   },
   {
-    "Extract Name": "Omega 10% Veg Powder",
-    "Botanical Name": "Flaxseeds",
-    "Part Used": "seed",
+    "Extract Name": "Melatonin",
+    "Botanical Name": "NA",
+    "Part Used": "NA",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.1,
-    "Primary Benefit": "• Provides plant-based omega-3 fatty acids.<br>• Supports brain, eye, and heart health; reduces inflammation.",
+    "Active Compound": "99%",
+    "Primary Benefit": "• Hormone that regulates the natural sleep-wake cycle.<br>• Used to aid with sleep, insomnia, and jet lag.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -266,12 +294,12 @@
     "id": "P0329"
   },
   {
-    "Extract Name": "L-Arginine",
-    "Botanical Name": "NA",
-    "Part Used": "NA",
+    "Extract Name": "D-Mannose",
+    "Botanical Name": "cranberries and peaches.",
+    "Part Used": "Fruit",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• Precursor to nitric oxide, which improves blood flow.<br>• Supports heart health, circulation, and athletic performance.",
+    "Active Compound": "99%",
+    "Primary Benefit": "• Helps prevent and manage urinary tract infections (UTIs) by stopping bacteria from adhering to the bladder wall.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -280,12 +308,12 @@
     "id": "P0330"
   },
   {
-    "Extract Name": "Melatonin",
-    "Botanical Name": "NA",
-    "Part Used": "NA",
+    "Extract Name": "Konjac (Glucomannan) 95%",
+    "Botanical Name": "Amorphophallus konjac",
+    "Part Used": "Fruit",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• Hormone that regulates the natural sleep-wake cycle.<br>• Used to aid with sleep, insomnia, and jet lag.",
+    "Active Compound": "95%",
+    "Primary Benefit": "• A dietary fiber that promotes a feeling of fullness, aiding in weight management.<br>• Supports digestive health and can help manage cholesterol levels.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -294,12 +322,12 @@
     "id": "P0331"
   },
   {
-    "Extract Name": "D-Mannose",
-    "Botanical Name": "cranberries and peaches.",
-    "Part Used": "Fruit",
+    "Extract Name": "Phytosterol 95%",
+    "Botanical Name": "Soya",
+    "Part Used": "Bean",
     "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• Helps prevent and manage urinary tract infections (UTIs) by stopping bacteria from adhering to the bladder wall.",
+    "Active Compound": "95%",
+    "Primary Benefit": "• Plant sterols that help lower LDL (\"bad\") cholesterol by blocking its absorption in the gut.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
@@ -308,36 +336,8 @@
     "id": "P0332"
   },
   {
-    "Extract Name": "Konjac (Glucomannan) 95%",
-    "Botanical Name": "Amorphophallus konjac",
-    "Part Used": "Fruit",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.95,
-    "Primary Benefit": "• A dietary fiber that promotes a feeling of fullness, aiding in weight management.<br>• Supports digestive health and can help manage cholesterol levels.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0333"
-  },
-  {
-    "Extract Name": "Phytosterol 95%",
-    "Botanical Name": "Soya",
-    "Part Used": "Bean",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.95,
-    "Primary Benefit": "• Plant sterols that help lower LDL (\"bad\") cholesterol by blocking its absorption in the gut.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0334"
-  },
-  {
     "Extract Name": "Bromelain (1200/2400 GDU)",
-    "Botanical Name": "Ananas comosus (Pineapple)",
+    "Botanical Name": "Ananas comosus (Pineapple)",
     "Part Used": "Fruit",
     "Typical Extraction Ratio": "",
     "Active Compound": "1200/2400 GDU",
@@ -347,21 +347,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0335"
-  },
-  {
-    "Extract Name": "Naringin 99%",
-    "Botanical Name": "Grape Fruit",
-    "Part Used": "Fruit",
-    "Typical Extraction Ratio": "",
-    "Active Compound": 0.99,
-    "Primary Benefit": "• A flavonoid from grapefruit with strong antioxidant and anti-inflammatory effects.<br>• May support metabolism and cardiovascular health.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75435",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Phytochemicals",
-    "id": "P0336"
+    "id": "P0333"
   },
   {
     "Extract Name": "Papain 100TU/500TU",
@@ -375,7 +361,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Phytochemicals",
-    "id": "P0337"
+    "id": "P0334"
   },
   {
     "Extract Name": "Acai Berry",
@@ -389,7 +375,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0338"
+    "id": "P0335"
   },
   {
     "Extract Name": "Acerola Cherry",
@@ -403,7 +389,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0339"
+    "id": "P0336"
   },
   {
     "Extract Name": "Amla (Indian Gooseberry)",
@@ -417,7 +403,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0340"
+    "id": "P0337"
   },
   {
     "Extract Name": "Apple",
@@ -431,7 +417,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0341"
+    "id": "P0338"
   },
   {
     "Extract Name": "Apricot",
@@ -445,7 +431,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0342"
+    "id": "P0339"
   },
   {
     "Extract Name": "Avocado",
@@ -459,7 +445,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0343"
+    "id": "P0340"
   },
   {
     "Extract Name": "Banana",
@@ -473,7 +459,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0344"
+    "id": "P0341"
   },
   {
     "Extract Name": "Baobab",
@@ -487,7 +473,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0345"
+    "id": "P0342"
   },
   {
     "Extract Name": "Bilberry",
@@ -501,7 +487,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0346"
+    "id": "P0343"
   },
   {
     "Extract Name": "Black Cherry",
@@ -515,7 +501,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0347"
+    "id": "P0344"
   },
   {
     "Extract Name": "Black Currant",
@@ -529,7 +515,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0348"
+    "id": "P0345"
   },
   {
     "Extract Name": "Blackberry",
@@ -543,7 +529,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0349"
+    "id": "P0346"
   },
   {
     "Extract Name": "Blueberry",
@@ -557,7 +543,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0350"
+    "id": "P0347"
   },
   {
     "Extract Name": "Camu Camu",
@@ -571,7 +557,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0351"
+    "id": "P0348"
   },
   {
     "Extract Name": "Cantaloupe",
@@ -585,7 +571,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0352"
+    "id": "P0349"
   },
   {
     "Extract Name": "Chasteberry",
@@ -599,7 +585,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0353"
+    "id": "P0350"
   },
   {
     "Extract Name": "Cranberry",
@@ -613,7 +599,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0354"
+    "id": "P0351"
   },
   {
     "Extract Name": "Cucumber",
@@ -627,7 +613,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0355"
+    "id": "P0352"
   },
   {
     "Extract Name": "Date",
@@ -641,7 +627,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0356"
+    "id": "P0353"
   },
   {
     "Extract Name": "Dragon Fruit (Pitaya)",
@@ -655,7 +641,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0357"
+    "id": "P0354"
   },
   {
     "Extract Name": "Elderberry",
@@ -669,7 +655,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0358"
+    "id": "P0355"
   },
   {
     "Extract Name": "Fig",
@@ -683,7 +669,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0359"
+    "id": "P0356"
   },
   {
     "Extract Name": "Goji Berry (Wolfberry)",
@@ -697,7 +683,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0360"
+    "id": "P0357"
   },
   {
     "Extract Name": "Grape",
@@ -711,7 +697,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0361"
+    "id": "P0358"
   },
   {
     "Extract Name": "Grapefruit",
@@ -725,7 +711,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0362"
+    "id": "P0359"
   },
   {
     "Extract Name": "Guava",
@@ -739,7 +725,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0363"
+    "id": "P0360"
   },
   {
     "Extract Name": "Hawthorn",
@@ -753,7 +739,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0364"
+    "id": "P0361"
   },
   {
     "Extract Name": "Juniper",
@@ -767,7 +753,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0365"
+    "id": "P0362"
   },
   {
     "Extract Name": "Kiwifruit",
@@ -781,7 +767,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0366"
+    "id": "P0363"
   },
   {
     "Extract Name": "Lemon",
@@ -795,7 +781,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0367"
+    "id": "P0364"
   },
   {
     "Extract Name": "Lime",
@@ -809,7 +795,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0368"
+    "id": "P0365"
   },
   {
     "Extract Name": "Luo Han Guo (Monk Fruit)",
@@ -823,7 +809,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0369"
+    "id": "P0366"
   },
   {
     "Extract Name": "Lychee",
@@ -837,7 +823,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0370"
+    "id": "P0367"
   },
   {
     "Extract Name": "Mango",
@@ -851,7 +837,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0371"
+    "id": "P0368"
   },
   {
     "Extract Name": "Mangosteen",
@@ -865,7 +851,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0372"
+    "id": "P0369"
   },
   {
     "Extract Name": "Noni",
@@ -879,7 +865,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0373"
+    "id": "P0370"
   },
   {
     "Extract Name": "Olive",
@@ -893,7 +879,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0374"
+    "id": "P0371"
   },
   {
     "Extract Name": "Orange",
@@ -907,7 +893,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0375"
+    "id": "P0372"
   },
   {
     "Extract Name": "Papaya",
@@ -921,7 +907,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0376"
+    "id": "P0373"
   },
   {
     "Extract Name": "Passion Fruit",
@@ -935,7 +921,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0377"
+    "id": "P0374"
   },
   {
     "Extract Name": "Peach",
@@ -949,7 +935,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0378"
+    "id": "P0375"
   },
   {
     "Extract Name": "Pineapple",
@@ -963,7 +949,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0379"
+    "id": "P0376"
   },
   {
     "Extract Name": "Pomegranate",
@@ -977,7 +963,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0380"
+    "id": "P0377"
   },
   {
     "Extract Name": "Raspberry",
@@ -991,7 +977,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0381"
+    "id": "P0378"
   },
   {
     "Extract Name": "Rose Hips",
@@ -1005,7 +991,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0382"
+    "id": "P0379"
   },
   {
     "Extract Name": "Saw Palmetto",
@@ -1019,7 +1005,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0383"
+    "id": "P0380"
   },
   {
     "Extract Name": "Schisandra",
@@ -1033,7 +1019,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0384"
+    "id": "P0381"
   },
   {
     "Extract Name": "Sea Buckthorn",
@@ -1047,7 +1033,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0385"
+    "id": "P0382"
   },
   {
     "Extract Name": "Strawberry",
@@ -1061,7 +1047,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0386"
+    "id": "P0383"
   },
   {
     "Extract Name": "Watermelon",
@@ -1075,7 +1061,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Fruit extract",
-    "id": "P0387"
+    "id": "P0384"
   },
   {
     "Extract Name": "Turmeric",
@@ -1089,7 +1075,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0388"
+    "id": "P0385"
   },
   {
     "Extract Name": "Ashwagandha",
@@ -1103,7 +1089,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0389"
+    "id": "P0386"
   },
   {
     "Extract Name": "Maca",
@@ -1117,7 +1103,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0390"
+    "id": "P0387"
   },
   {
     "Extract Name": "Spirulina",
@@ -1131,7 +1117,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0391"
+    "id": "P0388"
   },
   {
     "Extract Name": "Chlorella",
@@ -1145,7 +1131,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0392"
+    "id": "P0389"
   },
   {
     "Extract Name": "Moringa",
@@ -1159,7 +1145,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0393"
+    "id": "P0390"
   },
   {
     "Extract Name": "Wheatgrass",
@@ -1173,7 +1159,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0394"
+    "id": "P0391"
   },
   {
     "Extract Name": "Barley Grass",
@@ -1187,7 +1173,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0395"
+    "id": "P0392"
   },
   {
     "Extract Name": "Ginger",
@@ -1201,7 +1187,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0396"
+    "id": "P0393"
   },
   {
     "Extract Name": "Cinnamon (Ceylon)",
@@ -1215,7 +1201,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0397"
+    "id": "P0394"
   },
   {
     "Extract Name": "Psyllium",
@@ -1229,7 +1215,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0398"
+    "id": "P0395"
   },
   {
     "Extract Name": "Triphala",
@@ -1243,7 +1229,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0399"
+    "id": "P0396"
   },
   {
     "Extract Name": "Amla (Indian Gooseberry)",
@@ -1257,7 +1243,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0400"
+    "id": "P0397"
   },
   {
     "Extract Name": "Reishi Mushroom",
@@ -1271,7 +1257,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0401"
+    "id": "P0398"
   },
   {
     "Extract Name": "Lion's Mane Mushroom",
@@ -1285,7 +1271,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0402"
+    "id": "P0399"
   },
   {
     "Extract Name": "Cordyceps Mushroom",
@@ -1299,7 +1285,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0403"
+    "id": "P0400"
   },
   {
     "Extract Name": "Chaga Mushroom",
@@ -1313,7 +1299,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0404"
+    "id": "P0401"
   },
   {
     "Extract Name": "Gotu Kola",
@@ -1327,7 +1313,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0405"
+    "id": "P0402"
   },
   {
     "Extract Name": "Holy Basil (Tulsi)",
@@ -1341,7 +1327,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0406"
+    "id": "P0403"
   },
   {
     "Extract Name": "Kelp",
@@ -1355,7 +1341,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0407"
+    "id": "P0404"
   },
   {
     "Extract Name": "Fenugreek",
@@ -1369,7 +1355,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0408"
+    "id": "P0405"
   },
   {
     "Extract Name": "Shatavari",
@@ -1383,7 +1369,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0409"
+    "id": "P0406"
   },
   {
     "Extract Name": "Licorice",
@@ -1397,7 +1383,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0410"
+    "id": "P0407"
   },
   {
     "Extract Name": "Nettle",
@@ -1411,7 +1397,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0411"
+    "id": "P0408"
   },
   {
     "Extract Name": "Beetroot",
@@ -1425,7 +1411,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0412"
+    "id": "P0409"
   },
   {
     "Extract Name": "Cacao",
@@ -1439,7 +1425,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0413"
+    "id": "P0410"
   },
   {
     "Extract Name": "Flax Seed",
@@ -1453,7 +1439,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0414"
+    "id": "P0411"
   },
   {
     "Extract Name": "Chia Seed",
@@ -1467,7 +1453,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0415"
+    "id": "P0412"
   },
   {
     "Extract Name": "Hemp",
@@ -1481,7 +1467,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0416"
+    "id": "P0413"
   },
   {
     "Extract Name": "Burdock",
@@ -1495,7 +1481,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0417"
+    "id": "P0414"
   },
   {
     "Extract Name": "Dandelion",
@@ -1509,7 +1495,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0418"
+    "id": "P0415"
   },
   {
     "Extract Name": "Marshmallow",
@@ -1523,7 +1509,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0419"
+    "id": "P0416"
   },
   {
     "Extract Name": "Slippery Elm",
@@ -1537,7 +1523,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0420"
+    "id": "P0417"
   },
   {
     "Extract Name": "Astragalus",
@@ -1551,7 +1537,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0421"
+    "id": "P0418"
   },
   {
     "Extract Name": "Eleuthero",
@@ -1565,7 +1551,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0422"
+    "id": "P0419"
   },
   {
     "Extract Name": "Rhodiola",
@@ -1579,7 +1565,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0423"
+    "id": "P0420"
   },
   {
     "Extract Name": "Schisandra",
@@ -1593,7 +1579,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0424"
+    "id": "P0421"
   },
   {
     "Extract Name": "Dong Quai",
@@ -1607,7 +1593,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0425"
+    "id": "P0422"
   },
   {
     "Extract Name": "Tribulus",
@@ -1621,7 +1607,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0426"
+    "id": "P0423"
   },
   {
     "Extract Name": "Ginkgo Biloba",
@@ -1635,7 +1621,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0427"
+    "id": "P0424"
   },
   {
     "Extract Name": "Milk Thistle",
@@ -1649,7 +1635,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0428"
+    "id": "P0425"
   },
   {
     "Extract Name": "Hawthorn",
@@ -1663,7 +1649,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0429"
+    "id": "P0426"
   },
   {
     "Extract Name": "Red Raspberry",
@@ -1677,7 +1663,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0430"
+    "id": "P0427"
   },
   {
     "Extract Name": "Cayenne",
@@ -1691,7 +1677,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0431"
+    "id": "P0428"
   },
   {
     "Extract Name": "Rosemary",
@@ -1705,7 +1691,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0432"
+    "id": "P0429"
   },
   {
     "Extract Name": "Ginseng (Panax)",
@@ -1719,7 +1705,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0433"
+    "id": "P0430"
   },
   {
     "Extract Name": "Cat's Claw",
@@ -1733,7 +1719,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0434"
+    "id": "P0431"
   },
   {
     "Extract Name": "Pau D'Arco",
@@ -1747,7 +1733,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0435"
+    "id": "P0432"
   },
   {
     "Extract Name": "Olive Leaf",
@@ -1761,7 +1747,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0436"
+    "id": "P0433"
   },
   {
     "Extract Name": "Echinacea",
@@ -1775,7 +1761,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0437"
+    "id": "P0434"
   },
   {
     "Extract Name": "Goji (Wolfberry)",
@@ -1789,7 +1775,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0438"
+    "id": "P0435"
   },
   {
     "Extract Name": "Baobab",
@@ -1803,7 +1789,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0439"
+    "id": "P0436"
   },
   {
     "Extract Name": "Lucuma",
@@ -1817,7 +1803,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0440"
+    "id": "P0437"
   },
   {
     "Extract Name": "Camu Camu",
@@ -1831,7 +1817,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0441"
+    "id": "P0438"
   },
   {
     "Extract Name": "Acerola Cherry",
@@ -1845,7 +1831,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0442"
+    "id": "P0439"
   },
   {
     "Extract Name": "Rose Hips",
@@ -1859,7 +1845,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0443"
+    "id": "P0440"
   },
   {
     "Extract Name": "Brahmi (Bacopa)",
@@ -1873,7 +1859,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0444"
+    "id": "P0441"
   },
   {
     "Extract Name": "Valerian",
@@ -1887,10 +1873,10 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0445"
+    "id": "P0442"
   },
   {
-    "Extract Name": "Passionflower",
+    "Extract Name": "Passion flower",
     "Botanical Name": "Passiflora incarnata",
     "Part Used": "Aerial Parts",
     "Typical Extraction Ratio": "Flavonoids",
@@ -1901,7 +1887,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0446"
+    "id": "P0443"
   },
   {
     "Extract Name": "Lemon Balm",
@@ -1915,7 +1901,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0447"
+    "id": "P0444"
   },
   {
     "Extract Name": "Chamomile",
@@ -1929,7 +1915,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0448"
+    "id": "P0445"
   },
   {
     "Extract Name": "Skullcap",
@@ -1943,7 +1929,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0449"
+    "id": "P0446"
   },
   {
     "Extract Name": "Horsetail",
@@ -1957,7 +1943,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0450"
+    "id": "P0447"
   },
   {
     "Extract Name": "Red Clover",
@@ -1971,7 +1957,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0451"
+    "id": "P0448"
   },
   {
     "Extract Name": "Black Cohosh",
@@ -1985,7 +1971,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0452"
+    "id": "P0449"
   },
   {
     "Extract Name": "Chasteberry (Vitex)",
@@ -1999,7 +1985,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0453"
+    "id": "P0450"
   },
   {
     "Extract Name": "Neem",
@@ -2013,7 +1999,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0454"
+    "id": "P0451"
   },
   {
     "Extract Name": "Guggul",
@@ -2027,7 +2013,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0455"
+    "id": "P0452"
   },
   {
     "Extract Name": "Boswellia",
@@ -2041,7 +2027,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0456"
+    "id": "P0453"
   },
   {
     "Extract Name": "Arjuna",
@@ -2055,7 +2041,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0457"
+    "id": "P0454"
   },
   {
     "Extract Name": "Gymnema",
@@ -2069,7 +2055,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0458"
+    "id": "P0455"
   },
   {
     "Extract Name": "Bitter Melon",
@@ -2083,7 +2069,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0459"
+    "id": "P0456"
   },
   {
     "Extract Name": "Garlic",
@@ -2097,7 +2083,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0460"
+    "id": "P0457"
   },
   {
     "Extract Name": "Onion",
@@ -2111,7 +2097,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0461"
+    "id": "P0458"
   },
   {
     "Extract Name": "Yarrow",
@@ -2125,7 +2111,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0462"
+    "id": "P0459"
   },
   {
     "Extract Name": "Motherwort",
@@ -2139,7 +2125,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0463"
+    "id": "P0460"
   },
   {
     "Extract Name": "Damiana",
@@ -2153,7 +2139,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0464"
+    "id": "P0461"
   },
   {
     "Extract Name": "Thyme",
@@ -2167,7 +2153,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0465"
+    "id": "P0462"
   },
   {
     "Extract Name": "Oregano",
@@ -2181,7 +2167,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0466"
+    "id": "P0463"
   },
   {
     "Extract Name": "Sage",
@@ -2195,7 +2181,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0467"
+    "id": "P0464"
   },
   {
     "Extract Name": "Mullein",
@@ -2209,7 +2195,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0468"
+    "id": "P0465"
   },
   {
     "Extract Name": "Fennel",
@@ -2223,7 +2209,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0469"
+    "id": "P0466"
   },
   {
     "Extract Name": "Coriander",
@@ -2237,7 +2223,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0470"
+    "id": "P0467"
   },
   {
     "Extract Name": "Cumin",
@@ -2251,7 +2237,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0471"
+    "id": "P0468"
   },
   {
     "Extract Name": "Cardamom",
@@ -2265,7 +2251,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0472"
+    "id": "P0469"
   },
   {
     "Extract Name": "Clove",
@@ -2279,7 +2265,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0473"
+    "id": "P0470"
   },
   {
     "Extract Name": "Black Pepper",
@@ -2293,7 +2279,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0474"
+    "id": "P0471"
   },
   {
     "Extract Name": "White Willow",
@@ -2307,7 +2293,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0475"
+    "id": "P0472"
   },
   {
     "Extract Name": "Kava",
@@ -2321,7 +2307,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0476"
+    "id": "P0473"
   },
   {
     "Extract Name": "Calamus",
@@ -2335,7 +2321,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0477"
+    "id": "P0474"
   },
   {
     "Extract Name": "Jiaogulan",
@@ -2349,7 +2335,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0478"
+    "id": "P0475"
   },
   {
     "Extract Name": "Elderberry",
@@ -2363,7 +2349,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0479"
+    "id": "P0476"
   },
   {
     "Extract Name": "Bilberry",
@@ -2377,7 +2363,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0480"
+    "id": "P0477"
   },
   {
     "Extract Name": "Cranberry",
@@ -2391,7 +2377,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0481"
+    "id": "P0478"
   },
   {
     "Extract Name": "Acai",
@@ -2405,7 +2391,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0482"
+    "id": "P0479"
   },
   {
     "Extract Name": "Shankhpushpi",
@@ -2419,7 +2405,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0483"
+    "id": "P0480"
   },
   {
     "Extract Name": "Manjistha",
@@ -2433,7 +2419,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0484"
+    "id": "P0481"
   },
   {
     "Extract Name": "Vidanga",
@@ -2447,7 +2433,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0485"
+    "id": "P0482"
   },
   {
     "Extract Name": "Celery",
@@ -2461,7 +2447,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
-    "id": "P0486"
+    "id": "P0483"
   },
   {
     "Extract Name": "Ashwagandha",
@@ -2475,7 +2461,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0487"
+    "id": "P0484"
   },
   {
     "Extract Name": "Turmeric",
@@ -2489,7 +2475,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0488"
+    "id": "P0485"
   },
   {
     "Extract Name": "Ginkgo Biloba",
@@ -2503,7 +2489,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0489"
+    "id": "P0486"
   },
   {
     "Extract Name": "Milk Thistle",
@@ -2517,7 +2503,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0490"
+    "id": "P0487"
   },
   {
     "Extract Name": "Echinacea",
@@ -2531,7 +2517,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0491"
+    "id": "P0488"
   },
   {
     "Extract Name": "Rhodiola",
@@ -2545,7 +2531,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0492"
+    "id": "P0489"
   },
   {
     "Extract Name": "Panax Ginseng",
@@ -2559,7 +2545,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0493"
+    "id": "P0490"
   },
   {
     "Extract Name": "Bacopa",
@@ -2573,21 +2559,21 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0494"
+    "id": "P0491"
   },
   {
     "Extract Name": "St. John's Wort",
     "Botanical Name": "Hypericum perforatum",
     "Part Used": "Flowering Tops",
     "Typical Extraction Ratio": 0.417361111111111,
-    "Active Compound": "0.3% Hypericin or 3% Hyperforin",
+    "Active Compound": "0.3% Hypericin or 3% Hyperforin",
     "Primary Benefit": "Supports mood balance and helps alleviate mild depression.",
     "Category": "c34a9e15-29c4-4933-98d6-9497da4008fc",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0495"
+    "id": "P0492"
   },
   {
     "Extract Name": "Saw Palmetto",
@@ -2601,7 +2587,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0496"
+    "id": "P0493"
   },
   {
     "Extract Name": "Valerian",
@@ -2615,7 +2601,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0497"
+    "id": "P0494"
   },
   {
     "Extract Name": "Green Tea",
@@ -2629,7 +2615,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0498"
+    "id": "P0495"
   },
   {
     "Extract Name": "Elderberry",
@@ -2643,7 +2629,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0499"
+    "id": "P0496"
   },
   {
     "Extract Name": "Hawthorn",
@@ -2657,7 +2643,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0500"
+    "id": "P0497"
   },
   {
     "Extract Name": "Ginger",
@@ -2671,7 +2657,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0501"
+    "id": "P0498"
   },
   {
     "Extract Name": "Licorice",
@@ -2685,7 +2671,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0502"
+    "id": "P0499"
   },
   {
     "Extract Name": "Boswellia",
@@ -2699,7 +2685,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0503"
+    "id": "P0500"
   },
   {
     "Extract Name": "Astragalus",
@@ -2713,7 +2699,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0504"
+    "id": "P0501"
   },
   {
     "Extract Name": "Holy Basil (Tulsi)",
@@ -2727,7 +2713,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0505"
+    "id": "P0502"
   },
   {
     "Extract Name": "Lion's Mane",
@@ -2741,7 +2727,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0506"
+    "id": "P0503"
   },
   {
     "Extract Name": "Reishi Mushroom",
@@ -2755,7 +2741,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0507"
+    "id": "P0504"
   },
   {
     "Extract Name": "Cordyceps",
@@ -2769,7 +2755,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0508"
+    "id": "P0505"
   },
   {
     "Extract Name": "Schisandra",
@@ -2783,7 +2769,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0509"
+    "id": "P0506"
   },
   {
     "Extract Name": "Grape Seed",
@@ -2797,7 +2783,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0510"
+    "id": "P0507"
   },
   {
     "Extract Name": "Bilberry",
@@ -2811,7 +2797,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0511"
+    "id": "P0508"
   },
   {
     "Extract Name": "Artichoke",
@@ -2825,7 +2811,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0512"
+    "id": "P0509"
   },
   {
     "Extract Name": "Lemon Balm",
@@ -2839,10 +2825,10 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0513"
+    "id": "P0510"
   },
   {
-    "Extract Name": "Passionflower",
+    "Extract Name": "Passion flower",
     "Botanical Name": "Passiflora incarnata",
     "Part Used": "Aerial Parts",
     "Typical Extraction Ratio": 0.417361111111111,
@@ -2853,7 +2839,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0514"
+    "id": "P0511"
   },
   {
     "Extract Name": "Chamomile",
@@ -2867,7 +2853,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0515"
+    "id": "P0512"
   },
   {
     "Extract Name": "Garlic",
@@ -2881,7 +2867,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0516"
+    "id": "P0513"
   },
   {
     "Extract Name": "Eleuthero",
@@ -2895,7 +2881,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0517"
+    "id": "P0514"
   },
   {
     "Extract Name": "Dong Quai",
@@ -2909,7 +2895,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0518"
+    "id": "P0515"
   },
   {
     "Extract Name": "Black Cohosh",
@@ -2923,7 +2909,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0519"
+    "id": "P0516"
   },
   {
     "Extract Name": "Chasteberry (Vitex)",
@@ -2937,7 +2923,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0520"
+    "id": "P0517"
   },
   {
     "Extract Name": "Maca",
@@ -2951,7 +2937,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0521"
+    "id": "P0518"
   },
   {
     "Extract Name": "Tribulus",
@@ -2965,7 +2951,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0522"
+    "id": "P0519"
   },
   {
     "Extract Name": "Olive Leaf",
@@ -2979,7 +2965,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0523"
+    "id": "P0520"
   },
   {
     "Extract Name": "Gotu Kola",
@@ -2993,7 +2979,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0524"
+    "id": "P0521"
   },
   {
     "Extract Name": "White Willow",
@@ -3007,7 +2993,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0525"
+    "id": "P0522"
   },
   {
     "Extract Name": "Devil's Claw",
@@ -3021,7 +3007,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0526"
+    "id": "P0523"
   },
   {
     "Extract Name": "Cat's Claw",
@@ -3035,7 +3021,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0527"
+    "id": "P0524"
   },
   {
     "Extract Name": "Calendula",
@@ -3049,7 +3035,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0528"
+    "id": "P0525"
   },
   {
     "Extract Name": "Dandelion",
@@ -3063,7 +3049,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0529"
+    "id": "P0526"
   },
   {
     "Extract Name": "Nettle",
@@ -3077,7 +3063,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0530"
+    "id": "P0527"
   },
   {
     "Extract Name": "Andrographis",
@@ -3091,7 +3077,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0531"
+    "id": "P0528"
   },
   {
     "Extract Name": "Cranberry",
@@ -3105,7 +3091,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0532"
+    "id": "P0529"
   },
   {
     "Extract Name": "Fennel",
@@ -3119,7 +3105,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0533"
+    "id": "P0530"
   },
   {
     "Extract Name": "Peppermint",
@@ -3133,7 +3119,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0534"
+    "id": "P0531"
   },
   {
     "Extract Name": "Red Clover",
@@ -3147,7 +3133,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0535"
+    "id": "P0532"
   },
   {
     "Extract Name": "Horny Goat Weed",
@@ -3161,7 +3147,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0536"
+    "id": "P0533"
   },
   {
     "Extract Name": "Kava",
@@ -3175,7 +3161,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0537"
+    "id": "P0534"
   },
   {
     "Extract Name": "Gymnema",
@@ -3189,7 +3175,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0538"
+    "id": "P0535"
   },
   {
     "Extract Name": "Fenugreek",
@@ -3203,7 +3189,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0539"
+    "id": "P0536"
   },
   {
     "Extract Name": "Burdock",
@@ -3217,7 +3203,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0540"
+    "id": "P0537"
   },
   {
     "Extract Name": "Chaga Mushroom",
@@ -3231,7 +3217,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0541"
+    "id": "P0538"
   },
   {
     "Extract Name": "Shatavari",
@@ -3245,7 +3231,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0542"
+    "id": "P0539"
   },
   {
     "Extract Name": "Thyme",
@@ -3259,7 +3245,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0543"
+    "id": "P0540"
   },
   {
     "Extract Name": "Mullein",
@@ -3273,7 +3259,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0544"
+    "id": "P0541"
   },
   {
     "Extract Name": "Cayenne",
@@ -3287,7 +3273,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0545"
+    "id": "P0542"
   },
   {
     "Extract Name": "Rosemary",
@@ -3301,7 +3287,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0546"
+    "id": "P0543"
   },
   {
     "Extract Name": "Barberry",
@@ -3315,7 +3301,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0547"
+    "id": "P0544"
   },
   {
     "Extract Name": "Oregon Grape",
@@ -3329,7 +3315,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0548"
+    "id": "P0545"
   },
   {
     "Extract Name": "Pygeum",
@@ -3343,7 +3329,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0549"
+    "id": "P0546"
   },
   {
     "Extract Name": "Pine Bark",
@@ -3357,7 +3343,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0550"
+    "id": "P0547"
   },
   {
     "Extract Name": "Coleus Forskohlii",
@@ -3371,7 +3357,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0551"
+    "id": "P0548"
   },
   {
     "Extract Name": "Bitter Melon",
@@ -3385,7 +3371,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0552"
+    "id": "P0549"
   },
   {
     "Extract Name": "Uva Ursi",
@@ -3399,7 +3385,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0553"
+    "id": "P0550"
   },
   {
     "Extract Name": "Kudzu",
@@ -3413,7 +3399,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0554"
+    "id": "P0551"
   },
   {
     "Extract Name": "Longjack (Tongkat Ali)",
@@ -3427,7 +3413,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0555"
+    "id": "P0552"
   },
   {
     "Extract Name": "Celery Seed",
@@ -3441,7 +3427,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0556"
+    "id": "P0553"
   },
   {
     "Extract Name": "Pomegranate",
@@ -3455,7 +3441,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0557"
+    "id": "P0554"
   },
   {
     "Extract Name": "Guggul",
@@ -3469,7 +3455,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0558"
+    "id": "P0555"
   },
   {
     "Extract Name": "Skullcap",
@@ -3483,7 +3469,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0559"
+    "id": "P0556"
   },
   {
     "Extract Name": "Damiana",
@@ -3497,7 +3483,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0560"
+    "id": "P0557"
   },
   {
     "Extract Name": "Cinnamon",
@@ -3511,7 +3497,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0561"
+    "id": "P0558"
   },
   {
     "Extract Name": "Horsetail",
@@ -3525,7 +3511,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0562"
+    "id": "P0559"
   },
   {
     "Extract Name": "Sage",
@@ -3539,7 +3525,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0563"
+    "id": "P0560"
   },
   {
     "Extract Name": "Clove",
@@ -3553,11 +3539,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0564"
+    "id": "P0561"
   },
   {
-    "Extract Name": "Cardamom ",
-    "Botanical Name": " Elettaria cardamomum",
+    "Extract Name": "Cardamom ",
+    "Botanical Name": " Elettaria cardamomum",
     "Part Used": "Seed ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3567,11 +3553,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0565"
+    "id": "P0562"
   },
   {
-    "Extract Name": "Black Pepper ",
-    "Botanical Name": " Piper nigrum ",
+    "Extract Name": "Black Pepper ",
+    "Botanical Name": " Piper nigrum ",
     "Part Used": " Fruit ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "95% Piperine",
@@ -3581,11 +3567,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0566"
+    "id": "P0563"
   },
   {
-    "Extract Name": "Moringa ",
-    "Botanical Name": "Moringa oleifera ",
+    "Extract Name": "Moringa ",
+    "Botanical Name": "Moringa oleifera ",
     "Part Used": " Leaf ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3595,11 +3581,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0567"
+    "id": "P0564"
   },
   {
-    "Extract Name": "Amla (Indian Gooseberry) ",
-    "Botanical Name": " Phyllanthus emblica ",
+    "Extract Name": "Amla (Indian Gooseberry) ",
+    "Botanical Name": " Phyllanthus emblica ",
     "Part Used": " Fruit ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "40% Tannins",
@@ -3609,11 +3595,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0568"
+    "id": "P0565"
   },
   {
-    "Extract Name": "Mangosteen|",
-    "Botanical Name": " Garcinia mangostana ",
+    "Extract Name": "Mangosteen",
+    "Botanical Name": " Garcinia mangostana ",
     "Part Used": " Fruit Rind (Pericarp) ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "10% - 40% Mangostin",
@@ -3623,11 +3609,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0569"
+    "id": "P0566"
   },
   {
-    "Extract Name": "Triphala ",
-    "Botanical Name": "Blend of 3 fruits ",
+    "Extract Name": "Triphala ",
+    "Botanical Name": "Blend of 3 fruits ",
     "Part Used": "Fruit",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "40% Tannins",
@@ -3637,11 +3623,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0570"
+    "id": "P0567"
   },
   {
-    "Extract Name": "Saffron ",
-    "Botanical Name": " Crocus sativus ",
+    "Extract Name": "Saffron ",
+    "Botanical Name": " Crocus sativus ",
     "Part Used": " Stigma ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3651,7 +3637,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0571"
+    "id": "P0568"
   },
   {
     "Extract Name": "Caralluma",
@@ -3665,11 +3651,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0572"
+    "id": "P0569"
   },
   {
-    "Extract Name": "Hops ",
-    "Botanical Name": " Humulus lupulus ",
+    "Extract Name": "Hops ",
+    "Botanical Name": " Humulus lupulus ",
     "Part Used": "Strobile (Cone) ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3679,11 +3665,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0573"
+    "id": "P0570"
   },
   {
-    "Extract Name": "Red Raspberry Leaf ",
-    "Botanical Name": " Rubus idaeus ",
+    "Extract Name": "Red Raspberry Leaf ",
+    "Botanical Name": " Rubus idaeus ",
     "Part Used": "Leaf ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3693,11 +3679,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0574"
+    "id": "P0571"
   },
   {
-    "Extract Name": "Rose Hips ",
-    "Botanical Name": " Rosa canina ",
+    "Extract Name": "Rose Hips ",
+    "Botanical Name": " Rosa canina ",
     "Part Used": " Fruit ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3707,11 +3693,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0575"
+    "id": "P0572"
   },
   {
-    "Extract Name": "Arjuna ",
-    "Botanical Name": "Terminalia arjuna ",
+    "Extract Name": "Arjuna ",
+    "Botanical Name": "Terminalia arjuna ",
     "Part Used": "Bark ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3721,11 +3707,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0576"
+    "id": "P0573"
   },
   {
     "Extract Name": "Marshmallow",
-    "Botanical Name": " Althaea officinalis ",
+    "Botanical Name": " Althaea officinalis ",
     "Part Used": "Root ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3735,11 +3721,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0577"
+    "id": "P0574"
   },
   {
-    "Extract Name": "Slippery Elm ",
-    "Botanical Name": " Ulmus rubra ",
+    "Extract Name": "Slippery Elm ",
+    "Botanical Name": " Ulmus rubra ",
     "Part Used": "Inner Bark ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3749,11 +3735,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0578"
+    "id": "P0575"
   },
   {
-    "Extract Name": "Motherwort ",
-    "Botanical Name": " Leonurus cardiaca ",
+    "Extract Name": "Motherwort ",
+    "Botanical Name": " Leonurus cardiaca ",
     "Part Used": "Aerial Parts ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3763,11 +3749,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0579"
+    "id": "P0576"
   },
   {
-    "Extract Name": "Yarrow ",
-    "Botanical Name": " Achillea millefolium ",
+    "Extract Name": "Yarrow ",
+    "Botanical Name": " Achillea millefolium ",
     "Part Used": " Flower, Leaf ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3777,11 +3763,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0580"
+    "id": "P0577"
   },
   {
-    "Extract Name": "Wild Yam ",
-    "Botanical Name": " Dioscorea villosa ",
+    "Extract Name": "Wild Yam ",
+    "Botanical Name": " Dioscorea villosa ",
     "Part Used": "Root ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3791,11 +3777,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0581"
+    "id": "P0578"
   },
   {
-    "Extract Name": " American Ginseng ",
-    "Botanical Name": " Panax quinquefolius ",
+    "Extract Name": " American Ginseng ",
+    "Botanical Name": " Panax quinquefolius ",
     "Part Used": " Root ",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "5% Ginsenosides",
@@ -3805,11 +3791,11 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0582"
+    "id": "P0579"
   },
   {
     "Extract Name": "Goji (Wolfberry)",
-    "Botanical Name": " Lycium barbarum ",
+    "Botanical Name": " Lycium barbarum ",
     "Part Used": " Berry",
     "Typical Extraction Ratio": 0.417361111111111,
     "Active Compound": "NA",
@@ -3819,10 +3805,10 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Herbal extract",
-    "id": "P0583"
+    "id": "P0580"
   },
   {
-    "Extract Name": "Calcium Powder",
+    "Extract Name": "Calcium Powder ",
     "Botanical Name": "Wrightia tinctoria",
     "Part Used": "Leaf",
     "Typical Extraction Ratio": 0.12,
@@ -3833,7 +3819,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0584"
+    "id": "P0581"
   },
   {
     "Extract Name": "Magnesium Powder ",
@@ -3847,7 +3833,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0585"
+    "id": "P0582"
   },
   {
     "Extract Name": "Iron Powder ",
@@ -3861,7 +3847,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0586"
+    "id": "P0583"
   },
   {
     "Extract Name": "Zinc Powder",
@@ -3875,7 +3861,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0587"
+    "id": "P0584"
   },
   {
     "Extract Name": "Sunflower seed Extract  ",
@@ -3889,7 +3875,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0588"
+    "id": "P0585"
   },
   {
     "Extract Name": "Mustard seed Extract  Powder",
@@ -3903,13 +3889,13 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0589"
+    "id": "P0586"
   },
   {
     "Extract Name": "Bamboo Extract Powder ",
     "Botanical Name": "Bambusa Vulgaris",
     "Part Used": "Stem and Leaf, Shoot",
-    "Typical Extraction Ratio": 0.7,
+    "Typical Extraction Ratio": "7%",
     "Active Compound": "Silica",
     "Primary Benefit": "Silica from Bambusa vulgaris supports healthy hair, skin, nails, and bones. It promotes collagen production, strengthens connective tissues, and improves joint flexibility and skin elasticity.",
     "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
@@ -3917,7 +3903,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0590"
+    "id": "P0587"
   },
   {
     "Extract Name": "Iodine Powder ",
@@ -3931,21 +3917,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0591"
-  },
-  {
-    "Extract Name": "Manganese Powder ",
-    "Botanical Name": "Arthrospira platensis",
-    "Part Used": " whole cells ",
-    "Typical Extraction Ratio": 0.01,
-    "Active Compound": "Manganese",
-    "Primary Benefit": "Manganese Powder from Arthrospira platensis (Spirulina) supports enzyme function, boosts metabolism, and promotes bone health, making it ideal for nutritional and wellness formulations.",
-    "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Vitamin and Minerals",
-    "id": "P0592"
+    "id": "P0588"
   },
   {
     "Extract Name": "Chromium Extract ",
@@ -3959,7 +3931,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0593"
+    "id": "P0589"
   },
   {
     "Extract Name": "Manganese Powder ",
@@ -3973,7 +3945,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0594"
+    "id": "P0590"
   },
   {
     "Extract Name": "Vitamin B1 Powder 4%",
@@ -3987,7 +3959,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0595"
+    "id": "P0591"
   },
   {
     "Extract Name": "Vitamin B2 Powder 5%",
@@ -4001,7 +3973,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0596"
+    "id": "P0592"
   },
   {
     "Extract Name": "Vitamin B3 Powder 3.6%Niacin",
@@ -4015,7 +3987,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0597"
+    "id": "P0593"
   },
   {
     "Extract Name": "Vitamin B5 Powder 5%",
@@ -4029,7 +4001,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0598"
+    "id": "P0594"
   },
   {
     "Extract Name": "Vitamin B6 Powder 4%",
@@ -4043,7 +4015,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0599"
+    "id": "P0595"
   },
   {
     "Extract Name": "Biotin Powder 0.25% Biotin",
@@ -4057,7 +4029,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0600"
+    "id": "P0596"
   },
   {
     "Extract Name": "Biotin Powder 0.5% Biotin",
@@ -4071,7 +4043,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0601"
+    "id": "P0597"
   },
   {
     "Extract Name": "Biotin Powder 2% Biotin",
@@ -4085,7 +4057,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0602"
+    "id": "P0598"
   },
   {
     "Extract Name": "Vitamin B9 Powder 5% Folic Acid",
@@ -4099,7 +4071,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0603"
+    "id": "P0599"
   },
   {
     "Extract Name": "Vitamin B12 Powder 0.1%",
@@ -4113,7 +4085,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0604"
+    "id": "P0600"
   },
   {
     "Extract Name": "Vitamin B12 Powder 0.2%",
@@ -4127,7 +4099,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0605"
+    "id": "P0601"
   },
   {
     "Extract Name": "Vitamin B Complex Blend Powder",
@@ -4141,7 +4113,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0606"
+    "id": "P0602"
   },
   {
     "Extract Name": "Multimineral Blend Powder    ",
@@ -4155,7 +4127,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0607"
+    "id": "P0603"
   },
   {
     "Extract Name": "Vitamin C 12% ",
@@ -4169,7 +4141,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0608"
+    "id": "P0604"
   },
   {
     "Extract Name": "Vitamin C Powder 25%",
@@ -4183,21 +4155,21 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0609"
+    "id": "P0605"
   },
   {
     "Extract Name": "Vitamin C Powder 50%",
     "Botanical Name": "Amla (Phyllanthus emblica)",
     "Part Used": "",
     "Typical Extraction Ratio": "Vitamin C",
-    "Active Compound": 0.5,
+    "Active Compound": "5%",
     "Primary Benefit": "Vitamin C Powder Source Amla supports immunity, collagen production, skin health, and antioxidant defense. It offers a natural, bioavailable form of vitamin C for enhanced absorption and overall wellness.",
     "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0610"
+    "id": "P0606"
   },
   {
     "Extract Name": "Betacarotene Powder 2% ",
@@ -4211,7 +4183,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0611"
+    "id": "P0607"
   },
   {
     "Extract Name": "Betacarotene Powder 4% ",
@@ -4225,7 +4197,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0612"
+    "id": "P0608"
   },
   {
     "Extract Name": "Vitamin E Powder Blend SF 500IU, 1000IU",
@@ -4239,7 +4211,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0613"
+    "id": "P0609"
   },
   {
     "Extract Name": "Vitamin E Powder Blend SO 500IU, 1000IU",
@@ -4253,7 +4225,7 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0614"
+    "id": "P0610"
   },
   {
     "Extract Name": "Vitamin K2-MK7 Blend Powder 500ppm",
@@ -4267,35 +4239,35 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0615"
+    "id": "P0611"
   },
   {
     "Extract Name": "Lycopene Powder 2%, 10%",
     "Botanical Name": "Tomato Pomace Extract(Solanum lycopersicum)",
     "Part Used": "",
     "Typical Extraction Ratio": "Lycopene",
-    "Active Compound": 0.1,
+    "Active Compound": "10%",
     "Primary Benefit": "Lycopene Powder is a potent antioxidant that supports heart health, skin protection, and cellular defense against oxidative stress. Ideal for use in supplements, functional foods, and nutraceutical formulations.",
     "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0616"
+    "id": "P0612"
   },
   {
     "Extract Name": "Lutein Powder 10%",
     "Botanical Name": "Marigold Extract extract(Tagetes erecta)",
     "Part Used": "",
     "Typical Extraction Ratio": "Lutein Powder",
-    "Active Compound": 0.1,
+    "Active Compound": "10%",
     "Primary Benefit": "Lutein Powder supports eye health by filtering harmful blue light and reducing oxidative stress. It helps maintain vision clarity and may lower the risk of age-related macular degeneration in dietary and supplement use.",
     "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0617"
+    "id": "P0613"
   },
   {
     "Extract Name": "Omega-6 Fatty Acids 2% ",
@@ -4309,20 +4281,20 @@
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0618"
+    "id": "P0614"
   },
   {
     "Extract Name": "Omega-3 Fatty Acids 10%",
     "Botanical Name": "Flax Seed Extract(Linum usitatissimum)",
     "Part Used": "",
     "Typical Extraction Ratio": "Omega-3",
-    "Active Compound": 0.1,
+    "Active Compound": "10%",
     "Primary Benefit": "Omega-3 Fatty Acids support heart health, brain function, and inflammation control. A plant-based source ideal for vegan supplements, promoting overall wellness and cardiovascular balance in daily nutrition.",
     "Category": "730605e7-85e6-49dc-ac55-1927174fd514",
     "Unit in Order": "kg",
     "Package Size": "1 kg",
     "Appearance": "25kg",
     "category_name": "Vitamin and Minerals",
-    "id": "P0619"
+    "id": "P0615"
   }
 ]

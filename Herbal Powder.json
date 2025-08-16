@@ -8,7 +8,7 @@
     "Primary Benefit": "Potent anti-inflammatory, antioxidant, supports joint and digestive health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0176"
+    "id": "P0175"
   },
   {
     "Extract Name": "Ashwagandha",
@@ -19,7 +19,7 @@
     "Primary Benefit": "Adaptogen; helps the body manage stress, supports energy and vitality.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0177"
+    "id": "P0176"
   },
   {
     "Extract Name": "Maca",
@@ -30,7 +30,7 @@
     "Primary Benefit": "Adaptogen; boosts energy, stamina, and libido; supports hormonal balance.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0178"
+    "id": "P0177"
   },
   {
     "Extract Name": "Spirulina",
@@ -41,7 +41,7 @@
     "Primary Benefit": "Nutrient-dense superfood, rich in protein, vitamins, and minerals; antioxidant.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0179"
+    "id": "P0178"
   },
   {
     "Extract Name": "Chlorella",
@@ -52,7 +52,7 @@
     "Primary Benefit": "Supports detoxification (binds heavy metals), rich in nutrients.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0180"
+    "id": "P0179"
   },
   {
     "Extract Name": "Moringa",
@@ -63,7 +63,7 @@
     "Primary Benefit": "Highly nutritious (vitamins, minerals), antioxidant, and anti-inflammatory.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0181"
+    "id": "P0180"
   },
   {
     "Extract Name": "Wheatgrass",
@@ -74,7 +74,7 @@
     "Primary Benefit": "Alkalizing, detoxifying, rich in vitamins, minerals, and enzymes.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0182"
+    "id": "P0181"
   },
   {
     "Extract Name": "Barley Grass",
@@ -85,7 +85,7 @@
     "Primary Benefit": "Nutrient-rich, antioxidant, supports digestive health and detoxification.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0183"
+    "id": "P0182"
   },
   {
     "Extract Name": "Ginger",
@@ -96,7 +96,7 @@
     "Primary Benefit": "Aids digestion, reduces nausea and motion sickness, anti-inflammatory.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0184"
+    "id": "P0183"
   },
   {
     "Extract Name": "Cinnamon (Ceylon)",
@@ -107,7 +107,7 @@
     "Primary Benefit": "Helps regulate blood sugar, antioxidant, anti-inflammatory. (Lower in coumarin).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0185"
+    "id": "P0184"
   },
   {
     "Extract Name": "Psyllium",
@@ -118,7 +118,7 @@
     "Primary Benefit": "Excellent source of soluble fiber for promoting regularity and digestive health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0186"
+    "id": "P0185"
   },
   {
     "Extract Name": "Triphala",
@@ -129,7 +129,7 @@
     "Primary Benefit": "Ayurvedic blend for gentle digestive cleansing, toning, and regularity.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0187"
+    "id": "P0186"
   },
   {
     "Extract Name": "Amla (Indian Gooseberry)",
@@ -140,7 +140,7 @@
     "Primary Benefit": "Extremely rich in Vitamin C and antioxidants; supports immune health and skin.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0188"
+    "id": "P0187"
   },
   {
     "Extract Name": "Reishi Mushroom",
@@ -151,7 +151,7 @@
     "Primary Benefit": "Adaptogen; supports immune system, promotes calm and stress relief.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0189"
+    "id": "P0188"
   },
   {
     "Extract Name": "Lion's Mane Mushroom",
@@ -162,7 +162,7 @@
     "Primary Benefit": "Supports cognitive function, memory, and nerve health (NGF).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0190"
+    "id": "P0189"
   },
   {
     "Extract Name": "Cordyceps Mushroom",
@@ -173,7 +173,7 @@
     "Primary Benefit": "Boosts energy, stamina, and athletic performance; supports respiratory health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0191"
+    "id": "P0190"
   },
   {
     "Extract Name": "Chaga Mushroom",
@@ -184,7 +184,7 @@
     "Primary Benefit": "Potent antioxidant, supports immune function and skin health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0192"
+    "id": "P0191"
   },
   {
     "Extract Name": "Gotu Kola",
@@ -195,7 +195,7 @@
     "Primary Benefit": "Supports cognitive function, skin health, and circulation; \"herb of longevity.\"",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0193"
+    "id": "P0192"
   },
   {
     "Extract Name": "Holy Basil (Tulsi)",
@@ -206,7 +206,7 @@
     "Primary Benefit": "Adaptogen; helps manage stress, supports respiratory and immune health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0194"
+    "id": "P0193"
   },
   {
     "Extract Name": "Kelp",
@@ -217,7 +217,7 @@
     "Primary Benefit": "Excellent natural source of iodine for thyroid support; rich in minerals.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0195"
+    "id": "P0194"
   },
   {
     "Extract Name": "Fenugreek",
@@ -228,7 +228,7 @@
     "Primary Benefit": "Supports healthy blood sugar, aids digestion, promotes lactation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0196"
+    "id": "P0195"
   },
   {
     "Extract Name": "Shatavari",
@@ -239,7 +239,7 @@
     "Primary Benefit": "Premier Ayurvedic female tonic; supports hormonal balance and vitality.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0197"
+    "id": "P0196"
   },
   {
     "Extract Name": "Licorice",
@@ -250,7 +250,7 @@
     "Primary Benefit": "Soothes digestive and respiratory tracts, supports adrenal health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0198"
+    "id": "P0197"
   },
   {
     "Extract Name": "Nettle",
@@ -261,7 +261,7 @@
     "Primary Benefit": "Highly nutritious (iron, calcium), supports seasonal allergy relief.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0199"
+    "id": "P0198"
   },
   {
     "Extract Name": "Beetroot",
@@ -272,7 +272,7 @@
     "Primary Benefit": "Supports cardiovascular health, blood flow, and exercise performance.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0200"
+    "id": "P0199"
   },
   {
     "Extract Name": "Cacao",
@@ -283,7 +283,7 @@
     "Primary Benefit": "Rich in antioxidants, magnesium, and iron; mood-enhancing.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0201"
+    "id": "P0200"
   },
   {
     "Extract Name": "Flax Seed",
@@ -294,7 +294,7 @@
     "Primary Benefit": "Rich in fiber and omega-3 fatty acids; supports heart and digestive health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0202"
+    "id": "P0201"
   },
   {
     "Extract Name": "Chia Seed",
@@ -305,7 +305,7 @@
     "Primary Benefit": "High in fiber, omega-3s, and protein; supports hydration and digestion.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0203"
+    "id": "P0202"
   },
   {
     "Extract Name": "Hemp",
@@ -316,7 +316,7 @@
     "Primary Benefit": "Complete protein source, balanced omega fatty acids, high in fiber.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0204"
+    "id": "P0203"
   },
   {
     "Extract Name": "Burdock",
@@ -327,7 +327,7 @@
     "Primary Benefit": "Traditional blood purifier and detoxifier; supports skin and liver health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0205"
+    "id": "P0204"
   },
   {
     "Extract Name": "Dandelion",
@@ -338,7 +338,7 @@
     "Primary Benefit": "Supports liver and gallbladder function, gentle diuretic.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0206"
+    "id": "P0205"
   },
   {
     "Extract Name": "Marshmallow",
@@ -349,7 +349,7 @@
     "Primary Benefit": "Soothes mucous membranes of the gut, throat, and urinary tract.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0207"
+    "id": "P0206"
   },
   {
     "Extract Name": "Slippery Elm",
@@ -360,7 +360,7 @@
     "Primary Benefit": "Soothes sore throats and the digestive tract; coats and protects.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0208"
+    "id": "P0207"
   },
   {
     "Extract Name": "Astragalus",
@@ -371,7 +371,7 @@
     "Primary Benefit": "Adaptogen; enhances immune function and supports vitality and longevity.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0209"
+    "id": "P0208"
   },
   {
     "Extract Name": "Eleuthero",
@@ -382,7 +382,7 @@
     "Primary Benefit": "Adaptogen; enhances physical and mental stamina, fights fatigue.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0210"
+    "id": "P0209"
   },
   {
     "Extract Name": "Rhodiola",
@@ -393,7 +393,7 @@
     "Primary Benefit": "Adaptogen; enhances mental clarity, physical endurance, and mood.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0211"
+    "id": "P0210"
   },
   {
     "Extract Name": "Schisandra",
@@ -404,7 +404,7 @@
     "Primary Benefit": "Adaptogen; \"five-flavor berry\" that supports liver function and reduces stress.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0212"
+    "id": "P0211"
   },
   {
     "Extract Name": "Dong Quai",
@@ -415,7 +415,7 @@
     "Primary Benefit": "Traditional \"female ginseng\" for hormonal balance and menstrual support.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0213"
+    "id": "P0212"
   },
   {
     "Extract Name": "Tribulus",
@@ -426,7 +426,7 @@
     "Primary Benefit": "Supports vitality, libido, and hormonal health in men and women.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0214"
+    "id": "P0213"
   },
   {
     "Extract Name": "Ginkgo Biloba",
@@ -437,7 +437,7 @@
     "Primary Benefit": "Supports cognitive function, memory, and circulation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0215"
+    "id": "P0214"
   },
   {
     "Extract Name": "Milk Thistle",
@@ -448,7 +448,7 @@
     "Primary Benefit": "Supports liver protection and detoxification.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0216"
+    "id": "P0215"
   },
   {
     "Extract Name": "Hawthorn",
@@ -459,7 +459,7 @@
     "Primary Benefit": "Traditional heart tonic; supports cardiovascular health and circulation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0217"
+    "id": "P0216"
   },
   {
     "Extract Name": "Red Raspberry",
@@ -470,7 +470,7 @@
     "Primary Benefit": "Traditional uterine tonic; supports female health, especially during pregnancy.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0218"
+    "id": "P0217"
   },
   {
     "Extract Name": "Cayenne",
@@ -481,7 +481,7 @@
     "Primary Benefit": "Stimulates circulation, supports metabolism, and aids digestion.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0219"
+    "id": "P0218"
   },
   {
     "Extract Name": "Rosemary",
@@ -492,7 +492,7 @@
     "Primary Benefit": "Antioxidant; supports memory, focus, and digestion.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0220"
+    "id": "P0219"
   },
   {
     "Extract Name": "Ginseng (Panax)",
@@ -503,7 +503,7 @@
     "Primary Benefit": "Energy booster, supports cognitive function and immune health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0221"
+    "id": "P0220"
   },
   {
     "Extract Name": "Cat's Claw",
@@ -514,7 +514,7 @@
     "Primary Benefit": "Supports immune function and provides anti-inflammatory benefits.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0222"
+    "id": "P0221"
   },
   {
     "Extract Name": "Pau D'Arco",
@@ -525,7 +525,7 @@
     "Primary Benefit": "Antifungal (candida support), antimicrobial, supports immune defense.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0223"
+    "id": "P0222"
   },
   {
     "Extract Name": "Olive Leaf",
@@ -536,7 +536,7 @@
     "Primary Benefit": "Supports immune function and cardiovascular health; antioxidant.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0224"
+    "id": "P0223"
   },
   {
     "Extract Name": "Echinacea",
@@ -547,7 +547,7 @@
     "Primary Benefit": "Supports a healthy immune response, especially at onset of illness.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0225"
+    "id": "P0224"
   },
   {
     "Extract Name": "Goji (Wolfberry)",
@@ -558,7 +558,7 @@
     "Primary Benefit": "Antioxidant-rich, supports vision and immune health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0226"
+    "id": "P0225"
   },
   {
     "Extract Name": "Baobab",
@@ -569,7 +569,7 @@
     "Primary Benefit": "High in Vitamin C, prebiotic fiber, and antioxidants; supports immunity.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0227"
+    "id": "P0226"
   },
   {
     "Extract Name": "Lucuma",
@@ -580,7 +580,7 @@
     "Primary Benefit": "Natural low-glycemic sweetener, provides fiber and antioxidants.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0228"
+    "id": "P0227"
   },
   {
     "Extract Name": "Camu Camu",
@@ -591,7 +591,7 @@
     "Primary Benefit": "One of the most potent natural sources of Vitamin C; powerful immune support.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0229"
+    "id": "P0228"
   },
   {
     "Extract Name": "Acerola Cherry",
@@ -602,7 +602,7 @@
     "Primary Benefit": "Extremely high in natural Vitamin C; antioxidant and immune booster.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0230"
+    "id": "P0229"
   },
   {
     "Extract Name": "Rose Hips",
@@ -613,7 +613,7 @@
     "Primary Benefit": "Rich source of Vitamin C and bioflavonoids; supports immune and skin health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0231"
+    "id": "P0230"
   },
   {
     "Extract Name": "Brahmi (Bacopa)",
@@ -624,7 +624,7 @@
     "Primary Benefit": "Enhances memory, learning, and cognitive function; reduces anxiety.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0232"
+    "id": "P0231"
   },
   {
     "Extract Name": "Valerian",
@@ -635,7 +635,7 @@
     "Primary Benefit": "Promotes relaxation and restful sleep.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0233"
+    "id": "P0232"
   },
   {
     "Extract Name": "Passionflower",
@@ -646,7 +646,7 @@
     "Primary Benefit": "Calming nervine; reduces anxiety and supports restful sleep.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0234"
+    "id": "P0233"
   },
   {
     "Extract Name": "Lemon Balm",
@@ -657,7 +657,7 @@
     "Primary Benefit": "Calming and uplifting; soothes nerves and digestion, supports sleep.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0235"
+    "id": "P0234"
   },
   {
     "Extract Name": "Chamomile",
@@ -668,7 +668,7 @@
     "Primary Benefit": "Gentle calming agent, promotes sleep, and soothes digestive upset.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0236"
+    "id": "P0235"
   },
   {
     "Extract Name": "Skullcap",
@@ -679,7 +679,7 @@
     "Primary Benefit": "Calms the nervous system, eases tension and anxiety.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0237"
+    "id": "P0236"
   },
   {
     "Extract Name": "Horsetail",
@@ -690,7 +690,7 @@
     "Primary Benefit": "Rich in silica, which supports healthy hair, skin, nails, and bones.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0238"
+    "id": "P0237"
   },
   {
     "Extract Name": "Red Clover",
@@ -701,7 +701,7 @@
     "Primary Benefit": "Supports menopausal health and skin clarity.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0239"
+    "id": "P0238"
   },
   {
     "Extract Name": "Black Cohosh",
@@ -712,7 +712,7 @@
     "Primary Benefit": "Traditionally used to relieve menopausal symptoms like hot flashes.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0240"
+    "id": "P0239"
   },
   {
     "Extract Name": "Chasteberry (Vitex)",
@@ -723,7 +723,7 @@
     "Primary Benefit": "Supports hormonal balance, menstrual regularity, and PMS relief.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0241"
+    "id": "P0240"
   },
   {
     "Extract Name": "Neem",
@@ -734,7 +734,7 @@
     "Primary Benefit": "Antibacterial, antiviral; supports skin health and detoxification.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0242"
+    "id": "P0241"
   },
   {
     "Extract Name": "Guggul",
@@ -745,7 +745,7 @@
     "Primary Benefit": "Supports healthy cholesterol levels and joint health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0243"
+    "id": "P0242"
   },
   {
     "Extract Name": "Boswellia",
@@ -756,7 +756,7 @@
     "Primary Benefit": "Potent anti-inflammatory, especially for joint comfort.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0244"
+    "id": "P0243"
   },
   {
     "Extract Name": "Arjuna",
@@ -767,7 +767,7 @@
     "Primary Benefit": "Ayurvedic heart tonic; supports cardiovascular function and health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0245"
+    "id": "P0244"
   },
   {
     "Extract Name": "Gymnema",
@@ -778,7 +778,7 @@
     "Primary Benefit": "\"Sugar destroyer\"; helps maintain healthy blood sugar levels.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0246"
+    "id": "P0245"
   },
   {
     "Extract Name": "Bitter Melon",
@@ -789,7 +789,7 @@
     "Primary Benefit": "Supports healthy blood glucose metabolism.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0247"
+    "id": "P0246"
   },
   {
     "Extract Name": "Garlic",
@@ -800,7 +800,7 @@
     "Primary Benefit": "Supports cardiovascular and immune health; antimicrobial.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0248"
+    "id": "P0247"
   },
   {
     "Extract Name": "Onion",
@@ -811,7 +811,7 @@
     "Primary Benefit": "Rich in antioxidant flavonoids like quercetin.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0249"
+    "id": "P0248"
   },
   {
     "Extract Name": "Yarrow",
@@ -822,7 +822,7 @@
     "Primary Benefit": "Supports fever management (diaphoretic), aids digestion.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0250"
+    "id": "P0249"
   },
   {
     "Extract Name": "Motherwort",
@@ -833,7 +833,7 @@
     "Primary Benefit": "\"Heart's herb\"; calms anxiety and heart palpitations, supports menses.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0251"
+    "id": "P0250"
   },
   {
     "Extract Name": "Damiana",
@@ -844,7 +844,7 @@
     "Primary Benefit": "Traditional aphrodisiac and mood enhancer.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0252"
+    "id": "P0251"
   },
   {
     "Extract Name": "Thyme",
@@ -855,7 +855,7 @@
     "Primary Benefit": "Antimicrobial; supports respiratory health, especially for coughs.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0253"
+    "id": "P0252"
   },
   {
     "Extract Name": "Oregano",
@@ -866,7 +866,7 @@
     "Primary Benefit": "Potent antimicrobial and antioxidant.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0254"
+    "id": "P0253"
   },
   {
     "Extract Name": "Sage",
@@ -877,7 +877,7 @@
     "Primary Benefit": "Supports cognitive function and memory; can help reduce sweating.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0255"
+    "id": "P0254"
   },
   {
     "Extract Name": "Mullein",
@@ -888,7 +888,7 @@
     "Primary Benefit": "Soothes the respiratory system and acts as an expectorant.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0256"
+    "id": "P0255"
   },
   {
     "Extract Name": "Fennel",
@@ -899,7 +899,7 @@
     "Primary Benefit": "Relieves digestive gas, bloating, and cramps (carminative).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0257"
+    "id": "P0256"
   },
   {
     "Extract Name": "Coriander",
@@ -910,7 +910,7 @@
     "Primary Benefit": "Aids digestion, cooling, supports detoxification.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0258"
+    "id": "P0257"
   },
   {
     "Extract Name": "Cumin",
@@ -921,7 +921,7 @@
     "Primary Benefit": "Powerful digestive aid, rich in iron.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0259"
+    "id": "P0258"
   },
   {
     "Extract Name": "Cardamom",
@@ -932,7 +932,7 @@
     "Primary Benefit": "Warming digestive aid, reduces nausea, freshens breath.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0260"
+    "id": "P0259"
   },
   {
     "Extract Name": "Clove",
@@ -943,7 +943,7 @@
     "Primary Benefit": "Highest antioxidant capacity of spices; antimicrobial, analgesic.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0261"
+    "id": "P0260"
   },
   {
     "Extract Name": "Black Pepper",
@@ -954,7 +954,7 @@
     "Primary Benefit": "Enhances nutrient absorption (bioavailability), stimulates digestion.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0262"
+    "id": "P0261"
   },
   {
     "Extract Name": "White Willow",
@@ -965,7 +965,7 @@
     "Primary Benefit": "Natural source of salicin for pain and inflammation relief.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0263"
+    "id": "P0262"
   },
   {
     "Extract Name": "Kava",
@@ -976,7 +976,7 @@
     "Primary Benefit": "Promotes relaxation and reduces anxiety. (Use with caution).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0264"
+    "id": "P0263"
   },
   {
     "Extract Name": "Calamus",
@@ -987,7 +987,7 @@
     "Primary Benefit": "Traditional herb for mind and voice clarity. (Some types are toxic).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0265"
+    "id": "P0264"
   },
   {
     "Extract Name": "Jiaogulan",
@@ -998,7 +998,7 @@
     "Primary Benefit": "Adaptogen, \"herb of immortality,\" supports cardiovascular health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0266"
+    "id": "P0265"
   },
   {
     "Extract Name": "Elderberry",
@@ -1009,7 +1009,7 @@
     "Primary Benefit": "Potent immune support, especially for colds and flu.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0267"
+    "id": "P0266"
   },
   {
     "Extract Name": "Bilberry",
@@ -1020,7 +1020,7 @@
     "Primary Benefit": "Supports vision, eye health, and microcirculation.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0268"
+    "id": "P0267"
   },
   {
     "Extract Name": "Cranberry",
@@ -1031,7 +1031,7 @@
     "Primary Benefit": "Supports urinary tract health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0269"
+    "id": "P0268"
   },
   {
     "Extract Name": "Acai",
@@ -1042,7 +1042,7 @@
     "Primary Benefit": "Extremely high in antioxidants; supports cellular health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0270"
+    "id": "P0269"
   },
   {
     "Extract Name": "Shankhpushpi",
@@ -1053,7 +1053,7 @@
     "Primary Benefit": "Ayurvedic brain tonic for memory, intellect, and calming the mind.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0271"
+    "id": "P0270"
   },
   {
     "Extract Name": "Manjistha",
@@ -1064,7 +1064,7 @@
     "Primary Benefit": "Premier Ayurvedic blood purifier for skin health and detoxification.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0272"
+    "id": "P0271"
   },
   {
     "Extract Name": "Vidanga",
@@ -1075,7 +1075,7 @@
     "Primary Benefit": "Ayurvedic herb for clearing parasites and supporting gut health.",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0273"
+    "id": "P0272"
   },
   {
     "Extract Name": "Celery",
@@ -1086,6 +1086,6 @@
     "Primary Benefit": "Anti-inflammatory, traditionally used for joint comfort (gout).",
     "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
     "category_name": "Herbal Powder",
-    "id": "P0274"
+    "id": "P0273"
   }
 ]
