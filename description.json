@@ -1,0 +1,1838 @@
+[
+  {
+    "Extract Name": "Curcumin 95% ",
+    "Category": "Phytochemicals",
+    "ID": "P0309",
+    "Descirption": "An extract from the turmeric root (Curcuma longa), standardized to contain 95% curcuminoids.[1][2] Curcumin is the primary active compound in turmeric, known for its powerful antioxidant and anti-inflammatory properties.[3] It is used to support cellular health, aid liver detoxification, and maintain cardiovascular health.[1]"
+  },
+  {
+    "Extract Name": "Beta-Carotene 10%",
+    "Category": "Phytochemicals",
+    "ID": "P0310",
+    "Descirption": "A preparation containing 10% beta-carotene, a red-orange pigment found in plants like carrots.[4] It is a precursor to vitamin A (provitamin A), essential for vision, immune function, and skin health.[5][6] It is often used as a nutritional supplement for vitamin A fortification and as a natural coloring agent in foods and beverages.[7][8]"
+  },
+  {
+    "Extract Name": "Caffeine 99%",
+    "Category": "Phytochemicals",
+    "ID": "P0311",
+    "Descirption": "A highly purified form of caffeine, a natural stimulant found in coffee, tea, and cacao plants. It is known for increasing alertness, reducing fatigue, and improving concentration by stimulating the central nervous system."
+  },
+  {
+    "Extract Name": "Procyanidins 95%",
+    "Category": "Phytochemicals",
+    "ID": "P0312",
+    "Descirption": "A class of potent antioxidant compounds (flavonoids) extracted from sources like grape seeds or pine bark. This 95% high-purity extract is used for its ability to protect cells from oxidative damage, support cardiovascular health, and improve circulation."
+  },
+  {
+    "Extract Name": "Berberine 90%, 50%",
+    "Category": "Phytochemicals",
+    "ID": "P0313",
+    "Descirption": "A bioactive compound extracted from various plants, including Barberry and Goldenseal. It is primarily used to help maintain healthy blood sugar and cholesterol levels. It also supports metabolic health and has antimicrobial properties. The percentages indicate available concentrations."
+  },
+  {
+    "Extract Name": "Stevia 95%",
+    "Category": "Phytochemicals",
+    "ID": "P0314",
+    "Descirption": "A high-purity extract from the leaves of the Stevia rebaudiana plant.[9][10] It contains a minimum of 95% steviol glycosides, the compounds responsible for its sweet taste.[11] It is used as a natural, zero-calorie sweetener and sugar substitute in food and beverages.[12][13]"
+  },
+  {
+    "Extract Name": "Astaxanthin 10% ",
+    "Category": "Phytochemicals",
+    "ID": "P0315",
+    "Descirption": "A 10% concentration of astaxanthin, a powerful antioxidant carotenoid pigment found in microalgae, yeast, salmon, and shrimp. It is known for its ability to support skin health by protecting against UV damage, improve eye health, and reduce inflammation and oxidative stress."
+  },
+  {
+    "Extract Name": "Amala vit-c 50%",
+    "Category": "Phytochemicals",
+    "ID": "P0316",
+    "Descirption": "An extract from the Amla fruit (Indian Gooseberry) standardized to contain 50% Vitamin C. Amla is a potent natural source of Vitamin C and antioxidants, used to boost the immune system, support healthy hair and skin, and aid digestion."
+  },
+  {
+    "Extract Name": "Zeaxanthin 10%",
+    "Category": "Phytochemicals",
+    "ID": "P0317",
+    "Descirption": "A 10% concentration of zeaxanthin, a carotenoid antioxidant that is concentrated in the macula of the human eye. It plays a crucial role in protecting the eyes from harmful high-energy blue light and reducing the risk of age-related macular degeneration and cataracts. It is often paired with lutein."
+  },
+  {
+    "Extract Name": "Lutein 10% ",
+    "Category": "Phytochemicals",
+    "ID": "P0318",
+    "Descirption": "A 10% concentration of lutein, a carotenoid antioxidant found in green leafy vegetables. Like zeaxanthin, it is a key component of the macular pigment in the eye, where it helps filter blue light and protects against oxidative damage, supporting overall vision health."
+  },
+  {
+    "Extract Name": "Silymarin 70% ",
+    "Category": "Phytochemicals",
+    "ID": "P0319",
+    "Descirption": "An extract from the seeds of the Milk Thistle plant, standardized to contain 70% silymarin. Silymarin is a complex of flavonoid compounds known for its liver-protective (hepatoprotective) effects. It supports liver function, aids in detoxification, and has antioxidant properties."
+  },
+  {
+    "Extract Name": "Quercetin 99%",
+    "Category": "Phytochemicals",
+    "ID": "P0320",
+    "Descirption": "A highly purified plant flavonoid found in many fruits, vegetables, and grains. Quercetin is a powerful antioxidant with anti-inflammatory properties. It is used to support immune health, manage allergy symptoms, and promote cardiovascular health."
+  },
+  {
+    "Extract Name": "Rutin 99%",
+    "Category": "Phytochemicals",
+    "ID": "P0321",
+    "Descirption": "A highly purified bioflavonoid found in citrus fruits, buckwheat, and asparagus. Rutin is known for its ability to strengthen and improve the flexibility of blood vessels, particularly capillaries. It supports healthy circulation and has antioxidant and anti-inflammatory effects."
+  },
+  {
+    "Extract Name": "Hesperdine 90%",
+    "Category": "Phytochemicals",
+    "ID": "P0322",
+    "Descirption": "A 90% pure bioflavonoid extracted from the peels of citrus fruits like oranges and lemons.[14][15] It has antioxidant and anti-inflammatory properties and is commonly used to support cardiovascular health by improving circulation and strengthening blood vessels.[15][16]"
+  },
+  {
+    "Extract Name": "Resveratrol 99%,50%",
+    "Category": "Phytochemicals",
+    "ID": "P0323",
+    "Descirption": "A high-purity extract of resveratrol, a natural polyphenol found in the skin of red grapes, berries, and peanuts. It is a well-known antioxidant studied for its potential anti-aging benefits and its ability to support cardiovascular health and brain function."
+  },
+  {
+    "Extract Name": "Piperine 95%,10%",
+    "Category": "Phytochemicals",
+    "ID": "P0324",
+    "Descirption": "An extract from black pepper (Piper nigrum) standardized to contain 95% or 10% piperine.[17][18] Piperine is the alkaloid responsible for the pungency of black pepper and is most notably used as a \"bioenhancer\" to significantly increase the absorption and bioavailability of other nutrients, such as curcumin.[19][20][21]"
+  },
+  {
+    "Extract Name": "Diosmin 90%",
+    "Category": "Phytochemicals",
+    "ID": "P0325",
+    "Descirption": "A 90% concentration of diosmin, a flavonoid compound derived from citrus fruits, particularly from hesperidin.[22][23][24] It is widely used to treat vascular conditions such as chronic venous insufficiency (CVI), varicose veins, and hemorrhoids by improving vein tone and circulation.[24][25] Often it is combined with 10% hesperidin.[16][26]"
+  },
+  {
+    "Extract Name": "DHA 10% Veg Powder",
+    "Category": "Phytochemicals",
+    "ID": "P0326",
+    "Descirption": "A vegetarian powder containing 10% Docosahexaenoic Acid (DHA), an essential omega-3 fatty acid. This form is typically derived from microalgae. DHA is a critical component of the brain, skin, and retina, and is vital for brain development, cognitive function, and eye health."
+  },
+  {
+    "Extract Name": "Omega 10% Veg \r\nPowder",
+    "Category": "Phytochemicals",
+    "ID": "P0327",
+    "Descirption": "A vegetarian powder providing a 10% concentration of omega fatty acids (likely a blend of omega-3, -6, and -9). Sourced from plants like flaxseed, chia, or algae, this powder supports cardiovascular health, brain function, and helps to reduce inflammation."
+  },
+  {
+    "Extract Name": "L-Arginine",
+    "Category": "Phytochemicals",
+    "ID": "P0328",
+    "Descirption": "An amino acid that is a building block of protein.[27][28][29] L-arginine is converted in the body to nitric oxide, a molecule that helps blood vessels relax and widen, thereby improving blood flow.[29][30] It is used to support cardiovascular health, circulation, and athletic performance.[31]"
+  },
+  {
+    "Extract Name": "Melatonin",
+    "Category": "Phytochemicals",
+    "ID": "P0329",
+    "Descirption": "A hormone produced by the brain in response to darkness that helps regulate the body's natural sleep-wake cycle (circadian rhythm).[32][33][34] As a supplement, it is commonly used to help with sleep issues such as insomnia, jet lag, and shift work disorder.[35][36]"
+  },
+  {
+    "Extract Name": "D-Mannose",
+    "Category": "Phytochemicals",
+    "ID": "P0330",
+    "Descirption": "A type of simple sugar, related to glucose, that is found in some fruits like cranberries.[37][38][39] It is most commonly used to help prevent and treat urinary tract infections (UTIs) by preventing certain bacteria from sticking to the walls of the urinary tract.[40][41]"
+  },
+  {
+    "Extract Name": "Konjac (Glucomannan) \r\n95%",
+    "Category": "Phytochemicals",
+    "ID": "P0331",
+    "Descirption": "A highly purified, natural, water-soluble dietary fiber extracted from the root of the konjac plant. Glucomannan is known for its ability to absorb large amounts of water, creating a feeling of fullness. It is used to support weight loss, manage cholesterol, and promote digestive health."
+  },
+  {
+    "Extract Name": "Phytosterol 95%",
+    "Category": "Phytochemicals",
+    "ID": "P0332",
+    "Descirption": "A highly concentrated mixture of sterols and stanols derived from plants. Phytosterols have a structure similar to cholesterol and work by blocking the absorption of dietary cholesterol in the gut. They are used in foods and supplements to help lower LDL (\"bad\") cholesterol levels."
+  },
+  {
+    "Extract Name": "Bromelain (1200/2400 \r\nGDU)",
+    "Category": "Phytochemicals",
+    "ID": "P0333",
+    "Descirption": "A complex of protein-digesting enzymes (proteases) extracted from the stem and juice of the pineapple plant. It is used as a digestive aid and is also known for its potent anti-inflammatory properties, helping to reduce swelling and pain associated with injuries and certain conditions. GDU measures enzyme activity."
+  },
+  {
+    "Extract Name": "Papain 100TU/500TU",
+    "Category": "Phytochemicals",
+    "ID": "P0334",
+    "Descirption": "A proteolytic enzyme extracted from the raw fruit of the papaya plant. Like bromelain, papain helps break down proteins and is commonly used as a digestive aid. It also has anti-inflammatory properties and is used in some topical preparations for wound healing. TU measures enzyme activity."
+  },
+  {
+    "Extract Name": "Acai Berry",
+    "Category": "Fruit extract",
+    "ID": "P0335",
+    "Descirption": "Acai berries are small, dark purple fruits native to the Amazon rainforest. They are lauded for their high antioxidant content, which is greater than that of cranberries, raspberries, blackberries, strawberries, or blueberries. These berries are a good source of fiber, heart-healthy fats, and calcium. Acai is often consumed as a frozen pulp, juice, or powder and is a popular ingredient in smoothie bowls, smoothies, and other health foods. Traditionally used by indigenous tribes for energy and to treat various ailments, modern uses focus on its antioxidant properties to combat cellular damage."
+  },
+  {
+    "Extract Name": "Acerola Cherry",
+    "Category": "Fruit extract",
+    "ID": "P0336",
+    "Descirption": "The Acerola cherry, also known as the Barbados cherry or West Indian cherry, is a bright red fruit recognized for its exceptionally high vitamin C content.[1] It is native to the tropical regions of the Western Hemisphere.[2] Traditionally, it has been used to treat liver problems, diarrhea, coughs, and colds.[2] Due to its potent antioxidant properties, it is often used to prevent colds and flu and to boost the immune system.[2][3] Acerola can also support skin health by promoting collagen production.[4] The fruit can be eaten raw, but because it is highly perishable, it is more commonly available as a powder, supplement, or juice.[2]"
+  },
+  {
+    "Extract Name": "Amla (Indian \r\nGooseberry)",
+    "Category": "Fruit extract",
+    "ID": "P0337",
+    "Descirption": "Amla, also known as Indian Gooseberry, is a small, green, tart fruit native to India. It is a nutritional powerhouse, rich in vitamin C, amino acids, and minerals. In Ayurvedic medicine, Amla has been used for thousands of years to improve digestion, boost the immune system, and promote hair growth. It is also known to have anti-inflammatory and antioxidant properties, which help protect the body from oxidative stress. Amla can be consumed fresh, juiced, powdered, or as a supplement"
+  },
+  {
+    "Extract Name": "Apple",
+    "Category": "Fruit extract",
+    "ID": "P0338",
+    "Descirption": "Apples are one of the most widely cultivated tree fruits, known for their crisp texture and sweet or tart flavor. They are a good source of fiber, vitamin C, and various antioxidants. The nutrients in apples can contribute to heart health, and some studies suggest they may have a protective effect against certain types of cancer. The pectin fiber in apples acts as a prebiotic, promoting good gut bacteria. Apples are versatile and can be eaten raw, cooked in a variety of dishes, or made into juice, cider, and vinegar."
+  },
+  {
+    "Extract Name": "Apricot",
+    "Category": "Fruit extract",
+    "ID": "P0339",
+    "Descirption": "Apricots are small, golden-orange fruits with a velvety skin and flesh that is not overly juicy but rich in flavor.[5] Originating from China, they are now grown in many temperate climates around the world.[5] Apricots are a good source of vitamins A and C, potassium, and flavonoids, which are antioxidants that can help protect against inflammation and certain illnesses.[5][6] They are beneficial for eye health, skin protection, and digestion.[5][6] Apricots can be eaten fresh, dried, or used in jams, jellies, and desserts. Apricot oil is also used in cosmetics.[7]"
+  },
+  {
+    "Extract Name": "Avocado",
+    "Category": "Fruit extract",
+    "ID": "P0340",
+    "Descirption": "Avocado is a unique fruit known for its creamy texture and rich, nutty flavor. Unlike most fruits, it is high in healthy monounsaturated fats. Avocados are also an excellent source of potassium, fiber, and vitamins K, C, E, and B-vitamins. The high fat and fiber content can help with satiety and weight management. Regular consumption may benefit heart health by improving cholesterol levels. Avocados are versatile and can be used in salads, sandwiches, smoothies, and dips like guacamole."
+  },
+  {
+    "Extract Name": "Banana",
+    "Category": "Fruit extract",
+    "ID": "P0341",
+    "Descirption": "Bananas are a popular tropical fruit known for their sweet taste and creamy texture. They are a great source of potassium, an essential mineral for maintaining normal blood pressure and heart function. Bananas also provide vitamin B6, vitamin C, and dietary fiber. The fiber in bananas can aid in digestion and promote a feeling of fullness. They are a convenient and portable snack and can be used in smoothies, baking, and desserts."
+  },
+  {
+    "Extract Name": "Baobab",
+    "Category": "Fruit extract",
+    "ID": "P0342",
+    "Descirption": "Baobab is the fruit of the Adansonia tree, native to Africa, Australia, and the Middle East. The fruit has a hard outer shell and contains a dry, powdery pulp that is rich in vitamin C, antioxidants, and several key minerals like potassium, magnesium, iron, and zinc. Baobab is often sold as a powder and can be added to foods and drinks. It is known to support the immune system, aid in digestion due to its high fiber content, and promote skin health by supporting collagen formation."
+  },
+  {
+    "Extract Name": "Bilberry",
+    "Category": "Fruit extract",
+    "ID": "P0343",
+    "Descirption": "Bilberry is a small, dark blue berry, similar in appearance to a blueberry, native to Northern Europe.[8] Traditionally, the dried fruit and leaves have been used for medicinal purposes.[9][10] Bilberries are rich in antioxidants, particularly anthocyanins, which are thought to be responsible for most of their health benefits.[8] They have been used for conditions related to vision and to lower blood sugar and cholesterol levels.[8][9][11] Some research suggests bilberry may help with tired or dry eyes from video monitor use.[12] Bilberry can be consumed fresh, as a jam, or as an extract in supplements.[10]"
+  },
+  {
+    "Extract Name": "Black Cherry",
+    "Category": "Fruit extract",
+    "ID": "P0344",
+    "Descirption": "Black cherry, a species native to North America, is a small, dark-colored fruit with a sweet, rich flavor. The fruit is a good source of antioxidants, including anthocyanins, which give them their deep red/purple color. These compounds have anti-inflammatory properties that may help reduce symptoms of arthritis and gout. Black cherries also contain melatonin, which may help regulate sleep cycles. They can be eaten fresh, or used in pies, jams, and juices."
+  },
+  {
+    "Extract Name": "Black Currant",
+    "Category": "Fruit extract",
+    "ID": "P0345",
+    "Descirption": "Black currants are small, dark purple berries with a tart flavor. They are exceptionally rich in vitamin C and are a good source of antioxidants and anthocyanins. The nutrients in black currants can help strengthen the immune system, and their anti-inflammatory properties may benefit joint health. Traditionally, they have been used to treat colds, flu, and throat infections. Black currants are often used to make juices, jams, jellies, and desserts."
+  },
+  {
+    "Extract Name": "Blackberry",
+    "Category": "Fruit extract",
+    "ID": "P0346",
+    "Descirption": "Blackberries are sweet, dark-colored berries that are a good source of vitamins C and K, manganese, and fiber.[13] They are packed with antioxidants, particularly anthocyanins, which may help reduce inflammation and protect against chronic diseases like cancer and heart disease.[13][14][15] The fiber content in blackberries aids in digestion and helps maintain healthy blood sugar levels.[13][16] Blackberries can be eaten fresh, added to yogurt and cereals, or used in desserts, jams, and smoothies. The leaf and root have also been used in traditional medicine.[14][17]"
+  },
+  {
+    "Extract Name": "Blueberry",
+    "Category": "Fruit extract",
+    "ID": "P0347",
+    "Descirption": "Blueberries are small, round, blue-purple berries known for being a superfood. They are low in calories but high in nutrients, including fiber, vitamin C, vitamin K, and manganese. Blueberries have one of the highest antioxidant levels among all common fruits and vegetables. These antioxidants, particularly anthocyanins, are linked to numerous health benefits, such as improved brain function, heart health, and reduced risk of chronic diseases. They can be enjoyed fresh, frozen, or in various products like jams, jellies, and baked goods."
+  },
+  {
+    "Extract Name": "Camu Camu",
+    "Category": "Fruit extract",
+    "ID": "P0348",
+    "Descirption": "Camu camu is a small, sour berry native to the Amazon rainforest. It is most famous for its incredibly high vitamin C content, containing more vitamin C than any other known food. Due to its potent antioxidant and anti-inflammatory properties, camu camu is often used to boost the immune system and support skin and gum health. Because of its very sour taste, it is rarely eaten fresh and is typically found in powder or supplement form."
+  },
+  {
+    "Extract Name": "Cantaloupe",
+    "Category": "Fruit extract",
+    "ID": "P0349",
+    "Descirption": "Cantaloupe is a type of melon with a netted, tan-colored skin and sweet, orange flesh. It is an excellent source of vitamin A (in the form of carotenoids) and vitamin C, which are important for immune function and skin health. Cantaloupe also has a high water content, making it a hydrating fruit. The potassium in cantaloupe can help maintain healthy blood pressure. It is typically eaten fresh, either on its own or in fruit salads."
+  },
+  {
+    "Extract Name": "Chasteberry",
+    "Category": "Fruit extract",
+    "ID": "P0350",
+    "Descirption": "Chasteberry is the fruit of the chaste tree and has been used for centuries in traditional medicine, particularly for women's health issues. It is often used to help regulate hormones and alleviate symptoms of premenstrual syndrome (PMS), such as bloating, irritability, and breast tenderness. It is also sometimes used to address menstrual cycle irregularities and menopausal symptoms. Chasteberry is typically taken as a liquid extract or in capsule form."
+  },
+  {
+    "Extract Name": "Cranberry",
+    "Category": "Fruit extract",
+    "ID": "P0351",
+    "Descirption": "Cranberries are small, hard, round, red fruits with a tart taste. They are well-known for their ability to help prevent urinary tract infections (UTIs) by preventing bacteria from adhering to the bladder wall. Cranberries are a good source of vitamin C and are rich in antioxidants. They may also contribute to heart health and have anti-inflammatory properties. Due to their tartness, they are rarely eaten raw and are more commonly consumed as juice, sauce, or in dried form."
+  },
+  {
+    "Extract Name": "Cucumber",
+    "Category": "Fruit extract",
+    "ID": "P0352",
+    "Descirption": "Cucumbers are a widely cultivated plant in the gourd family. Though commonly considered a vegetable, they are botanically a fruit. They have a high water content (about 95%), making them very hydrating. Cucumbers contain small amounts of various nutrients, including vitamin K and antioxidants. They are often eaten raw in salads and sandwiches or pickled. Slices of cucumber are also popularly used in skincare to soothe the skin."
+  },
+  {
+    "Extract Name": "Date",
+    "Category": "Fruit extract",
+    "ID": "P0353",
+    "Descirption": "Dates are the sweet, chewy fruit of the date palm tree. They are a good source of energy, fiber, and various vitamins and minerals, including potassium, magnesium, and iron. Dates are also rich in antioxidants. The fiber content can aid in digestion and help prevent constipation. They are naturally sweet and are often used as a natural sweetener in recipes or eaten on their own as a snack."
+  },
+  {
+    "Extract Name": "Dragon Fruit (Pitaya)",
+    "Category": "Fruit extract",
+    "ID": "P0354",
+    "Descirption": "Dragon fruit, also known as pitaya, is a tropical fruit with a unique appearance, featuring a bright pink or yellow skin with green scales. The flesh, which can be white or red, is dotted with tiny black seeds and has a mildly sweet taste. It is a good source of fiber, vitamin C, and various antioxidants. Dragon fruit may help improve gut health due to its fiber content and has been noted for its potential prebiotic effects. It is typically eaten fresh."
+  },
+  {
+    "Extract Name": "Elderberry",
+    "Category": "Fruit extract",
+    "ID": "P0355",
+    "Descirption": "Elderberry is the dark purple fruit of the elder tree.[18] Historically, various parts of the elderberry tree have been used for medicinal and culinary purposes.[19] The berries and flowers are packed with antioxidants and vitamins that may boost the immune system.[20] Elderberry is commonly used to help prevent and ease cold and flu symptoms.[20][21] It has also been used to treat constipation and joint and muscle pain.[20][21] Raw or unripe elderberries can be toxic, so they must be cooked before consumption.[18] Elderberry is often consumed as a syrup, gummy, lozenge, pill, or tea.[20]"
+  },
+  {
+    "Extract Name": "Fig",
+    "Category": "Fruit extract",
+    "ID": "P0356",
+    "Descirption": "Figs are a sweet fruit with a unique texture from their soft flesh and crunchy seeds. They can be eaten fresh, dried, or used in jams and baked goods. Figs are a good source of dietary fiber, which can help promote digestive health and prevent constipation. They also contain various minerals, including potassium, calcium, and magnesium."
+  },
+  {
+    "Extract Name": "Goji Berry (Wolfberry)",
+    "Category": "Fruit extract",
+    "ID": "P0357",
+    "Descirption": "Goji berries, also known as wolfberries, are small, red-orange berries that have been used in traditional Chinese medicine for centuries. They are rich in antioxidants, particularly zeaxanthin, which is beneficial for eye health. Goji berries are also a good source of vitamins A and C. They are believed to boost the immune system, support brain health, and have anti-aging properties. They can be eaten raw, cooked, or dried and are often added to cereals, trail mixes, and teas."
+  },
+  {
+    "Extract Name": "Grape",
+    "Category": "Fruit extract",
+    "ID": "P0358",
+    "Descirption": "Grapes are berries that grow in clusters and come in various colors, including green, red, black, and purple. They are a good source of vitamins C and K, as well as antioxidants, including resveratrol, which is found in the skin of red grapes and is linked to heart health benefits. The nutrients in grapes may help protect against chronic diseases, such as heart disease and certain cancers. Grapes are eaten fresh, made into juice and wine, and dried to produce raisins."
+  },
+  {
+    "Extract Name": "Guava",
+    "Category": "Fruit extract",
+    "ID": "P0360",
+    "Descirption": "Guava is a tropical fruit that can be round or oval and has a green or yellow skin. The flesh can be white, pink, or red and contains small, hard seeds. Guava is exceptionally high in vitamin C, lycopene, and other antioxidants. It is also a good source of dietary fiber. The nutrients in guava can help boost immunity, benefit digestion, and promote heart health. It can be eaten fresh, juiced, or used in jams and jellies."
+  },
+  {
+    "Extract Name": "Hawthorn",
+    "Category": "Fruit extract",
+    "ID": "P0361",
+    "Descirption": "Hawthorn is a flowering shrub or tree of the rose family that produces small, berry-like fruits.[22][23] The leaves, berries, and flowers have been used in traditional medicine for centuries, particularly for heart and circulatory conditions.[23][24][25] Hawthorn contains flavonoids and other compounds with antioxidant properties.[22] It has been used to help with mild heart failure, regulate blood pressure, and manage cholesterol levels, although more research is needed to confirm these effects.[22][24][26] Hawthorn is often consumed as a tea or in supplement form."
+  },
+  {
+    "Extract Name": "Juniper",
+    "Category": "Fruit extract",
+    "ID": "P0362",
+    "Descirption": "Juniper berries are the female seed cones produced by various species of junipers. While they are called berries, they are not true berries in a botanical sense. They have a pungent, piney flavor and are most famously used to flavor gin. In traditional medicine, juniper berries have been used as a diuretic and to treat digestive issues. They contain compounds with antioxidant and anti-inflammatory properties. They are typically used as a spice rather than eaten as a fruit."
+  },
+  {
+    "Extract Name": "Kiwifruit",
+    "Category": "Fruit extract",
+    "ID": "P0363",
+    "Descirption": "Kiwifruit, or kiwi, is a small fruit with a fuzzy brown skin and bright green or golden flesh with tiny black seeds. It has a sweet and tangy flavor. Kiwi is an excellent source of vitamin C, vitamin K, and dietary fiber. The high vitamin C content helps support the immune system. The fiber in kiwi aids in digestion and can help prevent constipation. It is typically eaten fresh."
+  },
+  {
+    "Extract Name": "Lemon",
+    "Category": "Fruit extract",
+    "ID": "P0364",
+    "Descirption": "Lemons are a citrus fruit known for their sour taste due to their high citric acid content. They are an excellent source of vitamin C and a good source of antioxidants. The vitamin C in lemons is important for immune function and skin health. Lemon juice is widely used to flavor foods and drinks. Drinking lemon water is a popular practice believed to aid digestion and detoxification, although scientific evidence for some of these claims is limited."
+  },
+  {
+    "Extract Name": "Lime",
+    "Category": "Fruit extract",
+    "ID": "P0365",
+    "Descirption": "Limes are small, green citrus fruits with a tart, acidic taste. Like lemons, they are a good source of vitamin C and antioxidants. The nutrients in limes can help boost the immune system and promote healthy skin. Lime juice and zest are commonly used to add a bright, zesty flavor to a wide variety of dishes and beverages."
+  },
+  {
+    "Extract Name": "Luo Han Guo (Monk \r\nFruit)",
+    "Category": "Fruit extract",
+    "ID": "P0366",
+    "Descirption": "Luo Han Guo, also known as monk fruit, is a small, green gourd native to Southern China. It has been used for centuries in traditional Chinese medicine. The fruit's sweetness comes from compounds called mogrosides, which are intensely sweet but contain no calories. For this reason, monk fruit sweetener is a popular natural, zero-calorie sugar substitute. It does not raise blood sugar levels, making it a good option for people with diabetes."
+  },
+  {
+    "Extract Name": "Lychee",
+    "Category": "Fruit extract",
+    "ID": "P0367",
+    "Descirption": "Lychee is a tropical fruit with a rough, reddish-pink outer skin and sweet, translucent-white flesh.[27] It is a good source of vitamin C and contains various beneficial plant compounds with antioxidant properties.[27][28][29][30] These compounds may have anti-inflammatory and cardioprotective qualities.[27][28] Some studies suggest that lychee may help with weight management and support brain health.[28] Lychees are typically eaten fresh but are also available canned or dried.[27] The fruit contains chemicals that might help reduce swelling and pain and stimulate the immune system.[31]"
+  },
+  {
+    "Extract Name": "Mango",
+    "Category": "Fruit extract",
+    "ID": "P0368",
+    "Descirption": "Mango is a sweet, tropical stone fruit with a juicy, golden-yellow flesh. It is an excellent source of vitamin C and vitamin A (in the form of beta-carotene). Mangoes also contain various antioxidants. The nutrients in mangoes can support immune function, promote eye health, and aid in digestion due to their fiber content. They are eaten fresh, juiced, dried, and are a popular ingredient in smoothies, desserts, and savory dishes."
+  },
+  {
+    "Extract Name": "Mangosteen",
+    "Category": "Fruit extract",
+    "ID": "P0369",
+    "Descirption": "Mangosteen is a tropical fruit with a thick, purple rind and sweet, tangy, white flesh. It has been used for centuries in traditional medicine in Southeast Asia. Mangosteen is rich in a class of antioxidants called xanthones, which are believed to have potent anti-inflammatory properties. It is often consumed for its potential to boost the immune system and support overall health. The fruit is typically eaten fresh."
+  },
+  {
+    "Extract Name": "Noni",
+    "Category": "Fruit extract",
+    "ID": "P0370",
+    "Descirption": "Noni is a fruit-bearing tree in the coffee family, native to Southeast Asia and Australasia. The fruit has a strong, bitter taste and has been used in traditional Polynesian medicine for thousands of years to treat a variety of health problems, including diabetes, high blood pressure, and inflammation.[32] Noni juice contains antioxidants and may support the immune system and joint health.[32][33][34] It is most commonly consumed as a juice."
+  },
+  {
+    "Extract Name": "Olive",
+    "Category": "Fruit extract",
+    "ID": "P0371",
+    "Descirption": "Olives are small fruits that grow on olive trees. They are naturally very bitter and are cured before eating. Olives are a good source of healthy monounsaturated fats, specifically oleic acid, which is associated with various health benefits, including reduced inflammation. They also contain vitamin E and other antioxidants. Olives are a key component of the Mediterranean diet and are consumed whole or pressed to produce olive oil."
+  },
+  {
+    "Extract Name": "Orange",
+    "Category": "Fruit extract",
+    "ID": "P0372",
+    "Descirption": "Oranges are a popular citrus fruit known for their sweet and juicy flesh. They are most famous for their high vitamin C content, which is a powerful antioxidant that supports immune function. Oranges are also a good source of fiber, potassium, and B vitamins. The nutrients in oranges can contribute to heart health and may help prevent kidney stones. They are commonly eaten fresh or juiced."
+  },
+  {
+    "Extract Name": "Papaya",
+    "Category": "Fruit extract",
+    "ID": "P0373",
+    "Descirption": "Papaya is a tropical fruit with a soft, orange-colored flesh and a sweet, musky flavor. It is rich in an enzyme called papain, which can help break down proteins and aid in digestion. Papaya is an excellent source of vitamin C and a good source of vitamin A. It also contains antioxidants like lycopene. The nutrients in papaya can support the immune system, promote heart health, and may have anti-inflammatory effects. It is typically eaten fresh."
+  },
+  {
+    "Extract Name": "Passion Fruit",
+    "Category": "Fruit extract",
+    "ID": "P0374",
+    "Descirption": "Passion fruit is a tropical fruit with a tough outer rind and a juicy, seed-filled center. It has a unique, intense, and aromatic flavor that is both sweet and tart. Passion fruit is a good source of fiber, vitamin C, and vitamin A. The fiber content is beneficial for digestive health. The fruit also contains antioxidants. The seeds are edible and are a good source of fiber. Passion fruit can be eaten fresh, juiced, or added to desserts and drinks."
+  },
+  {
+    "Extract Name": "Peach",
+    "Category": "Fruit extract",
+    "ID": "P0375",
+    "Descirption": "Peaches are sweet, juicy stone fruits with a fuzzy skin.[35] They are a good source of vitamins C and A, as well as potassium and fiber.[36][37] Peaches are rich in antioxidants, which can help protect the body against aging and disease.[35] Regular consumption of peaches may contribute to improved heart health, better digestion, and healthier skin.[35][38] They may also help boost the immune system and reduce inflammation.[37][38] Peaches can be eaten fresh, grilled, baked, or added to a variety of dishes.[35][37]"
+  },
+  {
+    "Extract Name": "Pineapple",
+    "Category": "Fruit extract",
+    "ID": "P0376",
+    "Descirption": "Pineapple is a tropical fruit known for its distinctive appearance and sweet-tart taste. It is an excellent source of vitamin C and manganese. Pineapple contains a group of digestive enzymes called bromelain, which can help break down proteins and aid digestion. Bromelain is also known for its anti-inflammatory properties. Pineapple can be eaten fresh, canned, juiced, or used in a variety of sweet and savory dishes."
+  },
+  {
+    "Extract Name": "Pomegranate",
+    "Category": "Fruit extract",
+    "ID": "P0377",
+    "Descirption": "Pomegranate is a fruit containing hundreds of edible seeds called arils, which are surrounded by a sweet, juicy pulp. It is rich in powerful antioxidants, particularly punicalagins and punicic acid. These antioxidants have been linked to numerous health benefits, including reduced inflammation and a lower risk of heart disease and certain cancers. Pomegranate is typically consumed by eating the arils or drinking its juice."
+  },
+  {
+    "Extract Name": "Raspberry",
+    "Category": "Fruit extract",
+    "ID": "P0378",
+    "Descirption": "Raspberries are small, sweet, and slightly tart berries that are a rich source of vitamins, minerals, and antioxidants. They are particularly high in fiber and vitamin C. The antioxidants in raspberries, such as anthocyanins, may have anti-inflammatory and cancer-fighting properties. The fiber and tannins in raspberries may also help to regulate blood sugar levels. They are delicious eaten fresh, frozen, or used in jams, desserts, and smoothies."
+  },
+  {
+    "Extract Name": "Rose Hips",
+    "Category": "Fruit extract",
+    "ID": "P0379",
+    "Descirption": "Rose hips are the small, round, seed-filled fruit of the rose plant, typically red or orange.[39][40] They are one of nature's richest sources of vitamin C and also contain vitamins A, D, and E, as well as antioxidants like flavonoids.[41] Traditionally, rose hips have been used to combat infections like coughs and colds.[41] Modern research suggests they may help reduce inflammation, which can benefit conditions like arthritis.[40][42] Rose hips are often used to make teas, jams, jellies, and supplements. Rosehip oil is also popular in skincare for its potential anti-aging properties.[39][41]"
+  },
+  {
+    "Extract Name": "Saw Palmetto",
+    "Category": "Fruit extract",
+    "ID": "P0380",
+    "Descirption": "Saw palmetto is a small palm tree native to the southeastern United States. The berries of the plant are used to make supplements that are most commonly used to support prostate health and treat symptoms of an enlarged prostate (benign prostatic hyperplasia or BPH). It is also sometimes used for other conditions, such as hair loss and hormonal imbalances, though more research is needed to confirm its effectiveness for these uses."
+  },
+  {
+    "Extract Name": "Schisandra",
+    "Category": "Fruit extract",
+    "ID": "P0381",
+    "Descirption": "Schisandra is a woody vine that produces small, bright red berries. In traditional Chinese medicine, schisandra berry is considered a \"five-flavor fruit\" because it is said to contain all five basic flavors: sweet, sour, salty, bitter, and pungent. It has been used for centuries as an adaptogen, which means it may help the body resist the effects of stress. It is also used to support liver function and improve mental performance. The berries are typically dried and used in teas, tinctures, or supplements."
+  },
+  {
+    "Extract Name": "Sea Buckthorn",
+    "Category": "Fruit extract",
+    "ID": "P0382",
+    "Descirption": "Sea buckthorn is a shrub that produces small, bright orange berries. These berries are incredibly rich in vitamins, particularly vitamin C, as well as antioxidants, minerals, and healthy fatty acids, including omega-7. Sea buckthorn has been used in traditional medicine for centuries to support skin health, boost the immune system, and promote cardiovascular health. The oil from the berries is often used in skincare products for its restorative properties."
+  },
+  {
+    "Extract Name": "Strawberry",
+    "Category": "Fruit extract",
+    "ID": "P0383",
+    "Descirption": "Strawberries are a popular bright red, juicy, and sweet fruit. They are an excellent source of vitamin C and manganese and also contain a good amount of fiber and antioxidants. The antioxidants in strawberries, such as anthocyanins, are linked to heart health benefits, including improved cholesterol levels and blood pressure. Strawberries are also low in calories. They are delicious eaten fresh, and are widely used in desserts, jams, and smoothies."
+  },
+  {
+    "Extract Name": "Watermelon",
+    "Category": "Fruit extract",
+    "ID": "P0384",
+    "Descirption": "Watermelon is a large, refreshing fruit with a high water content (about 92%), making it very hydrating. It has a sweet, juicy flesh that is typically red or pink, and a green rind. Watermelon is a good source of vitamin C and a significant source of lycopene, an antioxidant linked to a reduced risk of certain cancers and heart disease. It is a popular summer fruit that is typically eaten fresh."
+  },
+  {
+    "Extract Name": "Turmeric",
+    "Category": "Herbal Powder",
+    "ID": "P0385",
+    "Descirption": "A spice that contains curcumin, a substance with powerful anti-inflammatory and antioxidant properties. It is commonly used to support joint health, reduce inflammation, and aid in digestion."
+  },
+  {
+    "Extract Name": "Ashwagandha",
+    "Category": "Herbal Powder",
+    "ID": "P0386",
+    "Descirption": "An adaptogenic herb used in Ayurvedic medicine to help the body manage stress. It is believed to calm the brain, reduce swelling, lower blood pressure, and alter the immune system."
+  },
+  {
+    "Extract Name": "Maca",
+    "Category": "Herbal Powder",
+    "ID": "P0387",
+    "Descirption": "A root vegetable from Peru, traditionally used to enhance fertility and sex drive. It is also claimed to improve energy and stamina."
+  },
+  {
+    "Extract Name": "Spirulina",
+    "Category": "Herbal Powder",
+    "ID": "P0388",
+    "Descirption": "A type of blue-green algae that is rich in nutrients and antioxidants. It may help lower cholesterol, reduce blood pressure, and has anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Chlorella",
+    "Category": "Herbal Powder",
+    "ID": "P0389",
+    "Descirption": "A single-celled, green freshwater algae that is rich in vitamins, minerals, and antioxidants. It is often used for detoxification and to boost the immune system."
+  },
+  {
+    "Extract Name": "Moringa",
+    "Category": "Herbal Powder",
+    "ID": "P0390",
+    "Descirption": "A plant native to India, also known as the drumstick tree. Its leaves are rich in vitamins, minerals, and antioxidants and have been used to combat malnutrition."
+  },
+  {
+    "Extract Name": "Wheatgrass",
+    "Category": "Herbal Powder",
+    "ID": "P0391",
+    "Descirption": "The young grass of the common wheat plant. It is a concentrated source of nutrients, including vitamins, minerals, and chlorophyll. It is often consumed as a juice for its detoxifying properties."
+  },
+  {
+    "Extract Name": "Barley Grass",
+    "Category": "Herbal Powder",
+    "ID": "P0392",
+    "Descirption": "The young leaves of the barley plant, rich in vitamins, minerals, antioxidants, and fiber. It is used to support immune function, aid digestion, and may help with weight loss."
+  },
+  {
+    "Extract Name": "Ginger",
+    "Category": "Herbal Powder",
+    "ID": "P0393",
+    "Descirption": "A flowering plant whose root is widely used as a spice and for its medicinal properties. It is well-known for alleviating nausea and has anti-inflammatory and antioxidant effects."
+  },
+  {
+    "Extract Name": "Cinnamon (Ceylon)",
+    "Category": "Herbal Powder",
+    "ID": "P0394",
+    "Descirption": "A type of cinnamon that is considered \"true cinnamon.\" It is known for its potential to help lower blood sugar levels and has antioxidant and anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Psyllium",
+    "Category": "Herbal Powder",
+    "ID": "P0395",
+    "Descirption": "A form of fiber made from the husks of the Plantago ovata plant's seeds. It is commonly used as a bulk-forming laxative to promote regularity and digestive health."
+  },
+  {
+    "Extract Name": "Triphala",
+    "Category": "Herbal Powder",
+    "ID": "P0396",
+    "Descirption": "An herbal formulation in Ayurvedic medicine consisting of three fruits: amla, bibhitaki, and haritaki. It is used as a gentle laxative and to support overall digestive health."
+  },
+  {
+    "Extract Name": "Amla (Indian \r\nGooseberry)",
+    "Category": "Herbal Powder",
+    "ID": "P0397",
+    "Descirption": "A fruit rich in vitamin C and antioxidants. It is used in Ayurvedic medicine to boost the immune system, support hair and skin health, and aid in digestion."
+  },
+  {
+    "Extract Name": "Reishi Mushroom",
+    "Category": "Herbal Powder",
+    "ID": "P0398",
+    "Descirption": "A fungus used in traditional Chinese medicine to enhance the immune system, reduce stress, and improve sleep."
+  },
+  {
+    "Extract Name": "Lion's Mane Mushroom",
+    "Category": "Herbal Powder",
+    "ID": "P0399",
+    "Descirption": "A type of medicinal mushroom that may support brain health, including memory and concentration. It is also being studied for its potential to stimulate nerve growth."
+  },
+  {
+    "Extract Name": "Cordyceps Mushroom",
+    "Category": "Herbal Powder",
+    "ID": "P0400",
+    "Descirption": "A fungus used in traditional Chinese medicine to improve energy, stamina, and athletic performance. It is also believed to have anti-aging properties."
+  },
+  {
+    "Extract Name": "Chaga Mushroom",
+    "Category": "Herbal Powder",
+    "ID": "P0401",
+    "Descirption": "A fungus that grows on birch trees, rich in antioxidants. It has been used to boost immunity, reduce inflammation, and lower cholesterol."
+  },
+  {
+    "Extract Name": "Gotu Kola",
+    "Category": "Herbal Powder",
+    "ID": "P0402",
+    "Descirption": "An herb used in traditional Chinese and Ayurvedic medicine to improve cognitive function, heal wounds, and promote skin health."
+  },
+  {
+    "Extract Name": "Holy Basil (Tulsi)",
+    "Category": "Herbal Powder",
+    "ID": "P0403",
+    "Descirption": "An aromatic plant used in Ayurvedic medicine as an adaptogen to help the body cope with stress. It is also believed to have antibacterial and antiviral properties."
+  },
+  {
+    "Extract Name": "Kelp",
+    "Category": "Herbal Powder",
+    "ID": "P0404",
+    "Descirption": "A large, brown seaweed that is a rich source of iodine, an essential mineral for thyroid function.[12] It also contains other vitamins and minerals."
+  },
+  {
+    "Extract Name": "Fenugreek",
+    "Category": "Herbal Powder",
+    "ID": "P0405",
+    "Descirption": "An herb with seeds that are used as a spice and for medicinal purposes. It is commonly used to increase milk production in breastfeeding women and may help control blood sugar levels."
+  },
+  {
+    "Extract Name": "Shatavari",
+    "Category": "Herbal Powder",
+    "ID": "P0406",
+    "Descirption": "An adaptogenic herb from the asparagus family used in Ayurvedic medicine, particularly for female reproductive health. It is thought to have antioxidant and anti-inflammatory properties and may help boost the immune system."
+  },
+  {
+    "Extract Name": "Licorice",
+    "Category": "Herbal Powder",
+    "ID": "P0407",
+    "Descirption": "The root of a plant used in traditional medicine for a variety of ailments, including digestive issues and sore throats. It has anti-inflammatory and antiviral properties."
+  },
+  {
+    "Extract Name": "Nettle",
+    "Category": "Herbal Powder",
+    "ID": "P0408",
+    "Descirption": "A plant with leaves and roots that have been used in herbal medicine.[18] It may help reduce inflammation, treat hay fever symptoms, lower blood pressure, and aid in blood sugar control.[18]"
+  },
+  {
+    "Extract Name": "Beetroot",
+    "Category": "Herbal Powder",
+    "ID": "P0409",
+    "Descirption": "The taproot portion of the beet plant. It is a good source of vitamins, minerals, and antioxidants. It is often used to improve athletic performance and support cardiovascular health."
+  },
+  {
+    "Extract Name": "Cacao",
+    "Category": "Herbal Powder",
+    "ID": "P0410",
+    "Descirption": "The raw, unprocessed form of chocolate. It is rich in antioxidants called flavonoids, which have been linked to various health benefits, including improved heart health and brain function."
+  },
+  {
+    "Extract Name": "Flax Seed",
+    "Category": "Herbal Powder",
+    "ID": "P0411",
+    "Descirption": "Seeds that are a rich source of omega-3 fatty acids, fiber, and lignans. They are commonly used to improve digestive health and relieve constipation."
+  },
+  {
+    "Extract Name": "Chia Seed",
+    "Category": "Herbal Powder",
+    "ID": "P0412",
+    "Descirption": "Small, nutrient-dense seeds that are a good source of fiber, omega-3 fatty acids, and protein. They are often used to increase energy and support digestive health."
+  },
+  {
+    "Extract Name": "Hemp",
+    "Category": "Herbal Powder",
+    "ID": "P0413",
+    "Descirption": "Seeds from the hemp plant that are a complete protein source and rich in healthy fats. They are often used to support heart health and improve skin conditions."
+  },
+  {
+    "Extract Name": "Burdock",
+    "Category": "Herbal Powder",
+    "ID": "P0414",
+    "Descirption": "A plant whose root has been used in traditional medicine as a diuretic and a digestive aid. It contains antioxidants and has been used to treat various skin conditions."
+  },
+  {
+    "Extract Name": "Dandelion",
+    "Category": "Herbal Powder",
+    "ID": "P0415",
+    "Descirption": "A common plant whose roots and leaves are used in herbal medicine. It is considered a diuretic and is used to support liver health and aid in digestion."
+  },
+  {
+    "Extract Name": "Marshmallow",
+    "Category": "Herbal Powder",
+    "ID": "P0416",
+    "Descirption": "A plant whose root has been used for centuries to soothe sore throats and treat digestive issues due to its high mucilage content."
+  },
+  {
+    "Extract Name": "Slippery Elm",
+    "Category": "Herbal Powder",
+    "ID": "P0417",
+    "Descirption": "An herbal remedy derived from the inner bark of the slippery elm tree. It is known for its soothing properties and is often used to relieve sore throats, coughs, and digestive upset."
+  },
+  {
+    "Extract Name": "Astragalus",
+    "Category": "Herbal Powder",
+    "ID": "P0418",
+    "Descirption": "An herb used in traditional Chinese medicine to boost the immune system and for its anti-aging and anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Eleuthero",
+    "Category": "Herbal Powder",
+    "ID": "P0419",
+    "Descirption": "An adaptogenic herb, also known as Siberian ginseng, used to increase energy, reduce fatigue, and support the body during times of stress."
+  },
+  {
+    "Extract Name": "Rhodiola",
+    "Category": "Herbal Powder",
+    "ID": "P0420",
+    "Descirption": "An adaptogenic herb that is believed to help the body adapt to and resist physical, chemical, and environmental stress. It is often used to reduce fatigue and improve mental performance."
+  },
+  {
+    "Extract Name": "Schisandra",
+    "Category": "Herbal Powder",
+    "ID": "P0421",
+    "Descirption": "A berry used in traditional Chinese medicine as an adaptogen to increase resistance to stress, improve energy, and enhance physical performance and endurance."
+  },
+  {
+    "Extract Name": "Dong Quai",
+    "Category": "Herbal Powder",
+    "ID": "P0422",
+    "Descirption": "A plant whose root has been used for centuries in traditional Chinese medicine, often referred to as \"female ginseng,\" to support women's health, particularly for menstrual and menopausal symptoms."
+  },
+  {
+    "Extract Name": "Tribulus",
+    "Category": "Herbal Powder",
+    "ID": "P0423",
+    "Descirption": "A plant that produces fruit covered with spines. It has been used in traditional medicine to enhance libido, support urinary tract health, and reduce swelling."
+  },
+  {
+    "Extract Name": "Ginkgo Biloba",
+    "Category": "Herbal Powder",
+    "ID": "P0424",
+    "Descirption": "An ancient tree species whose leaves are used to create extracts that are believed to improve cognitive function and circulation."
+  },
+  {
+    "Extract Name": "Milk Thistle",
+    "Category": "Herbal Powder",
+    "ID": "P0425",
+    "Descirption": "An herbal remedy used to support liver health and protect it from damage. It contains silymarin, which is believed to have antioxidant and anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Hawthorn",
+    "Category": "Herbal Powder",
+    "ID": "P0426",
+    "Descirption": "A fine powder made from the berries, leaves, and flowers of the Hawthorn plant. It is renowned in traditional herbalism for its ability to support cardiovascular health by strengthening the heart muscle, improving circulation, and helping to maintain healthy blood pressure levels."
+  },
+  {
+    "Extract Name": "Red Raspberry",
+    "Category": "Herbal Powder",
+    "ID": "P0427",
+    "Descirption": "Made from dried and ground red raspberries, this powder is a concentrated source of vitamins, minerals, and antioxidants like vitamin C and quercetin. It is used to add a nutritional boost and natural berry flavor to smoothies, yogurts, and desserts."
+  },
+  {
+    "Extract Name": "Cayenne",
+    "Category": "Herbal Powder",
+    "ID": "P0428",
+    "Descirption": "A hot and spicy powder ground from dried cayenne peppers. Its primary active component, capsaicin, is known for its ability to boost metabolism, support circulation, and provide temporary relief from minor pain."
+  },
+  {
+    "Extract Name": "Rosemary",
+    "Category": "Herbal Powder",
+    "ID": "P0429",
+    "Descirption": "A fragrant powder made from dried rosemary leaves. It is rich in antioxidants and has been traditionally used to support cognitive function, including memory and concentration, as well as to aid in digestion."
+  },
+  {
+    "Extract Name": "Ginseng (Panax)",
+    "Category": "Herbal Powder",
+    "ID": "P0430",
+    "Descirption": "A potent powder derived from the root of Panax ginseng (also known as Korean Ginseng). As a powerful adaptogen, it is used to enhance physical stamina, combat fatigue, improve mental clarity, and support overall vitality and immune function."
+  },
+  {
+    "Extract Name": "Cat's Claw",
+    "Category": "Herbal Powder",
+    "ID": "P0431",
+    "Descirption": "Derived from the bark of a tropical vine, this powder is traditionally used for its powerful immune-boosting and anti-inflammatory properties. It is often taken to support joint health and a healthy immune response."
+  },
+  {
+    "Extract Name": "Pau D'Arco",
+    "Category": "Herbal Powder",
+    "ID": "P0432",
+    "Descirption": "Made from the inner bark of a South American tree, this herbal powder is traditionally used for its potent antimicrobial, antifungal, and immune-supporting properties. It is often consumed as a tea to support detoxification and systemic health."
+  },
+  {
+    "Extract Name": "Olive Leaf",
+    "Category": "Herbal Powder",
+    "ID": "P0433",
+    "Descirption": "An herbal powder made from the leaves of the olive tree. It contains a high concentration of oleuropein, a powerful antioxidant that supports a healthy immune system and helps maintain cardiovascular health."
+  },
+  {
+    "Extract Name": "Echinacea",
+    "Category": "Herbal Powder",
+    "ID": "P0434",
+    "Descirption": "A popular herbal powder made from the Echinacea plant. It is widely used to stimulate and support the immune system, and is most often taken to help shorten the duration and reduce the severity of the common cold and other respiratory infections."
+  },
+  {
+    "Extract Name": "Goji (Wolfberry)",
+    "Category": "Herbal Powder",
+    "ID": "P0435",
+    "Descirption": "A nutrient-dense powder made from dried Goji berries. It is packed with antioxidants, particularly zeaxanthin, which supports eye health. It's also used to boost the immune system, support energy levels, and promote overall vitality."
+  },
+  {
+    "Extract Name": "Baobab",
+    "Category": "Herbal Powder",
+    "ID": "P0436",
+    "Descirption": "A powder made from the dried fruit of the African Baobab tree. It is exceptionally rich in vitamin C, antioxidants, and prebiotic fiber, which supports immune function, digestive health, and promotes healthy skin."
+  },
+  {
+    "Extract Name": "Lucuma",
+    "Category": "Herbal Powder",
+    "ID": "P0437",
+    "Descirption": "A naturally sweet powder made from the subtropical fruit of the Pouteria lucuma tree. It is used as a low-glycemic sweetener and is a good source of antioxidants, fiber, and essential minerals, adding a creamy, maple-like flavor to foods."
+  },
+  {
+    "Extract Name": "Camu Camu",
+    "Category": "Herbal Powder",
+    "ID": "P0438",
+    "Descirption": "A superfood powder derived from a sour berry native to the Amazon rainforest. It is celebrated for having one of the highest concentrations of natural vitamin C in the world, making it a powerful immune booster and antioxidant."
+  },
+  {
+    "Extract Name": "Acerola Cherry",
+    "Category": "Herbal Powder",
+    "ID": "P0439",
+    "Descirption": "A fine powder made from the acerola cherry fruit, another potent source of natural vitamin C. It is used to dramatically boost immune function, support skin health by promoting collagen production, and provide strong antioxidant protection."
+  },
+  {
+    "Extract Name": "Rose Hips",
+    "Category": "Herbal Powder",
+    "ID": "P0440",
+    "Descirption": "Ground from the dried fruit of the rose plant, this powder is an excellent source of vitamin C and other antioxidants. It is commonly used to support the immune system, improve skin health, and for its anti-inflammatory properties that can benefit joint comfort."
+  },
+  {
+    "Extract Name": "Brahmi (Bacopa)",
+    "Category": "Herbal Powder",
+    "ID": "P0441",
+    "Descirption": "An Ayurvedic herb, also known as Bacopa monnieri, ground into a fine powder. It is a renowned nootropic used to enhance cognitive functions, including memory, focus, and learning, while also helping to reduce stress and anxiety."
+  },
+  {
+    "Extract Name": "Valerian",
+    "Category": "Herbal Powder",
+    "ID": "P0442",
+    "Descirption": "Made from the root of the Valeriana officinalis plant, this powder is a well-known natural sedative. It is used to promote relaxation, ease nervous tension, and improve sleep quality for those with insomnia."
+  },
+  {
+    "Extract Name": "Passion flower",
+    "Category": "Herbal Powder",
+    "ID": "P0443",
+    "Descirption": "An herbal powder from the passionflower plant, traditionally used for its calming and sedative effects. It is often taken to help alleviate anxiety, restlessness, and insomnia without causing grogginess."
+  },
+  {
+    "Extract Name": "Lemon Balm",
+    "Category": "Herbal Powder",
+    "ID": "P0444",
+    "Descirption": "A powder made from the leaves of the lemon balm plant, a member of the mint family. It is known for its calming properties and is used to reduce stress and anxiety, promote sleep, and support cognitive health."
+  },
+  {
+    "Extract Name": "Chamomile",
+    "Category": "Herbal Powder",
+    "ID": "P0445",
+    "Descirption": "A gentle herbal powder made from dried chamomile flowers. It is widely used to promote relaxation, relieve stress, and as a mild sleep aid. It also has properties that can help soothe digestive upset."
+  },
+  {
+    "Extract Name": "Skullcap",
+    "Category": "Herbal Powder",
+    "ID": "P0446",
+    "Descirption": "An herbal powder from the Scutellaria lateriflora plant. It is a traditional nervine tonic used to calm anxiety, ease nervous tension, and relieve restlessness."
+  },
+  {
+    "Extract Name": "Horsetail",
+    "Category": "Herbal Powder",
+    "ID": "P0447",
+    "Descirption": "A powder made from the horsetail plant, which is rich in silica. This mineral is essential for the health of hair, skin, and nails, and also plays a role in supporting strong bones and connective tissues."
+  },
+  {
+    "Extract Name": "Red Clover",
+    "Category": "Herbal Powder",
+    "ID": "P0448",
+    "Descirption": "Made from the flowering tops of the red clover plant, this powder is a rich source of isoflavones. It is commonly used by women to help manage symptoms of menopause, such as hot flashes and night sweats."
+  },
+  {
+    "Extract Name": "Black Cohosh",
+    "Category": "Herbal Powder",
+    "ID": "P0449",
+    "Descirption": "A powder made from the root of the black cohosh plant. It is a well-known herbal remedy primarily used to provide relief from menopausal symptoms, including hot flashes, mood swings, and sleep disturbances."
+  },
+  {
+    "Extract Name": "Chasteberry (Vitex)",
+    "Category": "Herbal Powder",
+    "ID": "P0450",
+    "Descirption": "A powder made from the fruit of the chaste tree. It is widely used to support female hormonal balance, help regulate the menstrual cycle, and alleviate symptoms of premenstrual syndrome (PMS)."
+  },
+  {
+    "Extract Name": "Neem",
+    "Category": "Herbal Powder",
+    "ID": "P0451",
+    "Descirption": "An Ayurvedic powder from the leaves of the neem tree. It is known for its powerful antibacterial, antiviral, and blood-purifying properties, and is often used to support healthy skin and a strong immune system."
+  },
+  {
+    "Extract Name": "Guggul",
+    "Category": "Herbal Powder",
+    "ID": "P0452",
+    "Descirption": "A powder made from the resin of the Commiphora wightii tree. In Ayurvedic medicine, it is traditionally used to support healthy cholesterol levels, manage inflammation, and promote joint health."
+  },
+  {
+    "Extract Name": "Boswellia",
+    "Category": "Herbal Powder",
+    "ID": "P0453",
+    "Descirption": "Also known as Indian Frankincense, this powder is made from the resin of the Boswellia serrata tree. It is highly valued for its potent anti-inflammatory properties and is commonly used to support joint comfort and mobility."
+  },
+  {
+    "Extract Name": "Arjuna",
+    "Category": "Herbal Powder",
+    "ID": "P0454",
+    "Descirption": "An Ayurvedic powder derived from the bark of the Terminalia arjuna tree. It is a renowned cardiotonic, traditionally used to support the health and proper functioning of the heart muscle and maintain healthy blood pressure."
+  },
+  {
+    "Extract Name": "Gymnema",
+    "Category": "Herbal Powder",
+    "ID": "P0455",
+    "Descirption": "An herbal powder from the leaves of the Gymnema sylvestre plant, often called the \"destroyer of sugar\" in Ayurveda. It is primarily used to help maintain healthy blood sugar levels and can reduce the perception of sweet tastes."
+  },
+  {
+    "Extract Name": "Bitter Melon",
+    "Category": "Herbal Powder",
+    "ID": "P0456",
+    "Descirption": "A powder made from the Momordica charantia fruit. It is used in traditional medicine across the world to help support healthy glucose metabolism and maintain blood sugar levels already within the normal range."
+  },
+  {
+    "Extract Name": "Garlic",
+    "Category": "Herbal Powder",
+    "ID": "P0457",
+    "Descirption": "Made from dehydrated and ground garlic cloves, this powder is used as a common seasoning. Medicinally, it is known for its ability to support cardiovascular health by helping to maintain healthy blood pressure and cholesterol levels, as well as for its immune-boosting properties."
+  },
+  {
+    "Extract Name": "Onion",
+    "Category": "Herbal Powder",
+    "ID": "P0458",
+    "Descirption": "A versatile culinary powder made from dehydrated onions. It provides a convenient way to add onion flavor to dishes and contains beneficial compounds like quercetin, a potent antioxidant."
+  },
+  {
+    "Extract Name": "Yarrow",
+    "Category": "Herbal Powder",
+    "ID": "P0459",
+    "Descirption": "A powder made from the leaves and flowers of the yarrow plant. Traditionally, it has been used to support circulation, aid digestion, and as an astringent to help stop minor bleeding."
+  },
+  {
+    "Extract Name": "Motherwort",
+    "Category": "Herbal Powder",
+    "ID": "P0460",
+    "Descirption": "An herbal powder from a plant in the mint family. It is traditionally used as a tonic to support both the heart and the nervous system, often used to calm anxiety and heart palpitations related to stress."
+  },
+  {
+    "Extract Name": "Damiana",
+    "Category": "Herbal Powder",
+    "ID": "P0461",
+    "Descirption": "A powder made from the leaves of the Turnera diffusa shrub. It has a long history of use as a natural aphrodisiac to support libido and sexual function, and also as a general tonic to promote relaxation."
+  },
+  {
+    "Extract Name": "Thyme",
+    "Category": "Herbal Powder",
+    "ID": "P0462",
+    "Descirption": "A powder made from dried thyme leaves. It has strong antiseptic properties and is commonly used to support respiratory health, particularly to help soothe coughs and congestion."
+  },
+  {
+    "Extract Name": "Oregano",
+    "Category": "Herbal Powder",
+    "ID": "P0463",
+    "Descirption": "A highly aromatic powder from dried oregano leaves, rich in the antimicrobial compounds carvacrol and thymol. It is a powerful antioxidant and is used to support immune and digestive health."
+  },
+  {
+    "Extract Name": "Sage",
+    "Category": "Herbal Powder",
+    "ID": "P0464",
+    "Descirption": "A powder made from dried sage leaves. It is traditionally used to support cognitive function, particularly memory, and is also known to help with symptoms of menopause like hot flashes."
+  },
+  {
+    "Extract Name": "Mullein",
+    "Category": "Herbal Powder",
+    "ID": "P0465",
+    "Descirption": "An herbal powder made from the leaves of the mullein plant. It is highly regarded as a respiratory tonic, used to soothe the respiratory tract and help clear congestion, making it beneficial for coughs and bronchitis."
+  },
+  {
+    "Extract Name": "Fennel",
+    "Category": "Herbal Powder",
+    "ID": "P0466",
+    "Descirption": "A powder ground from fennel seeds. It is a well-known digestive aid, commonly used to relieve gas, bloating, and indigestion by relaxing the muscles of the GI tract."
+  },
+  {
+    "Extract Name": "Coriander",
+    "Category": "Herbal Powder",
+    "ID": "P0467",
+    "Descirption": "Made from the ground seeds of the cilantro plant, this powder is a mild spice used in many cuisines. It is traditionally used to support digestion and has antioxidant properties."
+  },
+  {
+    "Extract Name": "Cumin",
+    "Category": "Herbal Powder",
+    "ID": "P0468",
+    "Descirption": "A powder made from the dried seed of the Cuminum cyminum plant. It is a popular spice known to aid in digestion by stimulating digestive enzymes and is also a good source of iron."
+  },
+  {
+    "Extract Name": "Cardamom",
+    "Category": "Herbal Powder",
+    "ID": "P0469",
+    "Descirption": "A fragrant powder made from the ground seeds of the cardamom plant. It is used to add a complex sweet and spicy flavor to foods and is traditionally used to soothe an upset stomach."
+  },
+  {
+    "Extract Name": "Clove",
+    "Category": "Herbal Powder",
+    "ID": "P0470",
+    "Descirption": "A highly aromatic powder ground from dried clove buds. It has one of the highest antioxidant values of any spice and contains eugenol, which provides natural analgesic and antiseptic properties."
+  },
+  {
+    "Extract Name": "Black Pepper",
+    "Category": "Herbal Powder",
+    "ID": "P0471",
+    "Descirption": "A ubiquitous spice made from ground dried peppercorns. Its active ingredient, piperine, is known to significantly enhance the absorption and bioavailability of many nutrients and has antioxidant properties of its own."
+  },
+  {
+    "Extract Name": "White Willow",
+    "Category": "Herbal Powder",
+    "ID": "P0472",
+    "Descirption": "A powder made from the bark of the white willow tree. It contains salicin, a compound similar to aspirin, and is used in herbal medicine as a natural remedy for pain, inflammation, and fever."
+  },
+  {
+    "Extract Name": "Kava",
+    "Category": "Herbal Powder",
+    "ID": "P0473",
+    "Descirption": "A powder made from the root of the Piper methysticum plant. It is traditionally consumed as a beverage in the Pacific Islands for its potent relaxing and anxiety-reducing (anxiolytic) effects."
+  },
+  {
+    "Extract Name": "Calamus",
+    "Category": "Herbal Powder",
+    "ID": "P0474",
+    "Descirption": "An Ayurvedic powder made from the root of the calamus plant. It is traditionally used to support cognitive function, promote mental clarity, and aid in digestive health."
+  },
+  {
+    "Extract Name": "Jiaogulan",
+    "Category": "Herbal Powder",
+    "ID": "P0475",
+    "Descirption": "Known as \"Southern Ginseng,\" this is a powder made from the leaves of the Gynostemma pentaphyllum plant. It is a powerful adaptogen used to promote longevity, reduce stress, and support overall health and vitality."
+  },
+  {
+    "Extract Name": "Elderberry",
+    "Category": "Herbal Powder",
+    "ID": "P0476",
+    "Descirption": "A powder made from dried elderberries. It is rich in antioxidants and vitamins and is widely used to boost the immune system and to help reduce the severity and duration of cold and flu symptoms."
+  },
+  {
+    "Extract Name": "Bilberry",
+    "Category": "Herbal Powder",
+    "ID": "P0477",
+    "Descirption": "A powder made from bilberries, a close relative of the blueberry. It is high in antioxidants called anthocyanins, which are known to support healthy vision, protect the eyes, and improve circulation."
+  },
+  {
+    "Extract Name": "Cranberry",
+    "Category": "Herbal Powder",
+    "ID": "P0478",
+    "Descirption": "A tart powder made from dried cranberries. It is most famous for its ability to support urinary tract health by preventing certain bacteria from adhering to the bladder wall."
+  },
+  {
+    "Extract Name": "Acai",
+    "Category": "Herbal Powder",
+    "ID": "P0479",
+    "Descirption": "A superfood powder made from freeze-dried acai berries from the Amazon. It is incredibly rich in antioxidants, which help combat free radical damage, and is also a source of healthy fats and fiber."
+  },
+  {
+    "Extract Name": "Shankhpushpi",
+    "Category": "Herbal Powder",
+    "ID": "P0480",
+    "Descirption": "A traditional Ayurvedic powder from the Convolvulus pluricaulis plant. It is highly regarded as a brain tonic (medhya rasayana) used to enhance memory, improve intellect, and calm the mind."
+  },
+  {
+    "Extract Name": "Manjistha",
+    "Category": "Herbal Powder",
+    "ID": "P0481",
+    "Descirption": "An Ayurvedic powder made from the root of the Rubia cordifolia plant. It is one of the most renowned blood purifiers in Ayurveda, used to support healthy skin, improve complexion, and aid in lymphatic system detoxification."
+  },
+  {
+    "Extract Name": "Vidanga",
+    "Category": "Herbal Powder",
+    "ID": "P0482",
+    "Descirption": "A powder from the fruit of the Embelia ribes plant, also known as false black pepper. In Ayurveda, it is primarily used for its antiparasitic properties, particularly for intestinal worms, and to support healthy digestion."
+  },
+  {
+    "Extract Name": "Celery",
+    "Category": "Herbal Powder",
+    "ID": "P0483",
+    "Descirption": "A powder made from dried celery or celery seeds. Celery seed powder is traditionally used for its diuretic properties and to help provide relief from joint pain associated with conditions like gout and arthritis."
+  },
+  {
+    "Extract Name": "Ashwagandha",
+    "Category": "Herbal extract",
+    "ID": "P0484",
+    "Descirption": "An adaptogenic herb from Ayurvedic medicine, extracted from the root of the Withania somnifera plant. It is primarily used to help the body manage stress, reduce anxiety, improve energy levels, and enhance cognitive function."
+  },
+  {
+    "Extract Name": "Turmeric",
+    "Category": "Herbal extract",
+    "ID": "P0485",
+    "Descirption": "Derived from the root of the Curcuma longa plant, this extract is standardized for its active compounds, curcuminoids. It is a powerful anti-inflammatory and antioxidant, used to support joint health, reduce inflammation, and promote overall wellness."
+  },
+  {
+    "Extract Name": "Ginkgo Biloba",
+    "Category": "Herbal extract",
+    "ID": "P0486",
+    "Descirption": "Extracted from the leaves of the Ginkgo biloba tree, one of the oldest living tree species. It is widely used to support brain health, improve memory and concentration, and enhance circulation, particularly to the brain and extremities."
+  },
+  {
+    "Extract Name": "Milk Thistle",
+    "Category": "Herbal extract",
+    "ID": "P0487",
+    "Descirption": "A concentrated extract from the seeds of the Silybum marianum plant, standardized for silymarin. It is renowned for its liver-protective (hepatoprotective) properties, supporting liver function, detoxification, and regeneration of liver cells."
+  },
+  {
+    "Extract Name": "Echinacea",
+    "Category": "Herbal extract",
+    "ID": "P0488",
+    "Descirption": "Derived from the flowers, leaves, and roots of the Echinacea purpurea or angustifolia plants. It is a popular herbal remedy used to stimulate the immune system and is often taken to help prevent or reduce the duration and severity of the common cold and flu."
+  },
+  {
+    "Extract Name": "Rhodiola",
+    "Category": "Herbal extract",
+    "ID": "P0489",
+    "Descirption": "An adaptogenic herb extracted from the root of the Rhodiola rosea plant. It is used to combat fatigue, improve physical and mental performance, and enhance the body's resistance to stress. It may also help with mood and concentration."
+  },
+  {
+    "Extract Name": "Panax Ginseng",
+    "Category": "Herbal extract",
+    "ID": "P0490",
+    "Descirption": "Extracted from the root of the Panax ginseng plant, this is a well-known adaptogen used in traditional Chinese medicine. It is taken to improve energy, stamina, mental clarity, and overall vitality, and to help the body cope with stress."
+  },
+  {
+    "Extract Name": "Bacopa",
+    "Category": "Herbal extract",
+    "ID": "P0491",
+    "Descirption": "Derived from the leaves of the Bacopa monnieri plant, an herb used in Ayurveda. It is known as a nootropic, primarily used to enhance cognitive functions such as memory, learning, and focus, and to reduce anxiety."
+  },
+  {
+    "Extract Name": "St. John's Wort",
+    "Category": "Herbal extract",
+    "ID": "P0492",
+    "Descirption": "An extract from the flowers of the Hypericum perforatum plant. It is most commonly used to support emotional well-being and is widely studied for its potential to alleviate symptoms of mild to moderate depression."
+  },
+  {
+    "Extract Name": "Saw Palmetto",
+    "Category": "Herbal extract",
+    "ID": "P0493",
+    "Descirption": "Derived from the berries of the Serenoa repens palm. It is primarily used to support prostate health and is a popular supplement for men experiencing symptoms of benign prostatic hyperplasia (BPH), such as frequent urination."
+  },
+  {
+    "Extract Name": "Valerian",
+    "Category": "Herbal extract",
+    "ID": "P0494",
+    "Descirption": "Extracted from the root of the Valeriana officinalis plant. It is a well-known sedative and sleep aid, used to promote relaxation, reduce the time it takes to fall asleep, and improve sleep quality without causing a \"hangover\" effect."
+  },
+  {
+    "Extract Name": "Green Tea",
+    "Category": "Herbal extract",
+    "ID": "P0495",
+    "Descirption": "A concentrated form of compounds from the leaves of the Camellia sinensis plant, rich in antioxidants called catechins, particularly EGCG. It is used to support metabolism for weight management, promote cardiovascular health, and provide antioxidant protection."
+  },
+  {
+    "Extract Name": "Elderberry",
+    "Category": "Herbal extract",
+    "ID": "P0496",
+    "Descirption": "Made from the dark purple berries of the Sambucus nigra tree. It is rich in antioxidants and vitamins and is widely used to boost the immune system and to help lessen the symptoms and duration of colds and flu."
+  },
+  {
+    "Extract Name": "Hawthorn",
+    "Category": "Herbal extract",
+    "ID": "P0497",
+    "Descirption": "Derived from the berries, leaves, and flowers of the Crataegus species. It has a long history of use as a heart tonic, supporting cardiovascular health, improving blood flow, and helping to maintain healthy blood pressure and cholesterol levels."
+  },
+  {
+    "Extract Name": "Ginger",
+    "Category": "Herbal extract",
+    "ID": "P0498",
+    "Descirption": "A concentrated form of the active compounds (gingerols) from the Zingiber officinale root. It is widely used to aid digestion, relieve nausea and motion sickness, and for its potent anti-inflammatory properties to help reduce pain and soreness."
+  },
+  {
+    "Extract Name": "Licorice",
+    "Category": "Herbal extract",
+    "ID": "P0499",
+    "Descirption": "Derived from the root of the Glycyrrhiza glabra plant. It is used to soothe gastrointestinal problems, support respiratory health by acting as an expectorant, and for its adrenal-supportive properties. Deglycyrrhizinated licorice (DGL) is often used for stomach issues."
+  },
+  {
+    "Extract Name": "Boswellia",
+    "Category": "Herbal extract",
+    "ID": "P0500",
+    "Descirption": "An extract from the resin of the Boswellia serrata tree, also known as Indian frankincense. It contains boswellic acids, which have strong anti-inflammatory effects. It is primarily used to support joint health and reduce pain and inflammation associated with arthritis."
+  },
+  {
+    "Extract Name": "Astragalus",
+    "Category": "Herbal extract",
+    "ID": "P0501",
+    "Descirption": "Derived from the root of the Astragalus membranaceus plant, an important herb in traditional Chinese medicine. It is an adaptogen used to enhance the immune system, protect the body against stress, and support cardiovascular health."
+  },
+  {
+    "Extract Name": "Holy Basil (Tulsi)",
+    "Category": "Herbal extract",
+    "ID": "P0502",
+    "Descirption": "Extracted from the leaves of the Ocimum sanctum plant, this herb is revered in Ayurvedic medicine. As an adaptogen, it helps the body cope with physical and emotional stress, supports the immune system, and promotes mental clarity."
+  },
+  {
+    "Extract Name": "Lion's Mane",
+    "Category": "Herbal extract",
+    "ID": "P0503",
+    "Descirption": "A medicinal mushroom extract from Hericium erinaceus. It is a well-known nootropic used to support brain and nerve health. It may stimulate the growth of nerve cells and is studied for its potential to improve cognitive function, memory, and focus."
+  },
+  {
+    "Extract Name": "Reishi Mushroom",
+    "Category": "Herbal extract",
+    "ID": "P0504",
+    "Descirption": "An extract from the Ganoderma lucidum mushroom, known as the \"mushroom of immortality.\" It is an adaptogen used to support the immune system, reduce stress, improve sleep quality, and promote overall vitality and longevity."
+  },
+  {
+    "Extract Name": "Cordyceps",
+    "Category": "Herbal extract",
+    "ID": "P0505",
+    "Descirption": "A medicinal mushroom extract from the Cordyceps sinensis or militaris species. It is traditionally used to improve energy, stamina, and athletic performance by enhancing oxygen utilization in the body. It also supports immune and respiratory health."
+  },
+  {
+    "Extract Name": "Schisandra",
+    "Category": "Herbal extract",
+    "ID": "P0506",
+    "Descirption": "Derived from the berries of the Schisandra chinensis vine. It is an adaptogen used in traditional Chinese medicine to increase resistance to stress, enhance physical performance, and support liver function and detoxification."
+  },
+  {
+    "Extract Name": "Grape Seed",
+    "Category": "Herbal extract",
+    "ID": "P0507",
+    "Descirption": "A concentrated extract from the seeds of grapes, which is a rich source of antioxidants, particularly proanthocyanidins. It is used to support cardiovascular health, improve circulation, protect cells from oxidative damage, and support skin health."
+  },
+  {
+    "Extract Name": "Bilberry",
+    "Category": "Herbal extract",
+    "ID": "P0508",
+    "Descirption": "A concentrated extract from the small, dark blue berries of the Vaccinium myrtillus plant, a relative of the blueberry. It is rich in antioxidants called anthocyanins and is most commonly used to support eye health and vision, particularly night vision."
+  },
+  {
+    "Extract Name": "Artichoke",
+    "Category": "Herbal extract",
+    "ID": "P0509",
+    "Descirption": "Derived from the leaves of the Cynara scolymus plant. It is used to support digestive health by stimulating bile production, which aids in fat digestion. It also supports liver health and may help maintain healthy cholesterol levels."
+  },
+  {
+    "Extract Name": "Lemon Balm",
+    "Category": "Herbal extract",
+    "ID": "P0510",
+    "Descirption": "An extract from the leaves of the Melissa officinalis plant, a member of the mint family. It is known for its calming properties and is used to reduce stress and anxiety, promote sleep, and improve cognitive function."
+  },
+  {
+    "Extract Name": "Passion flower",
+    "Category": "Herbal extract",
+    "ID": "P0511",
+    "Descirption": "Derived from the flowers, leaves, and stems of the Passiflora incarnata plant. It is used as a natural remedy for anxiety, nervousness, and insomnia due to its calming and mild sedative effects on the central nervous system."
+  },
+  {
+    "Extract Name": "Chamomile",
+    "Category": "Herbal extract",
+    "ID": "P0512",
+    "Descirption": "Extracted from the flowers of the Matricaria chamomilla plant. It is widely known for its calming and relaxing properties, commonly used to promote sleep, reduce anxiety, and soothe digestive discomfort."
+  },
+  {
+    "Extract Name": "Garlic",
+    "Category": "Herbal extract",
+    "ID": "P0513",
+    "Descirption": "A concentrated form of the compounds found in Allium sativum, typically standardized for allicin. It is widely used to support cardiovascular health by helping to maintain healthy blood pressure and cholesterol levels, and for its immune-boosting properties."
+  },
+  {
+    "Extract Name": "Eleuthero",
+    "Category": "Herbal extract",
+    "ID": "P0514",
+    "Descirption": "An adaptogenic herb extracted from the root of Eleutherococcus senticosus, also known as Siberian Ginseng. It is used to increase energy, reduce fatigue, enhance physical performance, and improve the body's resistance to stress."
+  },
+  {
+    "Extract Name": "Dong Quai",
+    "Category": "Herbal extract",
+    "ID": "P0515",
+    "Descirption": "Extracted from the root of the Angelica sinensis plant, this herb is often called \"female ginseng.\" In traditional Chinese medicine, it is used to support women's hormonal balance, regulate menstrual cycles, and alleviate symptoms of PMS and menopause."
+  },
+  {
+    "Extract Name": "Black Cohosh",
+    "Category": "Herbal extract",
+    "ID": "P0516",
+    "Descirption": "Derived from the root of the Actaea racemosa plant. It is a popular supplement for women's health, primarily used to relieve symptoms of menopause, such as hot flashes, night sweats, and mood swings."
+  },
+  {
+    "Extract Name": "Chasteberry (Vitex)",
+    "Category": "Herbal extract",
+    "ID": "P0517",
+    "Descirption": "An extract from the berries of the Vitex agnus-castus tree. It is widely used to support female reproductive health by helping to balance hormones, regulate menstrual cycles, and alleviate symptoms of premenstrual syndrome (PMS)."
+  },
+  {
+    "Extract Name": "Maca",
+    "Category": "Herbal extract",
+    "ID": "P0518",
+    "Descirption": "Derived from the root of the Lepidium meyenii plant, native to the Andes mountains. It is an adaptogen used to enhance energy, stamina, and endurance. It is also well-known for its ability to support libido and reproductive health in both men and women."
+  },
+  {
+    "Extract Name": "Tribulus",
+    "Category": "Herbal extract",
+    "ID": "P0519",
+    "Descirption": "An extract from the Tribulus terrestris plant. It is commonly used in supplements to support libido and sexual function in both men and women. It is also popular among athletes for its potential to support testosterone levels and enhance performance."
+  },
+  {
+    "Extract Name": "Olive Leaf",
+    "Category": "Herbal extract",
+    "ID": "P0520",
+    "Descirption": "Derived from the leaves of the olive tree (Olea europaea). It contains oleuropein, a powerful antioxidant with anti-inflammatory and antimicrobial properties. It is used to support the immune system and maintain cardiovascular health."
+  },
+  {
+    "Extract Name": "Gotu Kola",
+    "Category": "Herbal extract",
+    "ID": "P0521",
+    "Descirption": "An extract from the Centella asiatica plant, a staple in traditional Chinese and Ayurvedic medicine. It is used to support brain health, improve memory and cognitive function, and promote healthy skin by enhancing collagen production."
+  },
+  {
+    "Extract Name": "White Willow",
+    "Category": "Herbal extract",
+    "ID": "P0522",
+    "Descirption": "Derived from the bark of the Salix alba tree. It contains salicin, which is metabolized into salicylic acid in the body (the precursor to aspirin). It is used as a natural remedy for pain relief, particularly for headaches, back pain, and arthritis."
+  },
+  {
+    "Extract Name": "Devil's Claw",
+    "Category": "Herbal extract",
+    "ID": "P0523",
+    "Descirption": "Extracted from the root of the Harpagophytum procumbens plant, native to Southern Africa. It contains iridoid glycosides, which have anti-inflammatory and analgesic properties, making it a popular choice for relieving joint pain and arthritis."
+  },
+  {
+    "Extract Name": "Cat's Claw",
+    "Category": "Herbal extract",
+    "ID": "P0524",
+    "Descirption": "Derived from the bark of the Uncaria tomentosa vine, found in the Amazon rainforest. It is known for its immune-modulating and anti-inflammatory properties and is used to support the immune system and joint health."
+  },
+  {
+    "Extract Name": "Calendula",
+    "Category": "Herbal extract",
+    "ID": "P0525",
+    "Descirption": "An extract from the flowers of the Calendula officinalis plant, also known as marigold. It is primarily used topically for its anti-inflammatory, antimicrobial, and wound-healing properties to soothe skin irritations, rashes, and burns."
+  },
+  {
+    "Extract Name": "Dandelion",
+    "Category": "Herbal extract",
+    "ID": "P0526",
+    "Descirption": "Derived from the root or leaf of the Taraxacum officinale plant. The root is often used to support liver health and detoxification, while the leaf is used as a natural diuretic to help reduce water retention."
+  },
+  {
+    "Extract Name": "Nettle",
+    "Category": "Herbal extract",
+    "ID": "P0527",
+    "Descirption": "Extracted from the leaves or root of the Urtica dioica plant (Stinging Nettle). The leaf extract is used for its anti-inflammatory properties to help with allergies and joint pain, while the root extract is used to support prostate health."
+  },
+  {
+    "Extract Name": "Andrographis",
+    "Category": "Herbal extract",
+    "ID": "P0528",
+    "Descirption": "An extract from the Andrographis paniculata plant, known in Ayurvedic medicine as the \"King of Bitters.\" It has strong immune-boosting and anti-inflammatory properties and is used to fight colds, flu, and upper respiratory infections."
+  },
+  {
+    "Extract Name": "Cranberry",
+    "Category": "Herbal extract",
+    "ID": "P0529",
+    "Descirption": "A concentrated extract from the berries of the Vaccinium macrocarpon plant. It is rich in proanthocyanidins, which help prevent certain bacteria from adhering to the urinary tract walls, making it a popular supplement for preventing urinary tract infections (UTIs)."
+  },
+  {
+    "Extract Name": "Fennel",
+    "Category": "Herbal extract",
+    "ID": "P0530",
+    "Descirption": "Derived from the seeds of the Foeniculum vulgare plant. It is primarily used as a digestive aid to relieve gas, bloating, and indigestion. It also has a mild antispasmodic effect on the digestive tract."
+  },
+  {
+    "Extract Name": "Peppermint",
+    "Category": "Herbal extract",
+    "ID": "P0531",
+    "Descirption": "Extracted from the leaves of the Mentha piperita plant. It is commonly used to soothe digestive issues like indigestion and irritable bowel syndrome (IBS). It also has antispasmodic properties and can be used for headache relief."
+  },
+  {
+    "Extract Name": "Red Clover",
+    "Category": "Herbal extract",
+    "ID": "P0532",
+    "Descirption": "An extract from the flowering tops of the Trifolium pratense plant. It contains isoflavones, which are plant-based estrogens (phytoestrogens). It is primarily used to help relieve menopausal symptoms, particularly hot flashes."
+  },
+  {
+    "Extract Name": "Horny Goat Weed",
+    "Category": "Herbal extract",
+    "ID": "P0533",
+    "Descirption": "An extract from plants in the Epimedium genus. It is a traditional Chinese remedy used to support sexual health and libido in both men and women. Its active ingredient, icariin, is thought to improve blood flow."
+  },
+  {
+    "Extract Name": "Kava",
+    "Category": "Herbal extract",
+    "ID": "P0534",
+    "Descirption": "Derived from the root of the Piper methysticum plant. It is known for its relaxing and anxiety-reducing (anxiolytic) effects. It is used to promote calmness and relieve stress, anxiety, and insomnia."
+  },
+  {
+    "Extract Name": "Gymnema",
+    "Category": "Herbal extract",
+    "ID": "P0535",
+    "Descirption": "An extract from the leaves of the Gymnema sylvestre plant. In Ayurvedic medicine, it is known as the \"destroyer of sugar.\" It is used to help manage blood sugar levels and reduce sugar cravings."
+  },
+  {
+    "Extract Name": "Fenugreek",
+    "Category": "Herbal extract",
+    "ID": "P0536",
+    "Descirption": "Derived from the seeds of the Trigonella foenum-graecum plant. It is used to support healthy blood sugar and cholesterol levels. It is also commonly used by breastfeeding mothers to help increase milk production and by men to support testosterone levels."
+  },
+  {
+    "Extract Name": "Burdock",
+    "Category": "Herbal extract",
+    "ID": "P0537",
+    "Descirption": "Extracted from the root of the Arctium lappa plant. It is traditionally used as a blood purifier and detoxifying agent. It supports liver function and is also used for skin conditions like acne and eczema."
+  },
+  {
+    "Extract Name": "Chaga Mushroom",
+    "Category": "Herbal extract",
+    "ID": "P0538",
+    "Descirption": "An extract from the Inonotus obliquus mushroom, which grows on birch trees. It is a potent source of antioxidants and is used to support the immune system, reduce inflammation, and protect cells from oxidative damage."
+  },
+  {
+    "Extract Name": "Shatavari",
+    "Category": "Herbal extract",
+    "ID": "P0539",
+    "Descirption": "Derived from the root of the Asparagus racemosus plant, this is a key reproductive tonic for women in Ayurvedic medicine. It is an adaptogen used to support hormonal balance, enhance libido, and alleviate symptoms of PMS and menopause."
+  },
+  {
+    "Extract Name": "Thyme",
+    "Category": "Herbal extract",
+    "ID": "P0540",
+    "Descirption": "An extract from the leaves and flowers of the Thymus vulgaris plant. It contains thymol, which has strong antiseptic and antimicrobial properties. It is commonly used to support respiratory health, soothe coughs, and fight infections."
+  },
+  {
+    "Extract Name": "Mullein",
+    "Category": "Herbal extract",
+    "ID": "P0541",
+    "Descirption": "Derived from the leaves of the Verbascum thapsus plant. It is a well-regarded respiratory herb, used as an expectorant to help clear mucus from the lungs and to soothe irritation in the respiratory tract."
+  },
+  {
+    "Extract Name": "Cayenne",
+    "Category": "Herbal extract",
+    "ID": "P0542",
+    "Descirption": "A concentrated extract from the fruit of the Capsicum annuum plant, standardized for capsaicin. It is used to support circulation, boost metabolism, and for its analgesic properties in topical creams for pain relief."
+  },
+  {
+    "Extract Name": "Rosemary",
+    "Category": "Herbal extract",
+    "ID": "P0543",
+    "Descirption": "An extract from the leaves of the Rosmarinus officinalis plant. It is a rich source of antioxidants and is used to support cognitive function and memory, aid digestion, and reduce inflammation."
+  },
+  {
+    "Extract Name": "Barberry",
+    "Category": "Herbal extract",
+    "ID": "P0544",
+    "Descirption": "Derived from the root and bark of the Berberis vulgaris plant. Its primary active compound is berberine. It is used for its antimicrobial properties to fight infections and to support healthy blood sugar and cholesterol levels."
+  },
+  {
+    "Extract Name": "Oregon Grape",
+    "Category": "Herbal extract",
+    "ID": "P0545",
+    "Descirption": "Extracted from the root of the Mahonia aquifolium plant. Similar to Barberry, it contains berberine and is used for its antimicrobial and anti-inflammatory properties, particularly for skin conditions like psoriasis and acne."
+  },
+  {
+    "Extract Name": "Pygeum",
+    "Category": "Herbal extract",
+    "ID": "P0546",
+    "Descirption": "An extract from the bark of the Prunus africana tree. It is used primarily to support prostate health and to alleviate the symptoms of benign prostatic hyperplasia (BPH), such as frequent and difficult urination."
+  },
+  {
+    "Extract Name": "Pine Bark",
+    "Category": "Herbal extract",
+    "ID": "P0547",
+    "Descirption": "A standardized extract from the bark of the French maritime pine tree, Pinus pinaster. It is a potent source of antioxidants called proanthocyanidins and is used to support circulation, skin health, and joint health, and to reduce inflammation."
+  },
+  {
+    "Extract Name": "Coleus Forskohlii",
+    "Category": "Herbal extract",
+    "ID": "P0548",
+    "Descirption": "An extract from the root of the Coleus forskohlii plant, standardized for its active compound, forskolin. It is primarily used in weight management supplements for its potential to stimulate the release of stored fat from cells. It also supports cardiovascular health."
+  },
+  {
+    "Extract Name": "Bitter Melon",
+    "Category": "Herbal extract",
+    "ID": "P0549",
+    "Descirption": "Derived from the fruit of the Momordica charantia plant. It is traditionally used to help maintain healthy blood sugar levels and is a popular supplement for individuals looking to support glucose metabolism."
+  },
+  {
+    "Extract Name": "Uva Ursi",
+    "Category": "Herbal extract",
+    "ID": "P0550",
+    "Descirption": "Extracted from the leaves of the Arctostaphylos uva-ursi plant, also known as bearberry. It contains arbutin, which has antiseptic properties in the urinary tract. It is used as a short-term remedy for urinary tract infections (UTIs)."
+  },
+  {
+    "Extract Name": "Kudzu",
+    "Category": "Herbal extract",
+    "ID": "P0551",
+    "Descirption": "Derived from the root of the Pueraria lobata vine. In traditional Chinese medicine, it is used for a variety of purposes, including reducing alcohol cravings and managing symptoms of menopause."
+  },
+  {
+    "Extract Name": "Longjack (Tongkat Ali)",
+    "Category": "Herbal extract",
+    "ID": "P0552",
+    "Descirption": "An extract from the root of the Eurycoma longifolia plant. It is a well-known herbal remedy from Southeast Asia used to enhance libido, support healthy testosterone levels, and improve energy and athletic performance."
+  },
+  {
+    "Extract Name": "Celery Seed",
+    "Category": "Herbal extract",
+    "ID": "P0553",
+    "Descirption": "A concentrated form of compounds from the seeds of the Apium graveolens plant. It is traditionally used as a diuretic and to support joint health by helping to relieve symptoms of gout and arthritis due to its anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Pomegranate",
+    "Category": "Herbal extract",
+    "ID": "P0554",
+    "Descirption": "A concentrated extract from the fruit, peel, or seeds of the Punica granatum. It is a rich source of powerful antioxidants, such as punicalagins, and is used to support cardiovascular health, reduce inflammation, and promote overall cellular health."
+  },
+  {
+    "Extract Name": "Guggul",
+    "Category": "Herbal extract",
+    "ID": "P0555",
+    "Descirption": "An extract from the resin of the Commiphora mukul tree. In Ayurvedic medicine, it is used to support healthy cholesterol and triglyceride levels. It also has anti-inflammatory properties that can benefit joint health."
+  },
+  {
+    "Extract Name": "Skullcap",
+    "Category": "Herbal extract",
+    "ID": "P0556",
+    "Descirption": "An extract from the leaves of the Scutellaria lateriflora plant. It is a nerve tonic known for its calming properties and is used to relieve anxiety, nervous tension, and to promote sleep."
+  },
+  {
+    "Extract Name": "Damiana",
+    "Category": "Herbal extract",
+    "ID": "P0557",
+    "Descirption": "Derived from the leaves of the Turnera diffusa shrub. It has a long history of use as an aphrodisiac to boost libido and sexual function. It is also used for its relaxing and mood-enhancing effects."
+  },
+  {
+    "Extract Name": "Cinnamon",
+    "Category": "Herbal extract",
+    "ID": "P0558",
+    "Descirption": "A concentrated extract from the bark of Cinnamomum trees. It is well-known for its ability to help maintain healthy blood sugar levels by improving insulin sensitivity. It also has potent antioxidant and anti-inflammatory properties."
+  },
+  {
+    "Extract Name": "Horsetail",
+    "Category": "Herbal extract",
+    "ID": "P0559",
+    "Descirption": "An extract from the Equisetum arvense plant. It is a rich natural source of silica, a mineral essential for the health of bones, hair, skin, and nails. It is commonly used in supplements to strengthen connective tissues."
+  },
+  {
+    "Extract Name": "Sage",
+    "Category": "Herbal extract",
+    "ID": "P0560",
+    "Descirption": "An extract from the leaves of the Salvia officinalis plant. It is known for its cognitive-enhancing properties, potentially improving memory and alertness. It is also used to help reduce excessive sweating and menopausal hot flashes."
+  },
+  {
+    "Extract Name": "Clove",
+    "Category": "Herbal extract",
+    "ID": "P0561",
+    "Descirption": "A concentrated extract from the dried flower buds of the Syzygium aromaticum tree. It is a very potent antioxidant and has strong antimicrobial properties. It is also traditionally used as a natural analgesic for toothaches."
+  },
+  {
+    "Extract Name": "Cardamom ",
+    "Category": "Herbal extract",
+    "ID": "P0562",
+    "Descirption": "An extract from the seeds of the Elettaria cardamomum plant. It is traditionally used as a digestive aid to soothe indigestion, gas, and stomach cramps. It also has antioxidant and diuretic properties."
+  },
+  {
+    "Extract Name": "Black Pepper ",
+    "Category": "Herbal extract",
+    "ID": "P0563",
+    "Descirption": "A standardized extract from Piper nigrum, containing the active compound piperine. Its primary use in supplements is as a bioenhancer, as it can significantly increase the absorption and effectiveness of other nutrients and herbs, such as curcumin."
+  },
+  {
+    "Extract Name": "Moringa ",
+    "Category": "Herbal extract",
+    "ID": "P0564",
+    "Descirption": "Derived from the leaves of the Moringa oleifera tree, also known as the \"drumstick tree.\" It is a nutrient-dense superfood, rich in vitamins, minerals, and antioxidants. It is used to reduce inflammation, support energy levels, and provide antioxidant protection."
+  },
+  {
+    "Extract Name": "Amla (Indian \r\nGooseberry) ",
+    "Category": "Herbal extract",
+    "ID": "P0565",
+    "Descirption": "An extract from the Emblica officinalis fruit. It is one of the richest natural sources of Vitamin C and is a powerful antioxidant. In Ayurveda, it is used to support the immune system, aid digestion, and promote healthy hair and skin."
+  },
+  {
+    "Extract Name": "Mangosteen",
+    "Category": "Herbal extract",
+    "ID": "P0566",
+    "Descirption": "An extract from the pericarp (rind) of the Garcinia mangostana fruit. The rind is a unique and rich source of antioxidants called xanthones, which have potent anti-inflammatory properties. It is used to combat oxidative stress and support immune health."
+  },
+  {
+    "Extract Name": "Triphala ",
+    "Category": "Herbal extract",
+    "ID": "P0567",
+    "Descirption": "A traditional Ayurvedic herbal formulation consisting of a combination of three fruits: Amalaki, Bibhitaki, and Haritaki. It is a gentle yet effective formula used to support digestive health, promote regular bowel movements, and aid in detoxification."
+  },
+  {
+    "Extract Name": "Saffron ",
+    "Category": "Herbal extract",
+    "ID": "P0568",
+    "Descirption": "An extract from the stigmas of the Crocus sativus flower. It is a prized spice known for its ability to support mood and emotional well-being, reduce symptoms of anxiety and depression, and help control appetite and cravings."
+  },
+  {
+    "Extract Name": "Caralluma",
+    "Category": "Herbal extract",
+    "ID": "P0569",
+    "Descirption": "An extract from the Caralluma fimbriata cactus. It has been traditionally used in India to suppress hunger and enhance endurance. It is a popular ingredient in weight management supplements for its appetite-suppressing properties."
+  },
+  {
+    "Extract Name": "Hops ",
+    "Category": "Herbal extract",
+    "ID": "P0570",
+    "Descirption": "An extract from the flowers of the Humulus lupulus plant. While best known for flavoring beer, hops have sedative properties and are used in herbal medicine to relieve anxiety, tension, and insomnia, often in combination with valerian."
+  },
+  {
+    "Extract Name": "Red Raspberry Leaf ",
+    "Category": "Herbal extract",
+    "ID": "P0571",
+    "Descirption": "An extract from the leaves of the Rubus idaeus plant. It is a well-known uterine tonic in women's health, used to strengthen the uterus, ease menstrual discomfort, and prepare the womb for childbirth."
+  },
+  {
+    "Extract Name": "Rose Hips ",
+    "Category": "Herbal extract",
+    "ID": "P0572",
+    "Descirption": "An extract from the fruit of the rose plant (Rosa canina). It is an excellent natural source of Vitamin C and other antioxidants. It is used to boost the immune system and for its anti-inflammatory properties, particularly for relieving joint pain from arthritis."
+  },
+  {
+    "Extract Name": "Arjuna ",
+    "Category": "Herbal extract",
+    "ID": "P0573",
+    "Descirption": "An extract from the bark of the Terminalia arjuna tree. In Ayurvedic medicine, it is considered a premier heart tonic. It is used to support cardiovascular health, strengthen the heart muscle, and maintain healthy blood pressure."
+  },
+  {
+    "Extract Name": "Marshmallow",
+    "Category": "Herbal extract",
+    "ID": "P0574",
+    "Descirption": "Derived from the root of the Althaea officinalis plant. It is a demulcent herb, rich in mucilage, which creates a soothing, protective coating over mucous membranes. It is used to soothe sore throats, coughs, and digestive tract irritation."
+  },
+  {
+    "Extract Name": "Slippery Elm ",
+    "Category": "Herbal extract",
+    "ID": "P0575",
+    "Descirption": "An extract from the inner bark of the Ulmus rubra tree. Like marshmallow root, it is a demulcent high in mucilage. It is used to soothe sore throats, coughs, and gastrointestinal conditions like acid reflux and irritable bowel syndrome (IBS)."
+  },
+  {
+    "Extract Name": "Motherwort ",
+    "Category": "Herbal extract",
+    "ID": "P0576",
+    "Descirption": "An extract from the Leonurus cardiaca plant. It is traditionally used as a heart and nerve tonic. It helps to calm anxiety and nervous tension, particularly when associated with heart palpitations, and can also help with menstrual and menopausal discomfort."
+  },
+  {
+    "Extract Name": "Yarrow ",
+    "Category": "Herbal extract",
+    "ID": "P0577",
+    "Descirption": "An extract from the flowers of the Achillea millefolium plant. It has a long history of use for wound healing due to its styptic (stops bleeding) and antimicrobial properties. It is also used to support digestion and relieve menstrual cramps."
+  },
+  {
+    "Extract Name": "Wild Yam ",
+    "Category": "Herbal extract",
+    "ID": "P0578",
+    "Descirption": "An extract from the root of the Dioscorea villosa plant. It contains diosgenin, a phytoestrogen that can be chemically converted to hormones like progesterone. It is traditionally used to support women's health, particularly for menstrual cramps and menopausal symptoms."
+  },
+  {
+    "Extract Name": " American Ginseng ",
+    "Category": "Herbal extract",
+    "ID": "P0579",
+    "Descirption": "An extract from the root of the Panax quinquefolius plant. It is considered more calming and less stimulating than Panax (Asian) Ginseng. It is used to help the body manage stress, boost the immune system, and improve mental clarity and energy levels."
+  },
+  {
+    "Extract Name": "Goji (Wolfberry)",
+    "Category": "Herbal extract",
+    "ID": "P0580",
+    "Descirption": "A concentrated extract from the Lycium barbarum fruit. Goji berries are a nutrient-dense superfood rich in antioxidants, particularly ze"
+  },
+  {
+    "Extract Name": "Calcium Powder ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0581",
+    "Descirption": "An essential mineral supplement vital for building and maintaining strong bones and teeth. Calcium also plays a crucial role in nerve transmission, muscle function, and blood clotting."
+  },
+  {
+    "Extract Name": "Magnesium Powder ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0582",
+    "Descirption": "A fundamental mineral supplement involved in over 300 biochemical reactions in the body. It supports muscle and nerve function, energy production, bone health, and helps regulate blood pressure."
+  },
+  {
+    "Extract Name": "Iron Powder ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0583",
+    "Descirption": "An essential trace mineral supplement crucial for the formation of hemoglobin, the protein in red blood cells that carries oxygen throughout the body. It is vital for energy production and preventing anemia."
+  },
+  {
+    "Extract Name": "Zinc Powder",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0584",
+    "Descirption": "A vital trace mineral supplement that plays a key role in immune function, wound healing, protein synthesis, and cell division. Zinc is also important for a healthy sense of taste and smell."
+  },
+  {
+    "Extract Name": "Sunflower seed Extract  \r\n",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0585",
+    "Descirption": "A plant-based extract derived from sunflower seeds. It is a natural source of various minerals, particularly magnesium, selenium, and copper, as well as vitamin E and healthy fats."
+  },
+  {
+    "Extract Name": "Mustard seed Extract  \r\nPowder",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0586",
+    "Descirption": "A powder extracted from mustard seeds, which are a natural source of essential minerals, most notably selenium and magnesium. It also contains antioxidants that support overall health."
+  },
+  {
+    "Extract Name": "Bamboo Extract Powder \r\n",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0587",
+    "Descirption": "A natural extract from the bamboo plant, prized for being one of the richest natural sources of silica. Silica is an important trace mineral that supports the health of hair, skin, nails, and bones by aiding in collagen production."
+  },
+  {
+    "Extract Name": "Iodine Powder ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0588",
+    "Descirption": "An essential trace mineral supplement that is critical for the healthy function of the thyroid gland. The thyroid gland uses iodine to produce hormones that regulate metabolism and support development."
+  },
+  {
+    "Extract Name": "Chromium Extract ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0589",
+    "Descirption": "A trace mineral supplement, often derived from natural sources. Chromium is best known for its role in enhancing the action of insulin, thereby supporting healthy blood sugar metabolism."
+  },
+  {
+    "Extract Name": "Manganese Powder ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0590",
+    "Descirption": "An essential trace mineral supplement that acts as a cofactor for many enzymes. It is important for bone formation, metabolism of carbohydrates and fats, and protecting cells from oxidative damage."
+  },
+  {
+    "Extract Name": "Vitamin B1 Powder 4%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0591",
+    "Descirption": "A 4% concentration of Vitamin B1 (Thiamine) in powder form. This essential vitamin is crucial for energy metabolism, helping the body convert food into usable energy. It also plays a key role in nerve, muscle, and heart function."
+  },
+  {
+    "Extract Name": "Vitamin B2 Powder 5%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0592",
+    "Descirption": "A 5% concentration of Vitamin B2 (Riboflavin) in powder form. Vitamin B2 is vital for energy production, cellular growth, and the metabolism of fats, drugs, and steroids. It also helps maintain healthy skin, eyes, and nerve function."
+  },
+  {
+    "Extract Name": "Vitamin B3 Powder 3.6%\r\nNiacin",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0593",
+    "Descirption": "A powder containing 3.6% Vitamin B3 (Niacin). Niacin is essential for converting food into energy and is important for the health of the nervous system, digestive system, and skin."
+  },
+  {
+    "Extract Name": "Vitamin B5 Powder 5%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0594",
+    "Descirption": "A 5% concentration of Vitamin B5 (Pantothenic Acid) in powder form. This vitamin is critical for making red blood cells and sex and stress-related hormones. It is also essential for energy metabolism and synthesizing cholesterol."
+  },
+  {
+    "Extract Name": "Vitamin B6 Powder 4%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0595",
+    "Descirption": "A 4% concentration of Vitamin B6 (Pyridoxine) in powder form. Vitamin B6 is involved in over 100 enzyme reactions, primarily related to protein metabolism. It is also important for brain development and immune function."
+  },
+  {
+    "Extract Name": "Biotin Powder 0.25% \r\nBiotin",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0596",
+    "Descirption": "A powder containing 0.25% Biotin (also known as Vitamin B7). Biotin is essential for metabolizing carbohydrates, fats, and proteins. It is widely known for its role in strengthening hair, skin, and nails."
+  },
+  {
+    "Extract Name": "Biotin Powder 0.5% \r\nBiotin",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0597",
+    "Descirption": "A powder containing 0.5% Biotin (Vitamin B7). Biotin plays a vital role in energy metabolism and is renowned for supporting the health and strength of hair, skin, and nails."
+  },
+  {
+    "Extract Name": "Biotin Powder 2% \r\nBiotin",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0598",
+    "Descirption": "A 2% concentration of Biotin (Vitamin B7) in powder form. This higher concentration is used to support metabolic health and is a key ingredient in products aimed at improving the health of hair, skin, and nails."
+  },
+  {
+    "Extract Name": "Vitamin B9 Powder 5% \r\nFolic Acid",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0599",
+    "Descirption": "A powder containing 5% Vitamin B9 as Folic Acid. Folic Acid is crucial for proper cell growth and development. It is especially important during pregnancy to prevent birth defects of the brain and spine."
+  },
+  {
+    "Extract Name": "Vitamin B12 Powder \r\n10%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0600",
+    "Descirption": "A 0.1% concentration of Vitamin B12 (Cobalamin) in powder form. Vitamin B12 is essential for nerve function and the formation of DNA and red blood cells. It helps prevent megaloblastic anemia, a condition that makes people tired and weak."
+  },
+  {
+    "Extract Name": "Vitamin B12 Powder \r\n0.2%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0601",
+    "Descirption": "A 0.2% concentration of Vitamin B12 (Cobalamin) in powder form. This essential vitamin is crucial for maintaining the health of nerve cells and is vital for the production of red blood cells and DNA synthesis."
+  },
+  {
+    "Extract Name": "Vitamin B Complex \r\nBlend Powder",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0602",
+    "Descirption": "A comprehensive powder blend containing multiple B vitamins. This blend is formulated to support energy production, nervous system health, and metabolic function, providing a synergistic effect of the various B vitamins working together."
+  },
+  {
+    "Extract Name": "Multimineral Blend \r\nPowder    ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0603",
+    "Descirption": "A custom powder blend of various essential minerals. This formulation is designed to support overall health, including bone strength, nerve function, and metabolic processes, by providing a balanced spectrum of key minerals."
+  },
+  {
+    "Extract Name": "Vitamin C 12% ",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0604",
+    "Descirption": "A preparation containing 12% Vitamin C (Ascorbic Acid). Vitamin C is a powerful antioxidant that is essential for immune system function, collagen synthesis for healthy skin, and wound healing."
+  },
+  {
+    "Extract Name": "Vitamin C Powder 25%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0605",
+    "Descirption": "A powder with a 25% concentration of Vitamin C (Ascorbic Acid). This potent antioxidant supports the immune system, promotes healthy skin by aiding collagen production, and helps protect cells from oxidative damage."
+  },
+  {
+    "Extract Name": "Vitamin C Powder 50%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0606",
+    "Descirption": "A high-concentration powder containing 50% Vitamin C (Ascorbic Acid). It is used for strong immune support, superior antioxidant protection, and is a key component in maintaining the health of skin, cartilage, and blood vessels."
+  },
+  {
+    "Extract Name": "Betacarotene Powder 2% \r\n",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0607",
+    "Descirption": "A powder containing 2% Beta-carotene. Beta-carotene is a precursor to Vitamin A (provitamin A) and an antioxidant. It is essential for healthy vision, immune function, and skin health."
+  },
+  {
+    "Extract Name": "Betacarotene Powder 4% \r\n",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0608",
+    "Descirption": "A 4% concentration of Beta-carotene in powder form. As a precursor to Vitamin A, it supports vision, immune health, and cellular growth. Its antioxidant properties help protect the body from free radical damage."
+  },
+  {
+    "Extract Name": "Vitamin E Powder Blend \r\nSF 500IU, 1000IU",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0609",
+    "Descirption": "A sugar-free (SF) powder blend of Vitamin E, available in 500IU and 1000IU potencies. Vitamin E is a fat-soluble antioxidant that helps protect cells from damage caused by free radicals and supports immune function."
+  },
+  {
+    "Extract Name": "Vitamin E Powder Blend \r\nSO 500IU, 1000IU",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0610",
+    "Descirption": "A sunflower oil-based (SO) powder blend of Vitamin E, available in 500IU and 1000IU strengths. This antioxidant is crucial for protecting cells from oxidative stress and supporting skin health and immune function."
+  },
+  {
+    "Extract Name": "Vitamin K2-MK7 Blend \r\nPowder 500ppm",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0611",
+    "Descirption": "A powder blend containing 500 parts-per-million of Vitamin K2 as Menaquinone-7 (MK-7). Vitamin K2 is essential for directing calcium to the bones and teeth and away from arteries, thus supporting both skeletal and cardiovascular health."
+  },
+  {
+    "Extract Name": "Lycopene Powder 2%, \r\n10%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0612",
+    "Descirption": "A powder containing either 2% or 10% Lycopene. Lycopene is a powerful carotenoid antioxidant found in red fruits like tomatoes. It is known for its role in supporting prostate health and protecting the skin from sun damage."
+  },
+  {
+    "Extract Name": "Lutein Powder 10%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0613",
+    "Descirption": "A 10% concentration of Lutein in powder form. Lutein is a carotenoid antioxidant that is concentrated in the macula of the eye. It helps protect vision by filtering harmful blue light and reducing the risk of age-related macular degeneration."
+  },
+  {
+    "Extract Name": "Omega-6 Fatty Acids 2% \r\n",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0614",
+    "Descirption": "A powder containing 2% Omega-6 fatty acids. These are essential polyunsaturated fats, typically from plant sources, that are important for brain function, skin and hair growth, and maintaining bone health."
+  },
+  {
+    "Extract Name": "Omega-3 Fatty Acids \r\n10%",
+    "Category": "Vitamin and Minerals",
+    "ID": "P0615",
+    "Descirption": "A powder providing a 10% concentration of Omega-3 fatty acids. These essential fats, often from sources like algae or flaxseed, are renowned for their anti-inflammatory properties and support for cardiovascular, brain, and joint health."
+  }
+]
