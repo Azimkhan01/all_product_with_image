@@ -15,21 +15,6 @@
     "images": []
   },
   {
-    "Extract Name": "Cinnamon (Ceylon)",
-    "Botanical Name": "Cinnamomum verum",
-    "Part Used": "Bark",
-    "Typical Extraction Ratio": "Cinnamaldehyde",
-    "Active Compound": "1% - 2%",
-    "Primary Benefit": "Helps regulate blood sugar, antioxidant, anti-inflammatory. (Lower in coumarin).",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Herbal Powder",
-    "id": "P0394",
-    "images": []
-  },
-  {
     "Extract Name": "Camu Camu",
     "Botanical Name": "Myrciaria dubia",
     "Part Used": "Fruit",
@@ -72,21 +57,6 @@
     "Appearance": "25kg",
     "category_name": "Herbal Powder",
     "id": "P0441",
-    "images": []
-  },
-  {
-    "Extract Name": "Passion flower",
-    "Botanical Name": "Passiflora incarnata",
-    "Part Used": "Aerial Parts",
-    "Typical Extraction Ratio": "Flavonoids",
-    "Active Compound": "N/A",
-    "Primary Benefit": "Calming nervine; reduces anxiety and supports restful sleep.",
-    "Category": "53bcb1a7-d565-4dc2-b2e7-e33f44f75436",
-    "Unit in Order": "kg",
-    "Package Size": "1 kg",
-    "Appearance": "25kg",
-    "category_name": "Herbal Powder",
-    "id": "P0443",
     "images": []
   },
   {

@@ -1,0 +1,93 @@
+Q. why app.js ?
+google script ko pehle update karna 
+
+code sript code :-
+    // in do get you have to run this
+    function doGet() {
+  const ROOT_FOLDER_ID = '1ZlO2gTIhu85N642TNQt4xMOUyaNiiy-9'; // Root "Products" folder
+  const rootFolder = DriveApp.getFolderById(ROOT_FOLDER_ID);
+  const result = {};
+
+  const mainFolders = rootFolder.getFolders();
+
+  while (mainFolders.hasNext()) {
+    const mainFolder = mainFolders.next();
+    const mainFolderName = mainFolder.getName();
+    result[mainFolderName] = [];
+
+    const subfolders = mainFolder.getFolders();
+    let hasSubfolders = false;
+
+    while (subfolders.hasNext()) {
+      hasSubfolders = true;
+      const subfolder = subfolders.next();
+      const subfolderName = subfolder.getName();
+      const images = [];
+
+      const files = subfolder.getFiles();
+      while (files.hasNext()) {
+        const file = files.next();
+        if (file.getMimeType().startsWith("image/")) {
+          const fileId = file.getId();
+          images.push({
+            small: `https://drive.google.com/thumbnail?id=${fileId}&sz=w200`,
+            medium: `https://drive.google.com/thumbnail?id=${fileId}&sz=w600`,
+            large: `https://drive.google.com/thumbnail?id=${fileId}&sz=w1000`
+          });
+        }
+      }
+
+      result[mainFolderName].push({
+        nam: subfolderName, // your JSON key for subfolder name
+        images: images
+      });
+    }
+
+    // If no subfolders, get images directly from main folder
+    if (!hasSubfolders) {
+      const images = [];
+      const files = mainFolder.getFiles();
+      while (files.hasNext()) {
+        const file = files.next();
+        if (file.getMimeType().startsWith("image/")) {
+          const fileId = file.getId();
+          images.push({
+            small: `https://drive.google.com/thumbnail?id=${fileId}&sz=w200`,
+            medium: `https://drive.google.com/thumbnail?id=${fileId}&sz=w600`,
+            large: `https://drive.google.com/thumbnail?id=${fileId}&sz=w1000`
+          });
+        }
+      }
+
+      result[mainFolderName].push({
+        nam: "Main",
+        images: images
+      });
+    }
+  }
+
+  return ContentService
+    .createTextOutput(JSON.stringify(result, null, 2))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+
+app.js mein do code hai pehle ek use hota hai thumbnail format mein image link provide karne keliye dusra execute format mein 
+after getting all the getting it is save in file name photo.JSON
+
+note:- remove /n from the category name
+
+Q. script.js kya karta hai
+ans > yeh file all_product.json or photo.json ko merge karta hai or All_Products_WithImages.json file banata hai
+
+Q.index.js ?
+ans>file humlog botanix.xlxs data ko json format mein lane ke liye kartay hai or yeh All_products.json banata hai 
+
+Q.noimage.js ?
+yeh humlog jiska image nahi hai All_Products_WithImages.json file mein usko All_Products_WithoutImages.json mein deta hai
+
+Q.description.js
+ans> yeh description.xlxs ko merge karta hai or All_Products_WithDescription.hjson deta hai 
+
+Q.onetimeUpdate.js
+ans> yeh extratct name mein prefix lagane ke lioye use kiya tha for herbal extract powder and fruit extract keliye
+
