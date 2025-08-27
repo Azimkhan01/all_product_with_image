@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Read the product and photo JSON files
-const products = JSON.parse(fs.readFileSync('All_Products.json', 'utf-8'));
+const products = JSON.parse(fs.readFileSync('All_Products_WithDescriptions.json', 'utf-8'));
 const photos = JSON.parse(fs.readFileSync('photo.json', 'utf-8'));
 
 const newdata = products.map((data) => {
